@@ -1,0 +1,146 @@
+{
+  "success": true,
+  "query": "dental clinic in Manila",
+  "started": "2026-10-06T15:22:30.488947",
+  "finished": "2026-10-06T15:25:48.240632",
+  "scraped_count": 6,
+  "skipped_known": 0,
+  "enriched_count": 2,
+  "leads": [
+    {
+      "input_id": "f96d92dd-e32d-4722-aec2-a2b20c15a3fc",
+      "link": "https://www.google.com/maps/place/Lumina+Dental+Clinic/data=!4m7!3m6!1s0x3397c9006c97c341:0xdcef1c04f4051a17!8m2!3d14.5880649!4d120.9976292!16s%2Fg%2F11nq1z2s7r!19sChIJQcOXbADJlzMRFxoF9AQc79w?authuser=0&hl=en&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "title": "Lumina Dental Clinic",
+      "category": "Dental clinic",
+      "address": "1676 M Guazon, Paco, Manila, Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"9 AM–6 PM\"],\"Monday\":[\"9 AM–6 PM\"],\"Saturday\":[\"9 AM–6 PM\"],\"Sunday\":[\"9 AM–6 PM\"],\"Thursday\":[\"9 AM–6 PM\"],\"Tuesday\":[\"9 AM–6 PM\"],\"Wednesday\":[\"9 AM–6 PM\"]}",
+      "popular_times": "{}",
+      "website": "https://www.facebook.com/profile.php?id=61582508733698",
+      "phone": "+63 945 186 6145",
+      "plus_code": "HXQX+63 Manila, Metro Manila, Philippines",
+      "review_count": "21",
+      "review_rating": "5.000000",
+      "reviews_per_rating": "{\"1\":0,\"2\":0,\"3\":0,\"4\":1,\"5\":20}",
+      "latitude": "14.588065",
+      "longitude": "120.997629",
+      "cid": "15919974015377414679",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkIYhydkCIqaww5zUqxNgjKPWf-e7CDQyelSb5L-8RJJCrm7hZIWiJboR8-C8DYZfjPctNwWgEVKzivTm6NfKPpnuuD0XMzHcuAZo3_h9vSNK4ZtjesQPvS6ZzIT-c4_fqmESX-kOjToCTk=w408-h886-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397c9006c97c341:0xdcef1c04f4051a17",
+      "street_view_url": "",
+      "place_id": "ChIJQcOXbADJlzMRFxoF9AQc79w",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"112952626041358182783\",\"name\":\"Lumina Dental Clinic (Owner)\",\"link\":\"https://www.google.com/maps/contrib/112952626041358182783\"}",
+      "complete_address": "{\"borough\":\"Paco\",\"street\":\"1676 M Guazon\",\"city\":\"Manila\",\"postal_code\":\"\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"Darius Forio\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjX9mRIrUqscRf-jwwiV64vYj_65pkY6E7maAFw8nZvizOpCJcsQ=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Clean and comfortable clinic! The staff made me feel at ease and explained everything well. I had a great experience with my treatment last day. Equipment was modern, and the place was very hygienic. Highly recommend👌\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/ACvplmMPQC3Ymafxc_blltgoXH_eYcrxuF9T7aR1MjLwzg2h5f0eVkxEsGMxla9htP8dD1h7mE8nwFHtZ_78-QmL54BvZpWXZgHru7yLuCPb6NLsuX6icnw6b1rXC3QPZSEpBU6LCgEU3JGCpaNP=k-no\"],\"When\":\"a month ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xJemFVSmxSRVJDYjFwaGExZG5URzA1UzNKeE5WRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/116390307588924657043/reviews?hl=en-US\",\"posted_at_unix_micros\":1786861361778359,\"updated_at_unix_micros\":1786861361778359,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Clean and comfortable clinic! The staff made me feel at ease and explained everything well. I had a great experience with my treatment last day. Equipment was modern, and the place was very hygienic. Highly recommend👌\",\"text_translated\":\"\",\"published_at\":\"2026-08-16T06:22:41.778359Z\"},{\"Name\":\"Kenneth Rey Recio\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjWzsvvYD7DWpY_xGh9gEYgOlguyFxY6BtXjfbx13OoMdhtUVNi3=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Had a pleasant experience at this dental clinic! The dentists and staff are very accommodating and welcoming. They take the time to answer all your questions and make sure you feel comfortable throughout the process. Would definitely come back and would highly recommend this clinic to everyone! ☺️\",\"Images\":null,\"When\":\"a month ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2psUVMzSlJPSFZMYURKR1lUQnlWME50YUZwMVptYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/112723487070872642138/reviews?hl=en-US\",\"posted_at_unix_micros\":1787886322197208,\"updated_at_unix_micros\":1787886322197208,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Had a pleasant experience at this dental clinic! The dentists and staff are very accommodating and welcoming. They take the time to answer all your questions and make sure you feel comfortable throughout the process. Would definitely come back and would highly recommend this clinic to everyone! ☺️\",\"text_translated\":\"\",\"published_at\":\"2026-08-28T03:05:22.197208Z\"},{\"Name\":\"Sheryl Arcillas\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXFg0wXs5eUL7oFvlxQH0UuInK8jP0umPqlOsW_u1rD5T7Klg=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Thank you po for the amazing experience with friendly budget yet gave me a very quality service. Made me feel comfortable and help me bring back the confidence to smile😊\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/ACvplmMb3hXRlAikrv4OaWgy0p8qG5tu2keROavlTpjlkdy6WwMgyFIO6gfK2Oqe2nydjFZAugSwRNbZlGlQL7iznk3NMw0ENTTK0Z4Bqa78HH6iG5ZEfWqrHW9mMAMOZzXL-OKyrCeL1VLDEuU=k-no\"],\"When\":\"2 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT25CcVlrMXFVSEZ1UW5sZkxXNWhRbGQyY1ZkR2FVRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/115541200878724390028/reviews?hl=en-US\",\"posted_at_unix_micros\":1785922758529706,\"updated_at_unix_micros\":1785922758529706,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Thank you po for the amazing experience with friendly budget yet gave me a very quality service. Made me feel comfortable and help me bring back the confidence to smile😊\",\"text_translated\":\"\",\"published_at\":\"2026-08-05T09:39:18.529706Z\"},{\"Name\":\"Aljan Quilates\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJaAL8r4Q7kCcrM1l7jNvZJpNuN1P8FUSxoTa6DIODdGpvqhQ=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"The clinic is clean and cozy. The staff is very nice, and they made me feel comfortable. Overall, their service is great and highly commendable.\",\"Images\":null,\"When\":\"a month ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2kxRmVVRmpaSFJDVkZSeFVrNWFjRTAzVVhabmRIYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/115186088835475311067/reviews?hl=en-US\",\"posted_at_unix_micros\":1787128541339126,\"updated_at_unix_micros\":1787128541339126,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"The clinic is clean and cozy. The staff is very nice, and they made me feel comfortable. Overall, their service is great and highly commendable.\",\"text_translated\":\"\",\"published_at\":\"2026-08-19T08:35:41.339126Z\"},{\"Name\":\"Lillan Roldan\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUEKSmDGI5Rhl3ym_QnP3GtxmHj4meUCEAW8YrhGtycT4_Ggr-DpA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Very nice dental clinic, friendly , accomodating Doctors and staff.\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/ACvplmNi97HnAXD7HKi9rknrgj6WIhTctH-QGlrgGtRAZxInudD9Jh0VqMA_EJt1O4kQJl6BNq2pOH71k97C5EkCZExAo9T2CKCY3hJz4KRNxShOqKlYr0cJ7Oh9KLf-WKF5fgstRG_hK_WQAx2t=k-no\"],\"When\":\"6 days ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2paalozWXhabmRIY0Y5VmMyUjJka0pEUWtGRlVHYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/106941457368067988801/reviews?hl=en-US\",\"posted_at_unix_micros\":1790771414648530,\"updated_at_unix_micros\":1790771414648530,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Very nice dental clinic, friendly , accomodating Doctors and staff.\",\"text_translated\":\"\",\"published_at\":\"2026-09-30T12:30:14.64853Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [],
+      "audit": {
+        "problems": [
+          {
+            "issue": "Relying solely on a social media profile instead of a dedicated business website.",
+            "impact": "Limits brand credibility, search engine visibility, and control over customer data and user experience.",
+            "severity": "high"
+          },
+          {
+            "issue": "Profile restricted by login wall or lacking public indexing (redirects to login/canonical login).",
+            "impact": "Potential customers without a Facebook account cannot view business information, services, or contact details.",
+            "severity": "high"
+          }
+        ],
+        "opportunities": [
+          "Develop a fully responsive, dedicated business website with local SEO optimization.",
+          "Integrate clear calls-to-action (CTAs) for lead generation and direct customer inquiries.",
+          "Implement structured data (Schema.org) to improve search engine presence and local map listings."
+        ],
+        "summary": "The business currently utilizes a Facebook profile as its primary web presence, which severely restricts public visibility due to login barriers and lacks the professionalism and functionality of a dedicated website.",
+        "url": "https://www.facebook.com/profile.php?id=61582508733698",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick thought on Lumina Dental Clinic's online presence",
+        "body": "Hi there,\n\nI was looking into Lumina Dental Clinic this morning and noticed you're currently using a Facebook profile as your main online hub. \n\nBecause Facebook requires a login to view much of its content, potential patients without an account are hitting a wall when trying to check your hours, services, or contact info. It also means you miss out on Google search traffic from people looking for local dental care.\n\nWe put together a quick, clean draft of what a dedicated website could look like for Lumina—giving you total ownership and making it effortless for new patients to find you.\n\nWould it be useful if I sent the live demo over?",
+        "provider": "gemini"
+      }
+    },
+    {
+      "input_id": "f96d92dd-e32d-4722-aec2-a2b20c15a3fc",
+      "link": "https://www.google.com/maps/place/A.+Dent+Dental+Clinic+-+Makati+City/data=!4m7!3m6!1s0x3397c9fd3b470259:0x2de9547c4631182d!8m2!3d14.5664618!4d121.0286093!16s%2Fg%2F11q8s1hhsr!19sChIJWQJHO_3JlzMRLRgxRnxU6S0?authuser=0&hl=en&g_ep=EgoyMDI2MDkzMC4wIJJjKgBIAVAD&rclk=1",
+      "title": "A. Dent Dental Clinic - Makati City",
+      "category": "Dental clinic",
+      "address": "Unit 1206, A. Dent Dental Clinic - Makati City, Centuria Medical Makati, General Luna, Barangay Poblacion, Makati City, 1214 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"8 AM–5 PM\"],\"Monday\":[\"8 AM–5 PM\"],\"Saturday\":[\"8 AM–5 PM\"],\"Sunday\":[\"8 AM–5 PM\"],\"Thursday\":[\"8 AM–5 PM\"],\"Tuesday\":[\"8 AM–5 PM\"],\"Wednesday\":[\"8 AM–5 PM\"]}",
+      "popular_times": "{}",
+      "website": "https://www.adentdentalclinicph.com/",
+      "phone": "+63 995 144 9731",
+      "plus_code": "H28H+HC Makati City, Metro Manila, Philippines",
+      "review_count": "95",
+      "review_rating": "4.900000",
+      "reviews_per_rating": "{\"1\":3,\"2\":0,\"3\":0,\"4\":1,\"5\":91}",
+      "latitude": "14.566462",
+      "longitude": "121.028609",
+      "cid": "3308268294010640429",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlBvlQzK00lAIRWyObXesRHiTjsolnfUORXvSEOPFHZ2Uh-GJpXEBlAhc2n2k0_e8YjyUE-LrIaSeHSDDEWOntg6zQZ3vmZq1DvTd8DnU3Ge02BQVf4g3Bo7_aSyG5tOTn52-Y=w408-h334-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397c9fd3b470259:0x2de9547c4631182d",
+      "street_view_url": "",
+      "place_id": "ChIJWQJHO_3JlzMRLRgxRnxU6S0",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "[{\"link\":\"https://www.adentdentalclinicph.com/\",\"source\":\"adentdentalclinicph.com\"}]",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"117029686787447983788\",\"name\":\"A. Dent Dental Clinic - Makati City (Owner)\",\"link\":\"https://www.google.com/maps/contrib/117029686787447983788\"}",
+      "complete_address": "{\"borough\":\"Barangay Poblacion\",\"street\":\"Unit 1206, Centuria Medical Makati, General Luna\",\"city\":\"Makati City\",\"postal_code\":\"1214\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "[{\"id\":\"accessibility\",\"name\":\"Accessibility\",\"options\":[{\"name\":\"Wheelchair accessible restroom\",\"enabled\":true},{\"name\":\"Wheelchair accessible seating\",\"enabled\":true}]}]",
+      "user_reviews": "[{\"Name\":\"lorenzo filart\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjWq0a7uX0SAieMnkMF35inRjLtiNJCp2YYl_fF_ttzSrTZFe9G79Q=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I had a great experience at this dental clinic. They helped address my bleeding gums and did a thorough teeth cleaning. The dentist also gave me helpful advice on how to properly take care of my teeth. The staff and dentist were very kind and made me feel comfortable throughout the visit. Highly recommended!\",\"Images\":null,\"When\":\"5 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT210NlNsRnhPV3RUWDFOVlREbE9kMlZ6UVZkQldWRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/109397406854875405611/reviews?hl=en-US\",\"posted_at_unix_micros\":1775704829253196,\"updated_at_unix_micros\":1775704829253196,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I had a great experience at this dental clinic. They helped address my bleeding gums and did a thorough teeth cleaning. The dentist also gave me helpful advice on how to properly take care of my teeth. The staff and dentist were very kind and made me feel comfortable throughout the visit. Highly recommended!\",\"text_translated\":\"\",\"published_at\":\"2026-04-09T03:20:29.253196Z\"},{\"Name\":\"Ma elisa Dumlao\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjWNZX4YhtkDGhbJFt60i8UpZLeYHALo0lUUE9h_laPHNksnTEyH=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"I am so happy with my experience at this dental clinic, especially with Dr. Joey! I came in for wisdom teeth removal (both at once!), and goodness, I was out of the clinic within an hour. The procedure was quick, efficient, and surprisingly smooth.\\n\\nThe best part? Thanks to Dr. Joey’s expertise, I had ZERO swelling or pain once the anesthesia wore off a for the entire week of post care. I know results can vary case by case, but mine was genuinely excellent,no issues at all during recovery.\\n\\nI highly recommend this dental clinic to anyone nervous about dental work. The kind staff and talented doctors completely made my fear of dentists disappear. Can’t wait to come back for my next procedure!\\n\\nThank you so much, Dr. Joey and the whole team, you’re amazing! 🙌\",\"Images\":null,\"When\":\"6 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT25Rd1VXTTFZa1pYV0ROdVpHOUlkVWN3WmtwQ1pXYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/116759373616278567702/reviews?hl=en-US\",\"posted_at_unix_micros\":1773320389844754,\"updated_at_unix_micros\":1773320389844754,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I am so happy with my experience at this dental clinic, especially with Dr. Joey! I came in for wisdom teeth removal (both at once!), and goodness, I was out of the clinic within an hour. The procedure was quick, efficient, and surprisingly smooth.\\n\\nThe best part? Thanks to Dr. Joey’s expertise, I had ZERO swelling or pain once the anesthesia wore off a for the entire week of post care. I know results can vary case by case, but mine was genuinely excellent,no issues at all during recovery.\\n\\nI highly recommend this dental clinic to anyone nervous about dental work. The kind staff and talented doctors completely made my fear of dentists disappear. Can’t wait to come back for my next procedure!\\n\\nThank you so much, Dr. Joey and the whole team, you’re amazing! 🙌\",\"text_translated\":\"\",\"published_at\":\"2026-03-12T12:59:49.844754Z\"},{\"Name\":\"Berna Diestro\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVi6yB6P35tihUaxKjO1b5rBcevPe9ubbj-GHzNFTsjh2MAV3Q=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"Thank you, Doc Joey and the whole team, for the excellent care and service. If you’re looking for a trusted dentist, I definitely recommend them! 💯👏\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/ACvplmNTVeXVmIN-WyLb3m_tyLsuuufj9LsPAYUiGmHN1AonkuRj11jtWQJKGWAfCypbRXsfLpkuTJAKHiyItNzwI0L5FM9NicCSHI7IkhhED_L4c-7ETG9RXrMVkoluKw0Z0bOk2ctA2iE4gN8L=k-no\",\"https://lh3.googleusercontent.com/grass-cs/ACvplmPZrUH7U0UkLUgjlH40lIb4J1V41P2lJpr9MiPNkdw5guHEm3JycGdVdTcMWApMk4nZrrVTnO2NSqEUWLfIbg5iTX0SFA-iJsRB0UwO7NjzMxDHDl_ucZt-2SDppVvnii0OfxPg1wwBw9I=k-no\",\"https://lh3.googleusercontent.com/grass-cs/ACvplmPdNQlW7Bc0aMpbTEEri1jWePII27wTF9xkFEBFE8SM-ryBREfFPAPzm-nhhh6-jKDO-sG6zu94XA8AaN7I_S1S_TO8cfK8CHafJG88O17EzGDPdrlYuVDlpYKNdX9YNLIsgJ-NCIn1lFWM=k-no\"],\"When\":\"3 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT25kc05UTkpUbmxvYTIwd2JuYzRSRXRvZFZVM1VGRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/109953475741756199203/reviews?hl=en-US\",\"posted_at_unix_micros\":1781460787697986,\"updated_at_unix_micros\":1781460787697986,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Thank you, Doc Joey and the whole team, for the excellent care and service. If you’re looking for a trusted dentist, I definitely recommend them! 💯👏\",\"text_translated\":\"\",\"reply_text_original\":\"Thank you so much for your kind words and recommendation!  It means a lot to Doc Joey and our entire team to know that you were happy with your experience at A. Dent Dental Clinic. \\n\\nWe truly appreciate your trust and support, and we look forward to seeing you again on your next visit!\\n\",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1788073825000000,\"reply_updated_at_unix_micros\":1788073825000000,\"published_at\":\"2026-06-14T18:13:07.697986Z\"},{\"Name\":\"Pegah Ameri\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocIw4oMZvYG24iGfnuM0GupFyY23rW6vWlIc6HmsBtofaDHIrw=s120-c-rp-mo-br100\",\"Rating\":1,\"Description\":\"I would NOT recommend this clinic. They wasted my time twice. The first time, they scheduled me for a root canal, but when I arrived, the root canal doctor wasn’t even there. The second time, I was in contact with them until just 10 minutes before my appointment, yet they failed to inform me about the issue.\\n\\nVery unprofessional appointment management and extremely disappointing customer service. Based on my experience, I would strongly recommend choosing another dental clinic.\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/ACvplmP6HnZEdSF-1I0lnyoM5ESYJyxQsQ9gWQT_TGnjYVGLu9PAJ2dnXjZZzxcaPMurB9v7pJDNnBaY9I3_zZqagOqWUaTuc1kOCIhH4HjukKIn7bCurHw-hbNVXPNydpYseqLChqzXCdIwUzu6=k-no\"],\"When\":\"a month ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2pCNWRVbE9NRXROYVRGTmFHSmFOa040VUZWU1JYYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":1,\"author_url\":\"https://www.google.com/maps/contrib/117756509305733559108/reviews?hl=en-US\",\"posted_at_unix_micros\":1788054704097312,\"updated_at_unix_micros\":1788054704097312,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I would NOT recommend this clinic. They wasted my time twice. The first time, they scheduled me for a root canal, but when I arrived, the root canal doctor wasn’t even there. The second time, I was in contact with them until just 10 minutes before my appointment, yet they failed to inform me about the issue.\\n\\nVery unprofessional appointment management and extremely disappointing customer service. Based on my experience, I would strongly recommend choosing another dental clinic.\",\"text_translated\":\"\",\"reply_text_original\":\"We would like to clarify the circumstances for the benefit of our patients and colleagues.\\n\\nDuring the first visit, we informed her that root canal treatment was a possible treatment option; however, the root canal procedure itself was not scheduled to be performed during that appointment.  Ms. Pegah Ameri was informed during the time of appointment booking that the schedule was for a check-up/ consultation only. Our team waited approximately 45 minutes before starting the consultation during the visit due to the patient's personal concerns. Despite the delay and the succeeding patient's scheduled appointment, we continued with the consultation, completed the necessary assessment, and assisted her with the panoramic X-ray. Her husband also requested a treatment plan for his own dental case, despite not having been clinically assessed by the doctor.\\n\\nFor the second appointment, which was scheduled for the root canal procedure, our clinic sent reminders requesting that she arrive on time to avoid cancellation of the appointment. We were subsequently informed that she would be approximately 30 minutes late, and our team waited for her arrival. She ultimately arrived more than 50 minutes after her scheduled appointment time. As the scheduled procedure was expected to take more than an hour, proceeding with treatment at that point would have significantly affected the appointment of the patient scheduled after her. We therefore made the decision not to proceed with the procedure and informed her accordingly by message prior to her arrival. When Ms. Ameri arrived, our staff attempted to explain the situation. However, our staffs were subjected to inappropriate and disrespectful remarks during the interaction, despite their attempts to explain the situation. Despite the cancellation of the dental procedure, our team prepared the requested treatment plan and was prepared to assist them further, but we were unable to do so under the circumstances.\\n\\nWe understand that traffic, weather conditions, and other unforeseen circumstances can cause delays, and we regret any inconvenience this may have caused. At the same time, we ask for the same consideration for our doctors, staff, and other patients, whose appointments are also scheduled in advance and arrive on time.\\n\\nWe remain committed to providing our patients with professional care, clear communication, and proper appointment management. As previously communicated, we also fulfilled our commitment to process your request for the refund and provide the requested radiographs.\\n\\nWe respect every patient's right to share their experience and provide feedback. We only hope that the circumstances are presented accurately and in their proper context.\\n\",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1788060893000000,\"reply_updated_at_unix_micros\":1788060893000000,\"published_at\":\"2026-08-30T01:51:44.097312Z\"},{\"Name\":\"Edward Yu\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUXGXVIbHHSekK96NaL66urHrEy6I2ZDP-0F7vpd4HnHa4FVZij=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Great clinic with excellent service! I’ve been searching for the best clinic in the city, and I finally found it here. Doc Alex was very thorough and explained everything clearly during my teeth filling. The staff were accommodating and hands-on.\\n\\nDefinitely worth it—beyond what I expected!\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/ACvplmPZNl1hfZq0o5rw_amPQ4BqX-blYAfKOgxE23xwIHKPTSbnAyt9vQJ04MJ_4OlwUP8RP_8GeQkpB3XuoHYWkWFQOgVzU7v5kf6Uab1I-R6jm_7C8ptgxJh0toSfhZdIy2x7bOZFvVy7tUwy=k-no\"],\"When\":\"a year ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2pRd1ZHVmhla3B2TUdKSlUydEhWV2syWm5kbllVRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/115207829206100402786/reviews?hl=en-US\",\"posted_at_unix_micros\":1756006607036254,\"updated_at_unix_micros\":1756007547728116,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Great clinic with excellent service! I’ve been searching for the best clinic in the city, and I finally found it here. Doc Alex was very thorough and explained everything clearly during my teeth filling. The staff were accommodating and hands-on.\\n\\nDefinitely worth it—beyond what I expected!\",\"text_translated\":\"\",\"published_at\":\"2025-08-24T03:36:47.036254Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [
+        "a.dentdcph@gmail.com"
+      ],
+      "audit": {
+        "problems": [
+          {
+            "issue": "Heavy reliance on JavaScript-rendered content via Wix framework, which may delay initial page rendering and impact Core Web Vitals if not properly optimized.",
+            "impact": "Potential drop in search engine ranking and user frustration due to slower load times on mobile devices.",
+            "severity": "medium"
+          },
+          {
+            "issue": "Lack of server-side rendered (SSR) meta tags and structured data visible in the truncated HTML payload for local dental SEO optimization.",
+            "impact": "Reduced visibility in local search results (Google Maps/Local Pack), missing out on high-intent nearby patients.",
+            "severity": "high"
+          }
+        ],
+        "opportunities": [
+          "Implement LocalBusiness schema markup to enhance Google Maps and local search snippet visibility.",
+          "Add prominent call-to-action (CTA) elements such as online booking or click-to-call buttons above the fold to improve patient conversion rates.",
+          "Ensure image assets served via static.wixstatic.com utilize modern formats like WebP or AVIF with responsive sizing for faster mobile loading."
+        ],
+        "summary": "The website is built on Wix and effectively loads necessary polyscripts, but lacks visible SEO optimizations and performance structures in the initial HTML document. Focusing on local schema markup, conversion rate optimization, and speed will drive more appointment bookings.",
+        "url": "https://www.adentdentalclinicph.com/",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick thought on A. Dent Dental Clinic's local search visibility",
+        "body": "Hi there,\n\nI was looking at A. Dent Dental Clinic's site while researching Makati practices and noticed your Wix setup is missing a few server-side SEO tags and local schema markup in the initial HTML.\n\nBecause of that, Google Maps and local search packs might be missing out on showing you to nearby patients actively looking for a dentist.\n\nWe actually put together a quick, improved version of the layout focusing on speed and local bookings to see what it could look like.\n\nWould it be useful if I sent it over?\n\nBest,\n[Your Name]",
+        "provider": "gemini"
+      }
+    }
+  ],
+  "store_stats": {
+    "new": 6
+  }
+}
