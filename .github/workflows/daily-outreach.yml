@@ -42,6 +42,13 @@ jobs:
           sudo mv gmaps-scraper /usr/local/bin/google-maps-scraper
           google-maps-scraper --help | head -5 || echo "binary installed"
 
+
+      - name: Install Email Extractor
+        run: |
+          curl -sL https://raw.githubusercontent.com/kevincobain2000/email_extractor/master/install.sh | sudo bash
+          sudo mv email_extractor /usr/local/bin/ 2>/dev/null || true
+          which email_extractor || echo "WARN: email_extractor not found"
+
       - name: Run Day Agent (scrape + audit + draft)
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
