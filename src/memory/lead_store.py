@@ -5,7 +5,7 @@ import json
 from datetime import datetime
 from typing import Any, Dict, List, Optional
 
-DATA_DIR = os.path.join(os.getcwd(), "data")
+DATA_DIR = os.path.join(os.getcwd(), "output")
 DB_PATH = os.path.join(DATA_DIR, "leads.db")
 
 

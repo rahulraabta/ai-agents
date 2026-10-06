@@ -12,7 +12,7 @@ from src.agents.email_writer import write_outreach_email
 from src.memory.lead_store import LeadStore, _extract_domain
 
 logger = logging.getLogger(__name__)
-DATA_DIR = os.path.join(os.getcwd(), "data")
+DATA_DIR = os.path.join(os.getcwd(), "output")
 
 
 class DayAgent:
