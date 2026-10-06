@@ -42,7 +42,6 @@ jobs:
           sudo mv gmaps-scraper /usr/local/bin/google-maps-scraper
           google-maps-scraper --help | head -5 || echo "binary installed"
 
-
       - name: Install Email Extractor
         run: |
           curl -sL https://raw.githubusercontent.com/kevincobain2000/email_extractor/master/install.sh | sudo bash
@@ -64,6 +63,29 @@ jobs:
           IMAP_PASS: ${{ secrets.IMAP_PASS }}
           FROM_NAME: ${{ secrets.FROM_NAME }}
         run: python test_day_agent.py
+
+      - name: Run Outreach Agent (send emails)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          AGENT_ROUTER_KEY: ${{ secrets.AGENT_ROUTER_KEY }}
+          MOCK_MODE: 'true'
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          FROM_NAME: ${{ secrets.FROM_NAME }}
+        run: python test_outreach.py
+
+      - name: Run Reply Monitor (check inbox)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          AGENT_ROUTER_KEY: ${{ secrets.AGENT_ROUTER_KEY }}
+          MOCK_MODE: 'true'
+          IMAP_HOST: ${{ secrets.IMAP_HOST }}
+          IMAP_PORT: ${{ secrets.IMAP_PORT }}
+          IMAP_USER: ${{ secrets.IMAP_USER }}
+          IMAP_PASS: ${{ secrets.IMAP_PASS }}
+        run: python test_reply_monitor.py
 
       - name: Commit and push results
         run: |
