@@ -1,0 +1,106 @@
+{
+  "success": true,
+  "query": "dental clinic in Manila",
+  "started": "2026-10-06T06:13:48.927543",
+  "finished": "2026-10-06T06:13:51.503693",
+  "scraped_count": 6,
+  "skipped_known": 0,
+  "enriched_count": 2,
+  "leads": [
+    {
+      "title": "Bright Dental Clinic 5777",
+      "address": "100 Main St, Quezon City, Philippines",
+      "phone": "+63 2 85777 0000",
+      "website": "https://clinic5777.com.ph",
+      "review_rating": "4.7",
+      "review_count": "489",
+      "email": "info@clinic5777.com.ph",
+      "query": "dental clinic in Manila",
+      "audit": {
+        "url": "https://clinic5777.com.ph",
+        "business_type": "dental clinic in Manila",
+        "problems": [
+          {
+            "issue": "No online booking system",
+            "impact": "Lost appointments after hours",
+            "severity": "high"
+          },
+          {
+            "issue": "Missing mobile viewport meta tag",
+            "impact": "Poor mobile experience",
+            "severity": "medium"
+          },
+          {
+            "issue": "No schema.org LocalBusiness markup",
+            "impact": "Lower Google Maps visibility",
+            "severity": "medium"
+          }
+        ],
+        "opportunities": [
+          "Add AI chatbot for patient FAQs",
+          "Integrate calendar-based booking",
+          "Add patient review widget"
+        ],
+        "summary": "Site lacks online booking and mobile optimization. High potential for AI-driven appointment automation."
+      },
+      "emails": [
+        "info@clinic5777.com.ph",
+        "contact@clinic5777.com.ph"
+      ],
+      "outreach": {
+        "subject": "Quick thought on Bright Dental Clinic 5777's mobile site",
+        "body": "Hi there,\n\nI came across Bright Dental Clinic 5777 while looking at local practices in Manila, and I really appreciate the clean, welcoming feel of your site.\n\nI did notice a couple of things that might be making it tough for patients trying to book on their phones. Right now, the mobile layout doesn't quite scale to fit smaller screens properly, and since there's no online booking system yet, you might be missing out on folks looking to schedule appointments after hours.\n\nWe actually put together a quick, revamped version of your mobile site complete with a simple booking flow just to see how it could look. \n\nWould it be useful if I sent the link over?\n\nWarmly,\n\n[Your Name]",
+        "provider": "gemini"
+      }
+    },
+    {
+      "title": "Pearl Dental Clinic 5778",
+      "address": "101 Main St, Cebu City, Philippines",
+      "phone": "+63 2 85778 0000",
+      "website": "https://clinic5778.com.ph",
+      "review_rating": "4.8",
+      "review_count": "496",
+      "email": "info@clinic5778.com.ph",
+      "query": "dental clinic in Manila",
+      "audit": {
+        "url": "https://clinic5778.com.ph",
+        "business_type": "dental clinic in Manila",
+        "problems": [
+          {
+            "issue": "No online booking system",
+            "impact": "Lost appointments after hours",
+            "severity": "high"
+          },
+          {
+            "issue": "Missing mobile viewport meta tag",
+            "impact": "Poor mobile experience",
+            "severity": "medium"
+          },
+          {
+            "issue": "No schema.org LocalBusiness markup",
+            "impact": "Lower Google Maps visibility",
+            "severity": "medium"
+          }
+        ],
+        "opportunities": [
+          "Add AI chatbot for patient FAQs",
+          "Integrate calendar-based booking",
+          "Add patient review widget"
+        ],
+        "summary": "Site lacks online booking and mobile optimization. High potential for AI-driven appointment automation."
+      },
+      "emails": [
+        "info@clinic5778.com.ph",
+        "contact@clinic5778.com.ph"
+      ],
+      "outreach": {
+        "subject": "Quick thought on clinic5778.com.ph",
+        "body": "Hi there,\n\nI was looking at Pearl Dental Clinic's site and noticed it's missing a mobile optimization tag, making it a bit tricky for patients browsing on their phones to read or navigate easily.\n\nAlso, without an online booking option, you're likely missing out on appointments from folks trying to book after hours.\n\nWe put together a quick, revamped version of your site featuring a seamless booking flow to show you how it could look.\n\nWould it be useful if I sent it over?\n\nBest,\n\nYour Name",
+        "provider": "gemini"
+      }
+    }
+  ],
+  "store_stats": {
+    "new": 2
+  }
+}
