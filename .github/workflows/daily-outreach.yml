@@ -32,11 +32,20 @@ jobs:
           pip install --upgrade "google-genai>=1.0.0"
           python -c "from google import genai; print('google-genai OK:', genai.__version__)"
 
+      - name: Install Google Maps Scraper
+        run: |
+          LATEST=$(curl -s https://api.github.com/repos/gosom/google-maps-scraper/releases/latest | grep -oP '"tag_name": "\K[^"]+')
+          echo "Installing version: $LATEST"
+          wget -q "https://github.com/gosom/google-maps-scraper/releases/download/${LATEST}/google-maps-scraper-linux-amd64"
+          chmod +x google-maps-scraper-linux-amd64
+          sudo mv google-maps-scraper-linux-amd64 /usr/local/bin/google-maps-scraper
+          google-maps-scraper --version || echo "binary installed (version flag may not exist)"
+
       - name: Run Day Agent (scrape + audit + draft)
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           AGENT_ROUTER_KEY: ${{ secrets.AGENT_ROUTER_KEY }}
-          MOCK_MODE: 'true'
+          MOCK_MODE: 'false'
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
           SMTP_USER: ${{ secrets.SMTP_USER }}
