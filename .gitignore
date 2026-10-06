@@ -6,3 +6,4 @@ data/*.json
 logs/
 .codex/
 token-pruner/
+output/*.local-backup
