@@ -54,15 +54,35 @@ class LeadScraperTool(BaseTool):
 
     def _run_real_scraper(self, query: str, max_results: int) -> List[Dict]:
         os.makedirs(DATA_DIR, exist_ok=True)
+        # The new scraper expects -input to be a FILE containing queries (one per line)
+        query_file = os.path.join(DATA_DIR, "queries.txt")
         output_file = os.path.join(DATA_DIR, "scrape_raw.csv")
-        cmd = ["google-maps-scraper", "-input", query, "-results", output_file, "-depth", "1", "-email"]
+
+        # Write the query to the input file
+        with open(query_file, "w", encoding="utf-8") as f:
+            f.write(query + "\n")
+
+        # Adjust concurrency based on available resources
+        # GitHub Actions 2-core runner: use -c 1 to stay safe
+        cmd = [
+            "google-maps-scraper",
+            "-input", query_file,
+            "-results", output_file,
+            "-depth", "1",
+            "-email",
+            "-c", "1",
+            "-exit-on-inactivity", "2m",
+        ]
         subprocess.run(cmd, check=True, timeout=600, capture_output=True)
+
+        # Read results
         leads = []
-        with open(output_file, "r", encoding="utf-8") as f:
-            for row in csv.DictReader(f):
-                leads.append(row)
-                if len(leads) >= max_results:
-                    break
+        if os.path.exists(output_file):
+            with open(output_file, "r", encoding="utf-8") as f:
+                for row in csv.DictReader(f):
+                    leads.append(row)
+                    if len(leads) >= max_results:
+                        break
         return leads
 
     def run(self, **kwargs) -> Dict[str, Any]:
