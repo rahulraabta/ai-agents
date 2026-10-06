@@ -54,6 +54,8 @@ class EmailExtractorTool(BaseTool):
 
     def _mock_emails(self, url: str) -> List[str]:
         domain = url.replace("https://", "").replace("http://", "").split("/")[0]
+        if domain.startswith("www."):
+            domain = domain[4:]
         return [f"info@{domain}", f"contact@{domain}"]
 
     def run(self, **kwargs) -> Dict[str, Any]:
