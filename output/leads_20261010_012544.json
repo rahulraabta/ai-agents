@@ -1,0 +1,149 @@
+{
+  "success": true,
+  "query": "dental clinic in Manila",
+  "started": "2026-10-10T01:23:42.987319",
+  "finished": "2026-10-10T01:25:44.757586",
+  "scraped_count": 6,
+  "skipped_known": 0,
+  "enriched_count": 2,
+  "leads": [
+    {
+      "input_id": "a89ff410-4bf6-4b60-8b7d-f1106e88c8e7",
+      "link": "https://www.google.com/maps/place/Smile+%26+Style+Dental+Clinic/data=!4m7!3m6!1s0x3397c9f8a7716ce5:0xa470f983f4482291!8m2!3d14.6046463!4d120.987697!16s%2Fg%2F11c1pm1v1r!19sChIJ5Wxxp_jJlzMRkSJI9IP5cKQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAwNy4wIJJjKgBIAVAD&rclk=1",
+      "title": "Smile & Style Dental Clinic",
+      "category": "Dental clinic",
+      "address": "7, Smile & Style Dental Clinic, 913 Nicanor Reyes St, Sampaloc, Manila, 1008 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"9 AM–6 PM\"],\"Monday\":[\"9 AM–6 PM\"],\"Saturday\":[\"9 AM–6 PM\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 AM–6 PM\"],\"Tuesday\":[\"9 AM–6 PM\"],\"Wednesday\":[\"9 AM–6 PM\"]}",
+      "popular_times": "{}",
+      "website": "https://m.facebook.com/smileandstyledentalclinic/",
+      "phone": "+63 916 472 3386",
+      "plus_code": "JX3Q+V3 Manila, Metro Manila, Philippines",
+      "review_count": "20",
+      "review_rating": "4.800000",
+      "reviews_per_rating": "{\"1\":1,\"2\":0,\"3\":0,\"4\":0,\"5\":19}",
+      "latitude": "14.604646",
+      "longitude": "120.987697",
+      "cid": "11849244964746175121",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOg2GpadN5mhYiSm-DqyraU12Bb_5DULS9r1Hb1iiM72qHUz3sUTNRCVsp77I1QGeJ1c_6oteRZfcubmyWRO3vAwBuPanrMiRJVzjzHx4p3vtA8mBx0bjkKfP_ELMO6HmAnCx12tQ=w408-h544-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397c9f8a7716ce5:0xa470f983f4482291",
+      "street_view_url": "",
+      "place_id": "ChIJ5Wxxp_jJlzMRkSJI9IP5cKQ",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"109588798983007693317\",\"name\":\"Smile \\u0026 Style Dental Clinic (Owner)\",\"link\":\"https://www.google.com/maps/contrib/109588798983007693317\"}",
+      "complete_address": "{\"borough\":\"Sampaloc\",\"street\":\"7, 913 Nicanor Reyes St\",\"city\":\"Manila\",\"postal_code\":\"\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"Ella Gallardo\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjWgqMzg78icYzLBMsaz89u1ozd6NImuhzlFiKf_rb3tEQ3VyXmQ=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I had an amazing experience at Smile and Style Dental Clinic! From the moment I walked in, the staff was warm, welcoming, and very professional. The clinic is spotless and equipped with modern technology, which made me feel safe and well cared for. The dentist took the time to explain every step of the procedure and made sure I was comfortable throughout. My teeth have never looked or felt better! I highly recommend Smile and Style Dental Clinic to anyone looking for top-notch dental care in Manila. They truly live up to their name!\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLe_Wm14yOCD8dGEYnY_7ljmXuL8TLbnpvFpIn5zmAbM2qmeYhnssCqQBI0DlGz5gzPB2lp2xFqN2ueroeZpNuUtaOhVxJV4wfXj5tXyuZ5ZhTp4dRAT4qNO_7tqTdJmC-cfXP8=k-no\",\"https://lh3.googleusercontent.com/grass-cs/AABkmLdMOToQ7C8I8naBwb1S3vFRYP-KY0iF9pP-aYjBy0yUdXbFlnVYgE3oEVZ6riM5aE7MyqEMOfJxj5tyxtw9pougcQOXt5BbmBk6lwn_tTw0HfhnyQf2E695vN7e_6RE5g4xBZ4lhw=k-no\"],\"When\":\"a year ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUN2aXZQdW53RRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/101581243248356335890/reviews?hl=en-US\",\"posted_at_unix_micros\":1733779985456589,\"updated_at_unix_micros\":1733779985456589,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I had an amazing experience at Smile and Style Dental Clinic! From the moment I walked in, the staff was warm, welcoming, and very professional. The clinic is spotless and equipped with modern technology, which made me feel safe and well cared for. The dentist took the time to explain every step of the procedure and made sure I was comfortable throughout. My teeth have never looked or felt better! I highly recommend Smile and Style Dental Clinic to anyone looking for top-notch dental care in Manila. They truly live up to their name!\",\"text_translated\":\"\",\"published_at\":\"2024-12-09T21:33:05.456589Z\"},{\"Name\":\"Ellisha G\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUQq6K794V0yWZ5TxTqxwXxlcds1E7Ef6UqkfEYgLHTrdjB7Iab=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I couldn’t be happier with my experience at Smile and Style Dental Clinic! From the moment I walked in, the staff made me feel welcomed and comfortable. I recently got my braces here, and the entire process was seamless. The dentist was incredibly professional, explaining every step and ensuring I understood the treatment plan.\\n\\nThe clinic itself is clean, modern, and equipped with the latest technology, which made me feel confident in the care I was receiving. The staff is always friendly and accommodating, making each visit pleasant.\\n\\nI’ve already noticed improvements in my smile, and I’m so excited to see the final results. I highly recommend Smile and Style Dental Clinic to anyone looking for quality orthodontic care. They truly prioritize their patients’ comfort and satisfaction!\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLecTvGSL6MUGlLPvdtYsnzunYFutDx3J6Ror9RUS04E_U0TYGI0PMcYCe26PxcOnBxVpO7c2XtK0a0Ss3yFFVbWnfvfQbkJwzZdQAR_fG2dP3i7NMqmWaBB8x3lGcO_8lYET91h9A=k-no\",\"https://lh3.googleusercontent.com/grass-cs/AABkmLfb_JYsT7khPMW2OjHPf-hD6IEKDhWBo3XPcaZqO36LSx96oNcQaBvUE07HF8At3TTLXUNpgwuavy6d8C27RV0MQRp1_hRKFPQ0WiVzxY4v23Q2T7oYLShxOdXrKQIWcBBCffpZ=k-no\"],\"When\":\"a year ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUN2b2ZlY0FREAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/106315354340199257380/reviews?hl=en-US\",\"posted_at_unix_micros\":1733948836926379,\"updated_at_unix_micros\":1733948836926379,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I couldn’t be happier with my experience at Smile and Style Dental Clinic! From the moment I walked in, the staff made me feel welcomed and comfortable. I recently got my braces here, and the entire process was seamless. The dentist was incredibly professional, explaining every step and ensuring I understood the treatment plan.\\n\\nThe clinic itself is clean, modern, and equipped with the latest technology, which made me feel confident in the care I was receiving. The staff is always friendly and accommodating, making each visit pleasant.\\n\\nI’ve already noticed improvements in my smile, and I’m so excited to see the final results. I highly recommend Smile and Style Dental Clinic to anyone looking for quality orthodontic care. They truly prioritize their patients’ comfort and satisfaction!\",\"text_translated\":\"\",\"published_at\":\"2024-12-11T20:27:16.926379Z\"},{\"Name\":\"Melissa Hortizuela\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXmJeHOvf5JV8bR1xRPZPi4rOtfkBg1VNa7W6gS6A_xZ13She0=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Tried teeth cleaning at Smile and Style Dental Clinic Maceda Branch and it was a really good experience.\\nMaayos and professional yung dentist, and they explained everything habang ginagawa so I felt comfortable the whole time. Hindi rin masakit, very gentle lang.\\nOverall, malinis talaga yung result and I felt more confident after. Would definitely recommend, lalo na if you’re looking for a reliable dental clinic 👍\",\"Images\":null,\"When\":\"6 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT213eGMybzRTVGRJVlcxMVpqZE9TVGxoUkVoUlVrRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/117597814840598589497/reviews?hl=en-US\",\"posted_at_unix_micros\":1775634890483235,\"updated_at_unix_micros\":1775634890483235,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Tried teeth cleaning at Smile and Style Dental Clinic Maceda Branch and it was a really good experience.\\nMaayos and professional yung dentist, and they explained everything habang ginagawa so I felt comfortable the whole time. Hindi rin masakit, very gentle lang.\\nOverall, malinis talaga yung result and I felt more confident after. Would definitely recommend, lalo na if you’re looking for a reliable dental clinic 👍\",\"text_translated\":\"\",\"published_at\":\"2026-04-08T07:54:50.483235Z\"},{\"Name\":\"Teddy Von Jay Manalo\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVBQhv4B4-vdInSMwseD6s1OVS5-H-5SKyw1Wv6e6cjEhruV4g_=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I was so nervous about getting a root canal, but the team at Smile and Style Dental Clinic made the whole process so much easier than I expected. Doc Rain was very gentle and explained each step, so I felt reassured the entire time. I barely felt any pain, and the treatment was done smoothly. The staff also checked on me afterwards, which I really appreciated. My tooth feels so much better now, thank you for the excellent care! 🤍\",\"Images\":null,\"When\":\"a year ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xKelVVSjNlbUZIZEdKRWJqQnpjakEzZEVjdFIwRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/104911204624124605035/reviews?hl=en-US\",\"posted_at_unix_micros\":1758683207060322,\"updated_at_unix_micros\":1758683207060322,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I was so nervous about getting a root canal, but the team at Smile and Style Dental Clinic made the whole process so much easier than I expected. Doc Rain was very gentle and explained each step, so I felt reassured the entire time. I barely felt any pain, and the treatment was done smoothly. The staff also checked on me afterwards, which I really appreciated. My tooth feels so much better now, thank you for the excellent care! 🤍\",\"text_translated\":\"\",\"published_at\":\"2025-09-24T03:06:47.060322Z\"},{\"Name\":\"Studio 10 Interior Design\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjW9x91svD6YVzVWLo7sGjCV0IoWW7ldT8pQfkz_RLSEnwbx98I=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I've been to a few dental clinics before, but Smile and Style really stands out. The clinic is clean, stylish, and has a really calming vibe, which honestly helped ease my nerves. Dr. Rain and the whole team are super friendly and professional. They explain everything clearly and make sure you're comfortable every step of the way. You can really tell they care about their patients. Highly recommended if you're looking for quality dental care with a personal touch!\",\"Images\":null,\"When\":\"a year ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2pSdGFFcDVlVTlxT1cwMk5sUnNYM1psYkdKQlVrRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/105710079723228811798/reviews?hl=en-US\",\"posted_at_unix_micros\":1750136206718998,\"updated_at_unix_micros\":1750136206718998,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I've been to a few dental clinics before, but Smile and Style really stands out. The clinic is clean, stylish, and has a really calming vibe, which honestly helped ease my nerves. Dr. Rain and the whole team are super friendly and professional. They explain everything clearly and make sure you're comfortable every step of the way. You can really tell they care about their patients. Highly recommended if you're looking for quality dental care with a personal touch!\",\"text_translated\":\"\",\"published_at\":\"2025-06-17T04:56:46.718998Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [],
+      "audit": {
+        "problems": [
+          {
+            "issue": "The Facebook page URL redirects to a login wall and browser incompatibility interstitial error page, preventing potential patients from viewing business information, reviews, or contact details.",
+            "impact": "High bounce rate and immediate loss of prospective dental patients who cannot access clinic hours, services, or location details.",
+            "severity": "high"
+          },
+          {
+            "issue": "Heavy reliance on a social media platform as a primary web presence rather than an independent, dedicated business website.",
+            "impact": "Vulnerability to platform outages, authentication walls, and strict login requirements that block organic search traffic and public visibility.",
+            "severity": "high"
+          }
+        ],
+        "opportunities": [
+          "Develop a dedicated, SEO-optimized business website to ensure reliable 24/7 access for prospective patients without login barriers.",
+          "Implement local schema markup and integrate Google Business Profile to capture high-intent local search traffic for dental services.",
+          "Add clear calls-to-action (e.g., online appointment booking, click-to-call) on an independent web property to improve patient conversion rates."
+        ],
+        "summary": "The current web presence relies entirely on a Facebook mobile page that blocks unauthenticated visitors with an error interstitial, completely cutting off prospective dental patients and harming local acquisition efforts.",
+        "url": "https://m.facebook.com/smileandstyledentalclinic/",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick note about Smile & Style Dental Clinic's online presence",
+        "body": "Hi there,\n\nI was looking up Smile & Style Dental Clinic today and noticed your Facebook page is currently hitting visitors with a login wall and an error page. \n\nSince prospective patients can't see your hours, services, or location without logging in, it's likely turning away a lot of local traffic before they even get a chance to call.\n\nWe put together a quick, lightweight website demo for you that fixes this completely and makes it easy for patients to find you on Google. \n\nWould it be useful if I sent it over?\n\nBest,\nRahul\n\n---\nIf you'd prefer not to hear from me again, just reply 'unsubscribe' and I'll remove you right away.",
+        "provider": "gemini"
+      }
+    },
+    {
+      "input_id": "a89ff410-4bf6-4b60-8b7d-f1106e88c8e7",
+      "link": "https://www.google.com/maps/place/Premium+Smile+Dental+Clinic/data=!4m7!3m6!1s0x3397cb00691e7c8d:0x136a265ef8df873a!8m2!3d14.6006104!4d120.9852816!16s%2Fg%2F11yc5606qn!19sChIJjXweaQDLlzMROoff-F4mahM?authuser=0&hl=en&g_ep=EgoyMDI2MTAwNy4wIJJjKgBIAVAD&rclk=1",
+      "title": "Premium Smile Dental Clinic",
+      "category": "Dental clinic",
+      "address": "826 Gonzalo Puyat St, Quiapo, Manila, 1001 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"9 AM–5 PM\"],\"Monday\":[\"9 AM–5 PM\"],\"Saturday\":[\"9 AM–5 PM\"],\"Sunday\":[\"9 AM–5 PM\"],\"Thursday\":[\"9 AM–5 PM\"],\"Tuesday\":[\"9 AM–5 PM\"],\"Wednesday\":[\"9 AM–5 PM\"]}",
+      "popular_times": "{}",
+      "website": "https://www.facebook.com/share/1BAXv8qV47/?mibextid=wwXIfr",
+      "phone": "",
+      "plus_code": "JX2P+64 Manila, Metro Manila, Philippines",
+      "review_count": "52",
+      "review_rating": "4.700000",
+      "reviews_per_rating": "{\"1\":2,\"2\":0,\"3\":3,\"4\":3,\"5\":44}",
+      "latitude": "14.600610",
+      "longitude": "120.985282",
+      "cid": "1398972823596140346",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMEfeQk0nRVIFDEm18xJhP_hZgC7Xce7Hm2b_-Z09o22S3xVCRq7WASu0lDZkkFh0X_AJ5xKaxBXwHgcPtsv9rlNQqAmN9UYyBLYSBK629-EUAEHS1r0pg3d3pe8q-lmvzWm7d8=w408-h725-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397cb00691e7c8d:0x136a265ef8df873a",
+      "street_view_url": "",
+      "place_id": "ChIJjXweaQDLlzMROoff-F4mahM",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"107502933753192052834\",\"name\":\"Premium Smile Dental Clinic (Owner)\",\"link\":\"https://www.google.com/maps/contrib/107502933753192052834\"}",
+      "complete_address": "{\"borough\":\"Quiapo\",\"street\":\"826 Gonzalo Puyat St\",\"city\":\"Manila\",\"postal_code\":\"\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"Ortega, Carl Lester D.\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXUKxVCyKHIm5YDe6foQV1FBZziU1PezULQWwVOpfsIJxR3_LM=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"All of the staff is very comfortable and easy to talk with all of the concerns and questions that I’ve been asked.\\n\\nI’ve been experiencing insecurities for the past years of my life, and I must say that premium smile helped me accomplish this achievement.\\n\\nEsp Doc Terrence is very accommodating and professional, friendly, and bubbly.\\n\\nI highly recommended this dental clinic.\",\"Images\":null,\"When\":\"6 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xFeFRuVXhRbXMxU3pST2EwMWFWVVZIV2tORlNtYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/112030367609259143337/reviews?hl=en-US\",\"posted_at_unix_micros\":1774856593123795,\"updated_at_unix_micros\":1774856593123795,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"All of the staff is very comfortable and easy to talk with all of the concerns and questions that I’ve been asked.\\n\\nI’ve been experiencing insecurities for the past years of my life, and I must say that premium smile helped me accomplish this achievement.\\n\\nEsp Doc Terrence is very accommodating and professional, friendly, and bubbly.\\n\\nI highly recommended this dental clinic.\",\"text_translated\":\"\",\"published_at\":\"2026-03-30T07:43:13.123795Z\"},{\"Name\":\"Rham Calma\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjWcXq4hPFC5huM390kVkn2KlBJ6JHGOaCvv-SDf2I_Wq1K8UX3z=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"The experience here in Premium Smile Dental Clinic is Amazing! Staff are very accomodating, well informed and good customer service. Worth the wait and worth the time.💯♥️\",\"Images\":null,\"When\":\"6 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21Sb2IxcDRTSEp3Y1ZwRFZrWXpNa3R5Um1aM01sRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/106262458991639326498/reviews?hl=en-US\",\"posted_at_unix_micros\":1774409514726671,\"updated_at_unix_micros\":1774409514726671,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"The experience here in Premium Smile Dental Clinic is Amazing! Staff are very accomodating, well informed and good customer service. Worth the wait and worth the time.💯♥️\",\"text_translated\":\"\",\"reply_text_original\":\"Thank you for your kind feedback! We’re happy to know you had a good experience with our clinic. Your support means a lot to our team, and we look forward to serving you again.\\n\",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1774562031000000,\"reply_updated_at_unix_micros\":1774562031000000,\"published_at\":\"2026-03-25T03:31:54.726671Z\"},{\"Name\":\"Xy Alejandro\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJwFWPwVr53-YZsb9fxCiUhfq5KJi1dx2rt-FZ63kInfjgGAN0=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I’m very satisfied with my teeth and the overall service. At nung naiask konsila na need ko only till 30th due to my flight at nasunod naman and all the staff and si doc ay very approachable and they give us good service. 😁\",\"Images\":null,\"When\":\"6 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xOeFduUXdkRXRPU1dSVVYyOU5jbm8zYWtsVWVXYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/106941213642898426539/reviews?hl=en-US\",\"posted_at_unix_micros\":1774693186484129,\"updated_at_unix_micros\":1774693186484129,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I’m very satisfied with my teeth and the overall service. At nung naiask konsila na need ko only till 30th due to my flight at nasunod naman and all the staff and si doc ay very approachable and they give us good service. 😁\",\"text_translated\":\"\",\"published_at\":\"2026-03-28T10:19:46.484129Z\"},{\"Name\":\"Azenith Molas\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjWt-9e2RdUHyJgHrxgi4tUN7LjwocgZ9iLBD2RDboZVbh_bTFWR=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Doc wilson is very great! Wish i could return for the next zirconia crown plan. Bery satisfied. Thanks 😊\",\"Images\":null,\"When\":\"4 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2sxSmRFRnJkVWhtVHpVNWFIVjFNV1kwYlVGcGFtYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/116429769899144414323/reviews?hl=en-US\",\"posted_at_unix_micros\":1780394180760475,\"updated_at_unix_micros\":1780394180760475,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Doc wilson is very great! Wish i could return for the next zirconia crown plan. Bery satisfied. Thanks 😊\",\"text_translated\":\"\",\"published_at\":\"2026-06-02T09:56:20.760475Z\"},{\"Name\":\"Fudalan, Mike Vincent R.\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXzvxQkOJxJOkRBKuI_wbbhp9hOlEoC10qg-jxPaFoKT5Oi2QzF=s120-c-rp-mo-br100\",\"Rating\":3,\"Description\":\"Is it normal to be charged 2k for 1 tooth removal? I was confused after the check up the doctor didn't discuss price or anything i felt like i was left in the dark on purpose. Other than that the procedure was ok.\",\"Images\":null,\"When\":\"3 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2pkVllXeHROM1JDTVZKME1tSm1OWEZwVG5FMlRsRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":3,\"author_url\":\"https://www.google.com/maps/contrib/107874111884097430287/reviews?hl=en-US\",\"posted_at_unix_micros\":1781271968200521,\"updated_at_unix_micros\":1781271968200521,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Is it normal to be charged 2k for 1 tooth removal? I was confused after the check up the doctor didn't discuss price or anything i felt like i was left in the dark on purpose. Other than that the procedure was ok.\",\"text_translated\":\"\",\"published_at\":\"2026-06-12T13:46:08.200521Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [],
+      "audit": {
+        "problems": [
+          {
+            "issue": "Relying on a social media platform (Facebook login page) as the primary business web presence instead of a dedicated, owned website.",
+            "impact": "Limits brand credibility, search engine optimization (SEO) reach, and full control over user data and conversion funnels.",
+            "severity": "high"
+          },
+          {
+            "issue": "URL structure utilizes generic sharing parameters (e.g., mibextid=wwXIfr) rather than a clean, branded domain link.",
+            "impact": "Reduces user trust and makes the link difficult to memorize or share professionally.",
+            "severity": "medium"
+          },
+          {
+            "issue": "Public visitors are immediately funneled into an authentication wall (Facebook login) before viewing business details.",
+            "impact": "Increases bounce rates for potential customers who do not have or wish to use a Facebook account.",
+            "severity": "high"
+          }
+        ],
+        "opportunities": [
+          "Develop a dedicated, mobile-optimized business website to serve as the primary hub for customer acquisition and information.",
+          "Implement local SEO and structured data to capture high-intent search traffic outside of walled social networks.",
+          "Utilize clear calls-to-action (CTAs) directing traffic to a custom domain for direct booking, inquiries, or sales."
+        ],
+        "summary": "The business currently relies on a Facebook profile/login wall rather than an independent website, which restricts search visibility, undermines professional branding, and creates friction for potential customers attempting to engage with the brand.",
+        "url": "https://www.facebook.com/share/1BAXv8qV47/?mibextid=wwXIfr",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick thought on Premium Smile Dental Clinic's website",
+        "body": "Hi there,\n\nI was looking up Premium Smile Dental Clinic and noticed your Facebook page is currently serving as your main web presence. \n\nBecause it requires visitors to log in before seeing your details, a lot of potential patients without a Facebook account might bounce right away, and it keeps your practice from showing up on Google search.\n\nWe actually put together a quick, clean demo of what a dedicated site could look like for you. Would it be useful if I sent it over?\n\nBest,\nRahul\n\n---\nIf you'd prefer not to hear from me again, just reply 'unsubscribe' and I'll remove you right away.",
+        "provider": "gemini"
+      }
+    }
+  ],
+  "store_stats": {
+    "new": 2
+  }
+}
