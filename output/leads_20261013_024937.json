@@ -1,0 +1,160 @@
+{
+  "success": true,
+  "query": "dental clinic in Manila",
+  "started": "2026-10-13T02:46:08.434569",
+  "finished": "2026-10-13T02:49:37.338554",
+  "scraped_count": 6,
+  "skipped_known": 0,
+  "enriched_count": 2,
+  "leads": [
+    {
+      "input_id": "1683cf03-8703-4192-a8e6-129e5652d359",
+      "link": "https://www.google.com/maps/place/Dental+Alley+Dental+Clinic/data=!4m7!3m6!1s0x3397ca2ea6e602c9:0xb1ceda12367b8343!8m2!3d14.5755122!4d120.9825788!16s%2Fg%2F1hdzrfkw2!19sChIJyQLmpi7KlzMRQ4N7NhLazrE?authuser=0&hl=en&g_ep=EgoyMDI2MTAwNy4wIJJjKgBIAVAD&rclk=1",
+      "title": "Dental Alley Dental Clinic",
+      "category": "Dental clinic",
+      "address": "Room 205 Trina Place, 507 Salas Street, Ermita, Manila City, 507 Salas St, Ermita, Manila, 1000 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"10 AM–5:30 PM\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"10 AM–5:30 PM\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10 AM–5:30 PM\"],\"Tuesday\":[\"10 AM–5:30 PM\"],\"Wednesday\":[\"10 AM–5:30 PM\"]}",
+      "popular_times": "{}",
+      "website": "https://m.facebook.com/Dental-Alley-Dental-Clinic-104279645246314",
+      "phone": "+63 995 545 9939",
+      "plus_code": "HXGM+62 Manila, Metro Manila, Philippines",
+      "review_count": "12",
+      "review_rating": "4.800000",
+      "reviews_per_rating": "{\"1\":0,\"2\":0,\"3\":1,\"4\":1,\"5\":10}",
+      "latitude": "14.575512",
+      "longitude": "120.982579",
+      "cid": "12812417761673970499",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLd0ZmTbB8FzpLkf8-StSGZkVWAX5L-H0DQlHxw-EFl1a3fZ_bJBQVMXbwdj4fYespI6arpNvdIoAzj1GvfWepSAxXfk_Yb5339JAh5J1CkrtaHM0BmRHjyOHUvpAFh0MomfL7VwRw=w408-h544-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397ca2ea6e602c9:0xb1ceda12367b8343",
+      "street_view_url": "",
+      "place_id": "ChIJyQLmpi7KlzMRQ4N7NhLazrE",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"117758501935588353424\",\"name\":\"Dental Alley Dental Clinic (Owner)\",\"link\":\"https://www.google.com/maps/contrib/117758501935588353424\"}",
+      "complete_address": "{\"borough\":\"Ermita\",\"street\":\"Room 205 Trina Place, 507 Salas Street, Ermita, Manila City, 507 Salas St\",\"city\":\"Manila\",\"postal_code\":\"1000\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"Roberto Jose De Guzman\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVi3Uax7bzANwP-oRMHrQlW0mKowKjlq_QJJoNnI6VUhiyEFEw=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"A wonderful dental clinic with a genuinely caring team. Dr. Weng has been looking after my dental health for over 20 years and even my son is now in her dental care. 'm incredibly grateful for her kindness, professionalism, flexibility, and thorough care. I always feel well looked after and confident I'm in good hands. Highly recommended!\",\"Images\":null,\"When\":\"2 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2pRMldYTjNYMEV0TmtZeldYZDNUazVxWmxsalNFRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/101420939801550507373/reviews?hl=en-US\",\"posted_at_unix_micros\":1783940857745406,\"updated_at_unix_micros\":1783940857745406,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"A wonderful dental clinic with a genuinely caring team. Dr. Weng has been looking after my dental health for over 20 years and even my son is now in her dental care. 'm incredibly grateful for her kindness, professionalism, flexibility, and thorough care. I always feel well looked after and confident I'm in good hands. Highly recommended!\",\"text_translated\":\"\",\"reply_text_original\":\"Thank you so much, RJ for your kind words and for trusting us with your family's smiles.  Receiving such a thoughtful review is incredibly humbling. It has been an absolute honor to care for you and Gab all these years, and we deeply appreciate your confidence in our team. Thank you again for your wonderful recommendation. 🙏🏻\",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1783951271000000,\"reply_updated_at_unix_micros\":1783951271000000,\"published_at\":\"2026-07-13T11:07:37.745406Z\"},{\"Name\":\"Ed Pacson\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocI8A5E8_69LfIinwfrp66Ksrcb_8XuXQ8RRPqZr5K64eNGl=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Top notch service especially with the current dental practitioner there (Dr. Rowena at the time of writing this review). Service was great even for HMO card holders.\\n\\nThe dentist is accommodating  and careful with the procedures done. Not to mention that she is very open in discussing your dental issues in great detail.\\n\\nThe dental clinic also looks the part and is devoid of any sanitation blemish.  Will definitely avail of the services there.\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLdkqTcPNdSlv7yXsOS8nOmxQn5T0W8ER58Pgm0s-W3prTJi8Z7efEWLqIfCB73H_-UNwluJrvObD8udpsauxC95ssTRukQ_vj_iYz9x0BivkzOtvPfaWxa8I_npWXHzJGoyywI=k-no\"],\"When\":\"7 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSURVaDhQbUJBEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/118186343276180055584/reviews?hl=en-US\",\"posted_at_unix_micros\":1567772081991383,\"updated_at_unix_micros\":1567772081991383,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Top notch service especially with the current dental practitioner there (Dr. Rowena at the time of writing this review). Service was great even for HMO card holders.\\n\\nThe dentist is accommodating  and careful with the procedures done. Not to mention that she is very open in discussing your dental issues in great detail.\\n\\nThe dental clinic also looks the part and is devoid of any sanitation blemish.  Will definitely avail of the services there.\",\"text_translated\":\"\",\"published_at\":\"2019-09-06T12:14:41.991383Z\"},{\"Name\":\"Renato Bongocan\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUkEtOOByKb_JOSGv7EnIaxklLEmF11L9PZ_ogVXWG7ohVrtAo=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Highly recommend Dental Alley Dental Clinic! I went in to get a gum problem checked, and Dr. Sunico was wonderful. She took the time to thoroughly explain the issue to me using my X-ray image. Recognizing that I needed specialized care, she recommended that I see a periodontist. To make things even better, Dr. Sunico and her staff went out of their way to help me find a specialist located right near my house. I truly appreciate the excellent, caring service and the overall great experience!\",\"Images\":null,\"When\":\"2 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21GbVRrUnBTalZ1Tm1KdGFIWlhjbWxLTmxOM1NuYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/108855589565097911356/reviews?hl=en-US\",\"posted_at_unix_micros\":1785403926474814,\"updated_at_unix_micros\":1785403926474814,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Highly recommend Dental Alley Dental Clinic! I went in to get a gum problem checked, and Dr. Sunico was wonderful. She took the time to thoroughly explain the issue to me using my X-ray image. Recognizing that I needed specialized care, she recommended that I see a periodontist. To make things even better, Dr. Sunico and her staff went out of their way to help me find a specialist located right near my house. I truly appreciate the excellent, caring service and the overall great experience!\",\"text_translated\":\"\",\"reply_text_original\":\"Thank you so much for your kind words, Mr. Bongocan!  We're glad to help you to better understand your condition and assist you in finding the right specialist for your care. Your trust and appreciation mean a great deal to us. We wish you the very best with your treatment, and please don't hesitate to reach out if there's anything else we can do for you. Again, our heartfelt thanks for your trust and support. \",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1785419853000000,\"reply_updated_at_unix_micros\":1785419853000000,\"published_at\":\"2026-07-30T09:32:06.474814Z\"},{\"Name\":\"Dental Alley\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocIpvSB0azrni63-4mZ21TJKqqbxvSIDkjprlWIzAOxvYz1wuA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"\",\"Images\":null,\"When\":\"6 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2tJNWFEUTFaSG94UTFoTlpVbFZUSGgwY2tSVVJtYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/102559225292020432632/reviews?hl=en-US\",\"posted_at_unix_micros\":1775806373186700,\"updated_at_unix_micros\":1775806373186700,\"language\":\"\",\"translated_lang\":\"\",\"text_original\":\"\",\"text_translated\":\"\",\"published_at\":\"2026-04-10T07:32:53.1867Z\"},{\"Name\":\"Div Espina\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXX6qkxiASATpjronfJE-HuCtxU23vZYv9aiDXQEZK_5uCjobQ=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"\",\"Images\":null,\"When\":\"7 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xaUFJWRk5WMnBhV2s5eFYxSldWVVpHVFZOcUxXYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/110626299459443288744/reviews?hl=en-US\",\"posted_at_unix_micros\":1773119245663019,\"updated_at_unix_micros\":1773119245663019,\"language\":\"\",\"translated_lang\":\"\",\"text_original\":\"\",\"text_translated\":\"\",\"reply_text_original\":\"Thank you, Ma'am Div for the 5-star rating. We at Dental Alley truly appreciate your support. We look forward to seeing you again! \",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1773378465000000,\"reply_updated_at_unix_micros\":1773378465000000,\"published_at\":\"2026-03-10T05:07:25.663019Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [],
+      "audit": {
+        "problems": [
+          {
+            "issue": "The Facebook page redirects to a login wall or unsupported browser error page for unauthenticated visitors.",
+            "impact": "Prospective patients cannot view clinic information, hours, reviews, or contact details without a Facebook account.",
+            "severity": "high"
+          },
+          {
+            "issue": "Lack of an independent, dedicated business website.",
+            "impact": "Relies entirely on a third-party social media platform, limiting SEO potential, branding control, and conversion optimization.",
+            "severity": "high"
+          }
+        ],
+        "opportunities": [
+          "Develop a dedicated, mobile-responsive business website with local SEO optimization to capture high-intent dental search traffic.",
+          "Implement clear calls-to-action on digital touchpoints for online appointment booking and direct phone inquiries.",
+          "Display patient testimonials, services, and operating hours prominently on an owned web property."
+        ],
+        "summary": "The current online presence for Dental Alley Dental Clinic is restricted by Facebook's login wall and browser compatibility checks, preventing potential patients from accessing vital business information. Investing in a standalone professional website will significantly improve local visibility, user experience, and patient acquisition.",
+        "url": "https://m.facebook.com/Dental-Alley-Dental-Clinic-104279645246314",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick thought on Dental Alley's online presence",
+        "body": "Hi there,\n\nI came across Dental Alley Dental Clinic online today while looking for local care, but noticed that your Facebook page currently hits visitors with a login wall—meaning folks without an account can't easily check your hours, services, or reviews.\n\nSince you're relying entirely on social media right now, many prospective patients might be moving on instead of jumping through hoops. \n\nWe put together a quick, lightweight demo of what a dedicated, easy-to-navigate website could look like for your clinic. Would it be useful if I sent it over?\n\nBest,\nRahul\n\n---\nIf you'd prefer not to hear from me again, just reply 'unsubscribe' and I'll remove you right away.",
+        "provider": "gemini"
+      }
+    },
+    {
+      "input_id": "1683cf03-8703-4192-a8e6-129e5652d359",
+      "link": "https://www.google.com/maps/place/Novodental+Robinsons+Manila+%7C+Affordable+Premium+Dental+Clinic+in+the+Philippines/data=!4m7!3m6!1s0x3397cbb2537643e7:0x7dce9d275a611ad1!8m2!3d14.5749909!4d120.9840414!16s%2Fg%2F11gm9gqqy9!19sChIJ50N2U7LLlzMR0RphWiedzn0?authuser=0&hl=en&g_ep=EgoyMDI2MTAwNy4wIJJjKgBIAVAD&rclk=1",
+      "title": "Novodental Robinsons Manila | Affordable Premium Dental Clinic in the Philippines",
+      "category": "Dental clinic",
+      "address": "Philippines, Metro Manila, Manila, Ermita, Level 4, Midtown Wing, Robinsons Place Manila, Pedro Gil Novodental Robinsons Manila | Affordable Premium Dental Clinic in the Philippines",
+      "open_hours": "{\"Friday\":[\"10 AM–8 PM\"],\"Monday\":[\"10 AM–7 PM\"],\"Saturday\":[\"10 AM–8 PM\"],\"Sunday\":[\"10 AM–7 PM\"],\"Thursday\":[\"10 AM–7 PM\"],\"Tuesday\":[\"10 AM–7 PM\"],\"Wednesday\":[\"10 AM–7 PM\"]}",
+      "popular_times": "{}",
+      "website": "https://novodental.com.ph/",
+      "phone": "+63 917 158 6686",
+      "plus_code": "HXFM+XJ Manila, Metro Manila, Philippines",
+      "review_count": "70",
+      "review_rating": "4.000000",
+      "reviews_per_rating": "{\"1\":15,\"2\":2,\"3\":1,\"4\":2,\"5\":50}",
+      "latitude": "14.574991",
+      "longitude": "120.984041",
+      "cid": "9065355892288985809",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdD78iJi9-SmXBZ6xf1Sv29EAhjv85CuXOztfsK8Jc_In070PIuygHwPXDHtGcTZ0ps7vXzjG-8XSITluvNffqF_s-v1Sx3_ds4QykwzyLwvfIFInX2WLV_bnqzyQwB2L6A9i3z=w630-h240-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397cbb2537643e7:0x7dce9d275a611ad1",
+      "street_view_url": "",
+      "place_id": "ChIJ50N2U7LLlzMR0RphWiedzn0",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"105958834508383338485\",\"name\":\"Novodental Robinsons Manila | Affordable Premium Dental Clinic in the Philippines (Owner)\",\"link\":\"https://www.google.com/maps/contrib/105958834508383338485\"}",
+      "complete_address": "{\"borough\":\"Ermita\",\"street\":\"Level 4, Midtown Wing, Robinsons Place Manila, Pedro Gil\",\"city\":\"Manila\",\"postal_code\":\"\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "[{\"id\":\"accessibility\",\"name\":\"Accessibility\",\"options\":[{\"name\":\"Wheelchair accessible entrance\",\"enabled\":true},{\"name\":\"Wheelchair accessible restroom\",\"enabled\":true}]}]",
+      "user_reviews": "[{\"Name\":\"Emma Taylor\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjV2KszL748oH_dunEAmrvH_3OXxHLp19neCYMyuQgItbff8sZk=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"I had a great experience at Novodental Robinsons Manila | Affordable Premium Dental Clinic in the Philippines. The clinic is clean, modern, and very well maintained, which made me feel comfortable right away. The staff were friendly and accommodating, and they assisted me smoothly from the reception to the treatment. The dentist was professional and took the time to explain the procedure clearly before starting, which helped ease my concerns. I also appreciated how gentle and careful the treatment was throughout the session. Overall, the service was efficient, professional, and very satisfying. I would definitely recommend Novodental Robinsons Manila to anyone looking for quality and affordable dental care.\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLfsxfkMICbyX5ya4Ee769oEMv9TeKeJGD0ukMgtAbUYt-v1DwMqZfzHNpqDD4EiZE0cKiG2nCOoxJ67ZKC56Sz8wPVTL92Nz7AKv_20mlCuQW_ibsD5MeF430WHr4JPEwSBzm7AWhHD4Co=k-no\",\"https://lh3.googleusercontent.com/grass-cs/AABkmLcz-gEyG7k2kaLyFkIGtLjuOnPf3F7cBzzfmREqZ_XCUXmjef3nzCsNOjcIzPPcUWbwTGepDGcAAC_bUzcBAdKcsE33LmjcnbomgPD8NEWX_tkrvHnxmvbZK4__ToZX0tseyDgZwPslyQ4=k-no\",\"https://lh3.googleusercontent.com/grass-cs/AABkmLcn_TzF_W9uXtJnV6XYjKoxT_E00_J4UPkDw1zZFm42k6CdlClqNRDhUrKrM9yZjjh7TNWilIl4IE3oxsUhuV0joIbgb9mX25ld3qyYKrc2ALcLQZUi90TD6VaCsvqH9n0YPSrExxiZtoYa=k-no\"],\"When\":\"7 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2tGdFdHOHRTMHhZUzFZd1NESTBWWE41UkZCcE5HYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/114422214805448076136/reviews?hl=en-US\",\"posted_at_unix_micros\":1773196989602417,\"updated_at_unix_micros\":1773196989602417,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I had a great experience at Novodental Robinsons Manila | Affordable Premium Dental Clinic in the Philippines. The clinic is clean, modern, and very well maintained, which made me feel comfortable right away. The staff were friendly and accommodating, and they assisted me smoothly from the reception to the treatment. The dentist was professional and took the time to explain the procedure clearly before starting, which helped ease my concerns. I also appreciated how gentle and careful the treatment was throughout the session. Overall, the service was efficient, professional, and very satisfying. I would definitely recommend Novodental Robinsons Manila to anyone looking for quality and affordable dental care.\",\"text_translated\":\"\",\"published_at\":\"2026-03-11T02:43:09.602417Z\"},{\"Name\":\"Carpediem\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocKQdhOqGODLtG_Pt6VRzgLn9spvm9iqbyYIr0srvyo5DmBwMg=s120-c-rp-mo-ba12-br100\",\"Rating\":1,\"Description\":\"Watch out for scams if you decide to go to this clinic. I was charged 100,000 pesos for 1 root canal treatment plus crown and some other minor treatment which I didn't ask for. Included some bogus treatment \\\" periodontal therapy\\\" which they charged 8,000 pesos, which I didn't ask for.\\n\\nInitially they gave me a quote and said that it would be applied a 50% discount, but in the end they refused to apply the discount. So the total cost only for the root canal and crown was in the excess of 80,000 pesos.\\n\\nI was truly shocked at how they operate.\",\"Images\":null,\"When\":\"6 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xOV2EyVm1OMWQyY3pBeFlYb3lXRzVUVUhWWWVFRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":1,\"author_url\":\"https://www.google.com/maps/contrib/102179554872632738996/reviews?hl=en-US\",\"posted_at_unix_micros\":1775064346058426,\"updated_at_unix_micros\":1775064395542923,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Watch out for scams if you decide to go to this clinic. I was charged 100,000 pesos for 1 root canal treatment plus crown and some other minor treatment which I didn't ask for. Included some bogus treatment \\\" periodontal therapy\\\" which they charged 8,000 pesos, which I didn't ask for.\\n\\nInitially they gave me a quote and said that it would be applied a 50% discount, but in the end they refused to apply the discount. So the total cost only for the root canal and crown was in the excess of 80,000 pesos.\\n\\nI was truly shocked at how they operate.\",\"text_translated\":\"\",\"published_at\":\"2026-04-01T17:25:46.058426Z\"},{\"Name\":\"Ma. Cezarah Caldit\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjV13oXYNMse56dZ5ajUKW9C6sGtPvg27EKlNgoLaZQyEEasy9x0=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"The doctors and the staff are nice, very accommodating and friendly. The clinic is well lit and clean. I had xray, oral prophylaxis, stain removal and flouridization. Dra. Kate explained to me my panoramic xray and the treatment needed and for what cost.\\n\\nThey also provide a statement of services rendered with price breakdown, official receipt and a dental certificate, containing dental recommendations.\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLdmweQbkJPStZ5119_GKc6jCNNsH337TESe6eV9QchFiNeq0_Me1JFGibSPDmq66DMzQ-AtIgLIFO0LSv4CglBiPpBeVhqtYPPvt6g2k5RWif7NIVkxMbezUYj8ebi-lb1sZbtW7g=k-no\",\"https://lh3.googleusercontent.com/grass-cs/AABkmLfCG7coEdhMo-DS7I9gVKztBVHBrZIvCPGrnAwtoMLN6D3j0HLsnFcGd3fFVwnqsvXNCxU98vNr8re-r1cpoiDkFCGLrJqrnDrTqTvwwFP_Dm4sv7ElZOCaJZxuA9R5LnZ8T1w=k-no\",\"https://lh3.googleusercontent.com/grass-cs/AABkmLf1zPjcaWyLSGyA96_iHFwq2kw_qTQaq696owO_LbP4IF1Vi0FrcoEDbdAsnqqHKwbuKAund-SYOJQJtFJUkaj9Mh6S2v_Fyo_YQv7eyuqQ_OF87h2cCekPwWr21z_tEPshBLWDJg=k-no\",\"https://lh3.googleusercontent.com/grass-cs/AABkmLfH7PL_Rlok55wf_iNgYLJzx_6uH4oFG5c6B_LPaqFXkAfJdYIla1Ptvde0xlCp9j2MM0fsEMbqca5_X7LgwOccelJSpj3edih8-jIIUmEQxmgt8ePB2mzIARpfSRqbEDRAFQVO=k-no\",\"https://lh3.googleusercontent.com/grass-cs/AABkmLfb86SE3A1ppBOYn85q-klYcqx-i8rs0Xqv-t8rt1AGWFTe-PxTP-iDFbCTpMTg6mCBm9LRYqx0urI00y1kpxrYSjbemcj3w9exg67quscq3VCATb3JE7_SA2aa7CLE41OhB3Vq1g=k-no\",\"https://lh3.googleusercontent.com/grass-cs/AABkmLfcQdBxcUty61md1E88PPZEPPOpp7sP8Yzmjqllxw5sQjDC_u2EiN1iXh9tqzuqeQlEgtqVnJakfjLFwJA9ONe8859LRSjh1NJ0EWj3Deudl6H5N5VAlBq_0vT9lLexiM8p-jU=k-no\",\"https://lh3.googleusercontent.com/grass-cs/AABkmLdbGlNn-7GcWkKSTUx-E98miuP7TQTv51AqpUBG9DhRIfAAT3ong6PNL29YjD7dTDQicfqq-grZ92IVfiUz0mGPbT5isH3p_o7buXLVkH1I1lh1cKHtJ-shswDoOXUS1Wv_K6NxeQ=k-no\",\"https://lh3.googleusercontent.com/grass-cs/AABkmLdz26rRRzvlSXUmczlH6dvahtntUsZveM0ShVXta9j4hfV2BVKT3otrsXAvUFz-Q42X8nK5X9LX8j2Ha8MHi-VtbjPHCD2EpPbGpTAONkg488H9N73PNkr1pwRV46fBkMJSYvBm=k-no\"],\"When\":\"3 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSURCMnF2YmVnEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/114469822021080675117/reviews?hl=en-US\",\"posted_at_unix_micros\":1673954891158693,\"updated_at_unix_micros\":1673954891158693,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"The doctors and the staff are nice, very accommodating and friendly. The clinic is well lit and clean. I had xray, oral prophylaxis, stain removal and flouridization. Dra. Kate explained to me my panoramic xray and the treatment needed and for what cost.\\n\\nThey also provide a statement of services rendered with price breakdown, official receipt and a dental certificate, containing dental recommendations.\",\"text_translated\":\"\",\"published_at\":\"2023-01-17T11:28:11.158693Z\"},{\"Name\":\"Aira Gajelomo\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocK33bdaJ1JpcFRaxiEeYKkyQ7sMzeq0Eq9egfeJPMSTejckbfA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I really love how all the staff are accommodating and even my dentist, Doc. Veronica is very approachable and answers every question I have. She makes sure that I understand what’s the purpose of every procedure and how’s the procedure is going to go. I feel very secure and safe. I am in good hands 💕\",\"Images\":null,\"When\":\"8 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xsdFVUWmFlVWR0YnpCc2NVUXlURjlRTVRkMmJIYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/109960475497436625952/reviews?hl=en-US\",\"posted_at_unix_micros\":1769238180458962,\"updated_at_unix_micros\":1769238180458962,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I really love how all the staff are accommodating and even my dentist, Doc. Veronica is very approachable and answers every question I have. She makes sure that I understand what’s the purpose of every procedure and how’s the procedure is going to go. I feel very secure and safe. I am in good hands 💕\",\"text_translated\":\"\",\"published_at\":\"2026-01-24T07:03:00.458962Z\"},{\"Name\":\"Aiko Gajelomo\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVcpKG9X1_i9YbVyV55Y3gh8pXF8zBoWsxvziH58-FnCH4cJcp2Hw=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Dr. Karl and Dr. Veronica explain procedures clearly and patiently, answer all questions, and truly listen. I felt heard and well cared for. The staff are very nice and friendly as well. 10000/10 experience 🥰\",\"Images\":null,\"When\":\"8 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2tKa2MzVnlVWEV4VHpRNWRrbEtVVlZMYVhwSVJGRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/112570602065041552755/reviews?hl=en-US\",\"posted_at_unix_micros\":1769238231033627,\"updated_at_unix_micros\":1769238231033627,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Dr. Karl and Dr. Veronica explain procedures clearly and patiently, answer all questions, and truly listen. I felt heard and well cared for. The staff are very nice and friendly as well. 10000/10 experience 🥰\",\"text_translated\":\"\",\"published_at\":\"2026-01-24T07:03:51.033627Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [
+        "adriatico@novodental.com.ph",
+        "circuit@novodental.com.ph",
+        "info@novodental.com.ph",
+        "robmanila@novodental.com.ph",
+        "smair@novodental.com.ph",
+        "smnorthedsa@novodental.com.ph",
+        "the30th@novodental.com.ph",
+        "trinoma@novodental.com.ph",
+        "u.p.town@novodental.com.ph",
+        "uptownbgc@novodental.com.ph"
+      ],
+      "audit": {
+        "problems": [
+          {
+            "issue": "Missing meta description and title tag optimizations in the header.",
+            "impact": "Reduces search engine visibility and click-through rates from search engine results pages (SERPs).",
+            "severity": "high"
+          },
+          {
+            "issue": "Render-blocking external stylesheets and scripts (Bootstrap, MDB, jQuery, Slick) loaded in the head without async/defer attributes.",
+            "impact": "Increases page load time, negatively affecting Core Web Vitals (specifically Largest Contentful Paint) and mobile user retention.",
+            "severity": "high"
+          },
+          {
+            "issue": "Inline CSS styling used extensively within the HTML document rather than external stylesheets.",
+            "impact": "Increases HTML payload size and complicates long-term maintenance and caching efficiency.",
+            "severity": "medium"
+          }
+        ],
+        "opportunities": [
+          "Implement Local SEO schema markup (Dentist schema) to improve local search map rankings and attract patients in the immediate geographic area.",
+          "Optimize and compress image assets like the header logo to improve overall page performance.",
+          "Add prominent Call-to-Action (CTA) elements such as 'Book Appointment' or 'Contact Us' directly in the main navigation bar to drive patient conversions."
+        ],
+        "summary": "The website for Novodental has a clean structural foundation utilizing Bootstrap, but suffers from technical performance bottlenecks due to unoptimized script loading and missing foundational SEO metadata. Addressing these technical hurdles and enhancing conversion pathways in the navigation will improve both search visibility and patient acquisition.",
+        "url": "https://novodental.com.ph/",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick thought on Novodental Robinsons Manila's site speed",
+        "body": "Hi there,\n\nI was looking at the Novodental Robinsons Manila site and really appreciate the clean layout and focus on patient care.\n\nI noticed a couple of technical bottlenecks under the hood, though—specifically, a few heavy stylesheets and scripts are loading right in the header without async attributes, which is dragging down page speed on mobile. Plus, some key search metadata is missing, making it harder for new patients to find you organically.\n\nWe put together a quick live demo showing how fixing these performance hurdles looks in practice. Would it be useful if I sent it over?\n\nBest,\nRahul\n\n---\nIf you'd prefer not to hear from me again, just reply 'unsubscribe' and I'll remove you right away.",
+        "provider": "gemini"
+      }
+    }
+  ],
+  "store_stats": {
+    "new": 2
+  }
+}
