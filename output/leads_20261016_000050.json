@@ -1,0 +1,154 @@
+{
+  "success": true,
+  "query": "dental clinic in Manila",
+  "started": "2026-10-15T23:57:53.985263",
+  "finished": "2026-10-16T00:00:50.765855",
+  "scraped_count": 6,
+  "skipped_known": 0,
+  "enriched_count": 2,
+  "leads": [
+    {
+      "input_id": "3719d3a8-d34d-43d6-880f-5a42bb4fedf3",
+      "link": "https://www.google.com/maps/place/M.B.TAN+DENTAL+CLINIC/data=!4m7!3m6!1s0x3397cb2165504335:0x5e10918bcd967679!8m2!3d14.565776!4d120.9973406!16s%2Fg%2F11gpnhmczy!19sChIJNUNQZSHLlzMReXaWzYuREF4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMy4wIJJjKgBIAVAD&rclk=1",
+      "title": "M.B.TAN DENTAL CLINIC",
+      "category": "Dental clinic",
+      "address": "1013 estrada street, P.Ocampo St., Malate, 1004 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"Closed\"],\"Monday\":[\"8:30 AM–6 PM\"],\"Saturday\":[\"8:30 AM–6 PM\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 AM–6 PM\"],\"Tuesday\":[\"8:30 AM–6 PM\"],\"Wednesday\":[\"8:30 AM–6 PM\"]}",
+      "popular_times": "{}",
+      "website": "http://www.facebook.com/mbtandentalclinic",
+      "phone": "+63 991 043 1689",
+      "plus_code": "HX8W+8W Manila, Metro Manila, Philippines",
+      "review_count": "26",
+      "review_rating": "4.700000",
+      "reviews_per_rating": "{\"1\":2,\"2\":0,\"3\":0,\"4\":0,\"5\":24}",
+      "latitude": "14.565776",
+      "longitude": "120.997341",
+      "cid": "6778077468828268153",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLff24tGm1gfMps1b-tgC1Q-bVDzbrZeTNijZOit6mPKdqYuC-LjbPuB69hppIVTE3zw5SY5qmvSOh16V594sVhAYEkLZXpuf9IvGM-wtmi_Q2ioE3qJPZa6OdS8m4P24gP1U9CT0g=w408-h497-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397cb2165504335:0x5e10918bcd967679",
+      "street_view_url": "",
+      "place_id": "ChIJNUNQZSHLlzMReXaWzYuREF4",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"105542752114197200212\",\"name\":\"M.B.TAN DENTAL CLINIC (Owner)\",\"link\":\"https://www.google.com/maps/contrib/105542752114197200212\"}",
+      "complete_address": "{\"borough\":\"Malate\",\"street\":\"1013 estrada street, P.Ocampo St.\",\"city\":\"Malate\",\"postal_code\":\"1004\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"fg\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXmcgADcuyCcxGDwUzzLebGX1S8CHR4j8v8ekNKPUlwkpFdZhfo4A=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"100/10. The clinic is always clean. There's TV, so you will not get bored; they also offer refreshments* while waiting.\\n\\nDoc Mitch and her assistant, are both nice and friendly. They entertained every question I had and explained the service they'll do which I really appreciate. Above all, I can say that doc is really skilled (and still upskilling) and she is also very careful while doing dental procedures.\\n\\nOverall, 101% recommended.\",\"Images\":null,\"When\":\"a year ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSURmdXN1WC1RRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/110683055078393663218/reviews?hl=en-US\",\"posted_at_unix_micros\":1736106749244599,\"updated_at_unix_micros\":1736107171093898,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"100/10. The clinic is always clean. There's TV, so you will not get bored; they also offer refreshments* while waiting.\\n\\nDoc Mitch and her assistant, are both nice and friendly. They entertained every question I had and explained the service they'll do which I really appreciate. Above all, I can say that doc is really skilled (and still upskilling) and she is also very careful while doing dental procedures.\\n\\nOverall, 101% recommended.\",\"text_translated\":\"\",\"reply_text_original\":\"Thank you for your kind words po 😊\",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1736165907000000,\"reply_updated_at_unix_micros\":1736165907000000,\"published_at\":\"2025-01-05T19:52:29.244599Z\"},{\"Name\":\"Shiela Mae Cabañog\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocKpWHEuKpwQwNUYOufqn9dQfrngENrOJJaAxwCuBUqMGN31hg=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I was nervous about my first dental visit, but Dr. Tan immediately put me at ease. Her warm smile, gentle touch and clear explanation made me feel comfortable. Thank you M.B.TAN Dental Clinic 🤍\\nHighly recommended and will definitely return!✨\",\"Images\":null,\"When\":\"a year ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUNQcXVtekNnEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/113263959452148382785/reviews?hl=en-US\",\"posted_at_unix_micros\":1732348598596846,\"updated_at_unix_micros\":1732348598596846,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I was nervous about my first dental visit, but Dr. Tan immediately put me at ease. Her warm smile, gentle touch and clear explanation made me feel comfortable. Thank you M.B.TAN Dental Clinic 🤍\\nHighly recommended and will definitely return!✨\",\"text_translated\":\"\",\"reply_text\":\"Thank you, Mam Shiela! Goodbye! 😊\",\"reply_text_original\":\"Thank you mam shiela! Au Revoir! 😊\",\"reply_language\":\"fr\",\"reply_translated_lang\":\"en\",\"reply_posted_at_unix_micros\":1736165938000000,\"reply_updated_at_unix_micros\":1736165938000000,\"published_at\":\"2024-11-23T07:56:38.596846Z\"},{\"Name\":\"Romelyn Lapuz\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjWdtpyWC9Aw4ZRzxftPaGgiB3cZoGR6A2t1o6VBfBiv2nfRhQy7=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Dr. Tan has been my dentist since 2019 up till now. She's very professional and hands-on. Her hands are very lightweight and i never feel any discomfort every time i have an appointment with her.\",\"Images\":null,\"When\":\"a year ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnTUNJeW9UdE1BEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/101553782695450811538/reviews?hl=en-US\",\"posted_at_unix_micros\":1743471456377736,\"updated_at_unix_micros\":1743471456377736,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Dr. Tan has been my dentist since 2019 up till now. She's very professional and hands-on. Her hands are very lightweight and i never feel any discomfort every time i have an appointment with her.\",\"text_translated\":\"\",\"published_at\":\"2025-04-01T01:37:36.377736Z\"},{\"Name\":\"Richelle Escondo\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocKDOUZLwXwcyaZO-NspCLk_QWxLvCzUg6K0QM-j1RDxdBJMxg=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Thanks doc.  . Highly recommend super bait at accomodating ni doc. worth it and ngilo while cleaning . Babalikan Kita doc for braces. Godbless\",\"Images\":null,\"When\":\"a year ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnTUNvOG96dXJBRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/116927619824686390433/reviews?hl=en-US\",\"posted_at_unix_micros\":1744774150023643,\"updated_at_unix_micros\":1744774150023643,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Thanks doc.  . Highly recommend super bait at accomodating ni doc. worth it and ngilo while cleaning . Babalikan Kita doc for braces. Godbless\",\"text_translated\":\"\",\"reply_text_original\":\"Aww, thank you Ms. Richelle! See you soon 😊 \",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1748739573000000,\"reply_updated_at_unix_micros\":1748739573000000,\"published_at\":\"2025-04-16T03:29:10.023643Z\"},{\"Name\":\"Rance Co\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocL8hjwEuq6MP7iR6coaqZQHfukvITqdre7qAVCPrPIyrdn-gw=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"A trusted dentist and very professional in her work. I had my wisdom tooth extracted in the gentlest way she could possible do. Thank you doc Lorraine!\",\"Images\":null,\"When\":\"2 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSURkZ2F5SmhnRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/116316273915527076171/reviews?hl=en-US\",\"posted_at_unix_micros\":1708756210836235,\"updated_at_unix_micros\":1708756210836235,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"A trusted dentist and very professional in her work. I had my wisdom tooth extracted in the gentlest way she could possible do. Thank you doc Lorraine!\",\"text_translated\":\"\",\"reply_text_original\":\"Thank you Sir Terance. I'm just a message away for all your dental inquiries po 🫶\",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1709127630000000,\"reply_updated_at_unix_micros\":1709127630000000,\"published_at\":\"2024-02-24T06:30:10.836235Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [],
+      "audit": {
+        "problems": [
+          {
+            "issue": "Relying solely on a Facebook page instead of a dedicated, custom business website.",
+            "impact": "Limits brand credibility, professional appearance, and search engine optimization (SEO) potential for high-value dental services.",
+            "severity": "high"
+          },
+          {
+            "issue": "Lack of structured online booking or appointment scheduling integration on the profile.",
+            "impact": "Friction for prospective patients wanting to schedule visits outside of clinic hours, potentially leading to lost leads.",
+            "severity": "high"
+          },
+          {
+            "issue": "Absence of clear, easily accessible information regarding dental services, pricing, and operating hours in the primary meta tags.",
+            "impact": "Reduces conversion rates as users must hunt for basic practice details.",
+            "severity": "medium"
+          }
+        ],
+        "opportunities": [
+          "Develop a dedicated, mobile-responsive website featuring an integrated online appointment booking system and patient intake forms.",
+          "Implement local SEO strategies (Google Business Profile) combined with the new website to capture high-intent local searches for dental services in Malate.",
+          "Showcase before-and-after treatment galleries, patient testimonials, and detailed service pages to build stronger trust and authority."
+        ],
+        "summary": "M.B.TAN Dental Clinic currently relies on a social media presence, which restricts its digital footprint, brand authority, and appointment conversion efficiency. Building a dedicated website with integrated booking and local SEO will capture high-intent patients and streamline practice growth.",
+        "url": "http://www.facebook.com/mbtandentalclinic",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick thought on M.B.TAN Dental Clinic's online booking",
+        "body": "Hi there,\n\nI was looking at M.B.TAN Dental Clinic's Facebook page and noticed how active your community is. However, relying solely on social media can make it tough for patients to book appointments outside of clinic hours or quickly check your services.\n\nWithout a dedicated website, you might be missing out on folks searching Google for local dental care.\n\nWe put together a quick live demo showing what a custom site with built-in booking could look like for your practice. Would it be useful if I sent it over?\n\nBest,\nRahul\n\n---\nIf you'd prefer not to hear from me again, just reply 'unsubscribe' and I'll remove you right away.",
+        "provider": "gemini"
+      }
+    },
+    {
+      "input_id": "3719d3a8-d34d-43d6-880f-5a42bb4fedf3",
+      "link": "https://www.google.com/maps/place/Dobles+Dental+Clinic+%28Biomimetic+%7C+Oral+Surgery+%7C+Implants%29/data=!4m7!3m6!1s0x3397ca00ec8b8d6f:0x79265d41e7caf876!8m2!3d14.6087073!4d120.9839281!16s%2Fg%2F1tdr5q85!19sChIJb42L7ADKlzMRdvjK50FdJnk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMy4wIJJjKgBIAVAD&rclk=1",
+      "title": "Dobles Dental Clinic (Biomimetic | Oral Surgery | Implants)",
+      "category": "Dentist",
+      "address": "1693, Dobles Dental Clinic (Biomimetic | Oral Surgery | Implants), 1003 Mayhaligue St, Santa Cruz, Manila, 1003 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"9 AM–5 PM\"],\"Monday\":[\"10 AM–5 PM\"],\"Saturday\":[\"10 AM–5 PM\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"10 AM–5 PM\"],\"Tuesday\":[\"10 AM–5 PM\"],\"Wednesday\":[\"10 AM–5 PM\"]}",
+      "popular_times": "{}",
+      "website": "http://fb.com/dentaldobles",
+      "phone": "+63 932 900 5995",
+      "plus_code": "JX5M+FH Manila, Metro Manila, Philippines",
+      "review_count": "224",
+      "review_rating": "5.000000",
+      "reviews_per_rating": "{\"1\":0,\"2\":0,\"3\":1,\"4\":1,\"5\":222}",
+      "latitude": "14.608707",
+      "longitude": "120.983928",
+      "cid": "8729767465347381366",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeCCYjPSKH4prcPP3c5R6JiYNuhNwF2cTo4ED6w6f8IrxwukXQ72J-OUowUAX8sKxCKMlrnTZ86gH2LnxQF9gXxMa6TEsD0cbU4aHGrcbwAPTVcSk5LoI-9jiz9libvVR73VVLs=w427-h240-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397ca00ec8b8d6f:0x79265d41e7caf876",
+      "street_view_url": "",
+      "place_id": "ChIJb42L7ADKlzMRdvjK50FdJnk",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"102636884779347922070\",\"name\":\"Dobles Dental Clinic (Biomimetic | Oral Surgery | Implants) (Owner)\",\"link\":\"https://www.google.com/maps/contrib/102636884779347922070\"}",
+      "complete_address": "{\"borough\":\"Santa Cruz\",\"street\":\"1693, 1003 Mayhaligue St\",\"city\":\"Manila\",\"postal_code\":\"1003\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "[{\"id\":\"accessibility\",\"name\":\"Accessibility\",\"options\":[{\"name\":\"Wheelchair accessible entrance\",\"enabled\":true},{\"name\":\"Assistive hearing loop\",\"enabled\":false},{\"name\":\"Wheelchair accessible parking lot\",\"enabled\":false},{\"name\":\"Wheelchair accessible restroom\",\"enabled\":false},{\"name\":\"Wheelchair accessible seating\",\"enabled\":false}]}]",
+      "user_reviews": "[{\"Name\":\"Becca Flores\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXB-lBvXdVpV9tjautOHaRT_B1jDRaDnLr22zr0mO_Yzjm3m23fxw=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"We had an excellent experience with Dobles Dental Clinic during my daughter’s wisdom tooth extraction. From the initial consultation to the procedure itself, the entire team was professional, compassionate, and reassuring. They made sure my daughter was comfortable and well-informed every step of the way.\\n\\nWhat impressed us the most was the genuine care they showed even after the procedure. They consistently followed up to check on her healing and recovery, making us feel that they truly cared about their patients and not just the treatment itself.\\n\\nIt’s rare to find a clinic that combines expertise with such heartfelt patient care. We are very grateful for the excellent service and highly recommend Dobles Dental Clinic to anyone looking for a dental team that puts their patients first.\",\"Images\":null,\"When\":\"2 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2pSTlVuWmFaM0JqU0dkUlFsbERkRUk0UzNKR2FVRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/110398592365536901494/reviews?hl=en-US\",\"posted_at_unix_micros\":1785231398849833,\"updated_at_unix_micros\":1785231398849833,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"We had an excellent experience with Dobles Dental Clinic during my daughter’s wisdom tooth extraction. From the initial consultation to the procedure itself, the entire team was professional, compassionate, and reassuring. They made sure my daughter was comfortable and well-informed every step of the way.\\n\\nWhat impressed us the most was the genuine care they showed even after the procedure. They consistently followed up to check on her healing and recovery, making us feel that they truly cared about their patients and not just the treatment itself.\\n\\nIt’s rare to find a clinic that combines expertise with such heartfelt patient care. We are very grateful for the excellent service and highly recommend Dobles Dental Clinic to anyone looking for a dental team that puts their patients first.\",\"text_translated\":\"\",\"published_at\":\"2026-07-28T09:36:38.849833Z\"},{\"Name\":\"Faye Uy\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocL-q0RFFLCA4udVkf8uxdkpZx_oR9Zkd6iDMq9YfcVn6VtG2w=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I had a great experience with Dr. Francis. He is very professional and takes the time to explain the procedure, treatment plan, and the pros and cons of each option.\\n\\nI’m happy with the outcome. I also appreciated how efficient the clinic is with scheduling—appointments started on time, and everything was well organized. Overall, it was a smooth and pleasant experience. Highly recommended 😊\",\"Images\":null,\"When\":\"2 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21scGJrTTBjMmhLVW5OT1ZVWlhhRzQxTVZac2NFRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/112725126696236576583/reviews?hl=en-US\",\"posted_at_unix_micros\":1785908028521492,\"updated_at_unix_micros\":1785908028521492,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I had a great experience with Dr. Francis. He is very professional and takes the time to explain the procedure, treatment plan, and the pros and cons of each option.\\n\\nI’m happy with the outcome. I also appreciated how efficient the clinic is with scheduling—appointments started on time, and everything was well organized. Overall, it was a smooth and pleasant experience. Highly recommended 😊\",\"text_translated\":\"\",\"reply_text\":\"Thank you, ma'am 😊\",\"reply_text_original\":\"Thanks po maam 😊 \",\"reply_language\":\"fil\",\"reply_translated_lang\":\"en\",\"reply_posted_at_unix_micros\":1786419801000000,\"reply_updated_at_unix_micros\":1786419801000000,\"published_at\":\"2026-08-05T05:33:48.521492Z\"},{\"Name\":\"G Andal\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocL6wgFxxfnNrqgHEPRTvBm5EDde-sthxF91P6e52V_m3-r3jg=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I needed dental implants for 2 front teeth, 1 of which had been extracted 20+ years ago. I had virtual discussions with different dentists in different countries and felt comfortable with Dr. Francis’ approach to my dental requirements. Dr. Francis worked out a plan that fits my trip schedules to the Philippines without compromising safety and quality. Mine was a complicated case due to gum grafting requirements, etc., but Dr. Francis was able to carefully plan and execute each stage of the treatment with great precision and patience.\\n\\nFrom the initial consultation to the final placement of the implants, everything was explained clearly and thoroughly. I always felt informed and confident about the process. Dr. Francis and the staff  were professional, attentive, and genuinely caring, which made a big difference during what could have been a stressful procedure.\",\"Images\":null,\"When\":\"6 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2s1bk5FWTJWelJ1V0VKNGRURmljekZ0VDA1VGFGRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/117364591780465184764/reviews?hl=en-US\",\"posted_at_unix_micros\":1773632472356386,\"updated_at_unix_micros\":1773632472356386,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I needed dental implants for 2 front teeth, 1 of which had been extracted 20+ years ago. I had virtual discussions with different dentists in different countries and felt comfortable with Dr. Francis’ approach to my dental requirements. Dr. Francis worked out a plan that fits my trip schedules to the Philippines without compromising safety and quality. Mine was a complicated case due to gum grafting requirements, etc., but Dr. Francis was able to carefully plan and execute each stage of the treatment with great precision and patience.\\n\\nFrom the initial consultation to the final placement of the implants, everything was explained clearly and thoroughly. I always felt informed and confident about the process. Dr. Francis and the staff  were professional, attentive, and genuinely caring, which made a big difference during what could have been a stressful procedure.\",\"text_translated\":\"\",\"reply_text_original\":\"Thank you very much for sharing your experience and for trusting our team with your treatment.\\n\\nWe’re glad that the treatment plan worked well with your schedule and that the explanations helped you feel informed and confident throughout the process. Your case required careful planning, and we truly appreciate your trust and patience during each stage of the procedure.\\n\\nOur team is grateful for the opportunity to take care of your dental health. Thank you again for your kind words, and we look forward to seeing you again on your future visits.\\n\\n– Dr. Francis Paraiso and Team :D\\n\",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1776124958000000,\"reply_updated_at_unix_micros\":1776124958000000,\"published_at\":\"2026-03-16T03:41:12.356386Z\"},{\"Name\":\"Cath Mauricio\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJI4NOe1PW-TfEjFXyWw-mRcDQMs9dGCQ5mVXxmmYRYa8Fv8g=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I was searching for a dental clinic that could really help with my concerns, and I’m so glad I came across Dobles Dental Clinic on Facebook. I reached out to them and was able to schedule a check-up right away.\\n\\nFrom the moment I met Doc Francis, I immediately felt his warmth and professionalism. From consultation to the procedure and even aftercare, you can truly tell that he genuinely cares about his patients. He takes the time to explain everything clearly, gives you options when possible, and is honest about what’s best for your case.\\n\\nWhat I appreciated most is that you never feel like you’re being pushed into expensive treatments. Instead, they focus on what you actually need, which really shows their integrity and care for their patients.\\n\\nHighly recommended if you’re looking for a dentist you can trust!\",\"Images\":null,\"When\":\"6 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xwWFpuaERjVU5wVW1GRGQwRkJVMlpRZEhneVUyYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/113384979510646754783/reviews?hl=en-US\",\"posted_at_unix_micros\":1773965392116550,\"updated_at_unix_micros\":1773965392116550,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I was searching for a dental clinic that could really help with my concerns, and I’m so glad I came across Dobles Dental Clinic on Facebook. I reached out to them and was able to schedule a check-up right away.\\n\\nFrom the moment I met Doc Francis, I immediately felt his warmth and professionalism. From consultation to the procedure and even aftercare, you can truly tell that he genuinely cares about his patients. He takes the time to explain everything clearly, gives you options when possible, and is honest about what’s best for your case.\\n\\nWhat I appreciated most is that you never feel like you’re being pushed into expensive treatments. Instead, they focus on what you actually need, which really shows their integrity and care for their patients.\\n\\nHighly recommended if you’re looking for a dentist you can trust!\",\"text_translated\":\"\",\"reply_text_original\":\"Maraming salamat, Cath, for your kind words and for trusting us with your dental care.\\n\\nWe’re really glad to hear that you felt comfortable and well taken care of during your visit. Our team always tries our best to explain each case clearly and provide options so patients can make the best decision for their treatment.\\n\\nYour feedback means a lot to us, and we truly appreciate you taking the time to share your experience. We look forward to seeing you again and continuing to take care of your smile.\\n\\n– Dr. Francis Paraiso and Team \\u003c3\",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1776124904000000,\"reply_updated_at_unix_micros\":1776124904000000,\"published_at\":\"2026-03-20T00:09:52.11655Z\"},{\"Name\":\"Justin\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJwd1MRXhIf1epJheeA1rz9CPWI44a6kuHR1452ZaEZcf8Oow=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I had an exceptional experience at this dental clinic.\\n\\nDr. Francis demonstrated extensive knowledge and expertise in my case. I appreciate his transparency—he clearly outlined the advantages and disadvantages of each option during our evaluation, allowing me to make well-informed decisions.\\n\\nCommunication was excellent. Dr. Francis is approachable and responds promptly to any inquiries or concerns, which greatly contributed to a smooth and reassuring experience.\\n\\nOverall, the level of professionalism, clarity, and patient care exceeded my expectations. I highly recommend this clinic to anyone seeking reliable and thorough dental services.\\n\\nLastly, I highly recommend this place for foreigners seeking dental care, as the transparency, communication, and quality of service are truly outstanding.\",\"Images\":null,\"When\":\"10 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT25BeFJVaHJUbGcwWHpWdVZuZFhhR280VEhWSlpXYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/106710555886487185663/reviews?hl=en-US\",\"posted_at_unix_micros\":1764871655564834,\"updated_at_unix_micros\":1764871655564834,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I had an exceptional experience at this dental clinic.\\n\\nDr. Francis demonstrated extensive knowledge and expertise in my case. I appreciate his transparency—he clearly outlined the advantages and disadvantages of each option during our evaluation, allowing me to make well-informed decisions.\\n\\nCommunication was excellent. Dr. Francis is approachable and responds promptly to any inquiries or concerns, which greatly contributed to a smooth and reassuring experience.\\n\\nOverall, the level of professionalism, clarity, and patient care exceeded my expectations. I highly recommend this clinic to anyone seeking reliable and thorough dental services.\\n\\nLastly, I highly recommend this place for foreigners seeking dental care, as the transparency, communication, and quality of service are truly outstanding.\",\"text_translated\":\"\",\"reply_text_original\":\"Maraming salamat for taking the time to share your experience and for your kind words.\\n\\nOur team always does our best to explain treatment options clearly so patients can make well-informed decisions. We’re very glad to hear that the communication and transparency helped make your visit comfortable and smooth.\\n\\nWe truly appreciate your trust in our clinic. :)\\n\\n- Dr. Francis Paraiso and Team\",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1776124810000000,\"reply_updated_at_unix_micros\":1776124810000000,\"published_at\":\"2025-12-04T18:07:35.564834Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [],
+      "audit": {
+        "problems": [
+          {
+            "issue": "Relying solely on a Facebook page instead of a dedicated, branded business website",
+            "impact": "Limits professional credibility, brand ownership, and advanced conversion tracking for high-value dental services.",
+            "severity": "high"
+          },
+          {
+            "issue": "Absence of structured schema markup for local dental services in the HTML head",
+            "impact": "Reduces local search visibility and rich snippet potential in Google Maps and local search results.",
+            "severity": "high"
+          },
+          {
+            "issue": "Lack of direct online booking or appointment scheduling integration in the primary metadata",
+            "impact": "Creates friction for prospective patients looking to book consultations quickly outside of clinic hours.",
+            "severity": "medium"
+          }
+        ],
+        "opportunities": [
+          "Develop a dedicated, SEO-optimized website highlighting the clinic's 70+ year history and specific dental procedures.",
+          "Implement automated appointment booking widgets directly on digital properties to streamline patient acquisition.",
+          "Showcase patient testimonials and before-and-after case galleries prominently to leverage social proof."
+        ],
+        "summary": "While Dobles Dental Clinic enjoys strong historical branding and social engagement since 1953, relying entirely on a Facebook profile limits their professional credibility, direct booking capabilities, and local SEO performance compared to competitors with dedicated websites.",
+        "url": "http://fb.com/dentaldobles",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick thought on Dobles Dental's online presence",
+        "body": "Hi there,\n\nIt's impressive to see Dobles Dental Clinic's history of care since 1953. I was looking over your Facebook page and noticed you don't have a dedicated website yet. For high-end procedures like biomimetic work and implants, relying solely on social media can cap your professional credibility and makes it tough for patients to book after hours.\n\nWe put together a quick, live demo of a proper site for you with built-in appointment booking and local search optimization.\n\nWould it be useful if I sent it over?\n\nBest,\nRahul\n\n---\nIf you'd prefer not to hear from me again, just reply 'unsubscribe' and I'll remove you right away.",
+        "provider": "gemini"
+      }
+    }
+  ],
+  "store_stats": {
+    "new": 2
+  }
+}
