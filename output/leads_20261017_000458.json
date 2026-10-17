@@ -1,0 +1,149 @@
+{
+  "success": true,
+  "query": "dental clinic in Manila",
+  "started": "2026-10-17T00:02:56.883589",
+  "finished": "2026-10-17T00:04:58.240449",
+  "scraped_count": 6,
+  "skipped_known": 0,
+  "enriched_count": 2,
+  "leads": [
+    {
+      "input_id": "5aff323f-cf6e-405a-973a-00b7b5683db2",
+      "link": "https://www.google.com/maps/place/Manila+Dental+Care+Center/data=!4m7!3m6!1s0x3397cbc5e45a7fa5:0x65213b00e0339424!8m2!3d14.5899872!4d120.9775551!16s%2Fg%2F11kj6pg9kh!19sChIJpX9a5MXLlzMRJJQz4AA7IWU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMy4wIJJjKgBIAVAD&rclk=1",
+      "title": "Manila Dental Care Center",
+      "category": "Dental clinic",
+      "address": "Unit 2, Manila Dental Care Center, 613 Solana St, Barangay 658, Intramuros, Manila, 1002 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"9 AM–7 PM\"],\"Monday\":[\"9 AM–7 PM\"],\"Saturday\":[\"9 AM–7 PM\"],\"Sunday\":[\"12–6 PM\"],\"Thursday\":[\"9 AM–7 PM\"],\"Tuesday\":[\"9 AM–7 PM\"],\"Wednesday\":[\"9 AM–7 PM\"]}",
+      "popular_times": "{}",
+      "website": "https://facebook.com/ManilaDentalCareCenter",
+      "phone": "+63 906 569 5786",
+      "plus_code": "HXQH+X2 Manila, Metro Manila, Philippines",
+      "review_count": "16",
+      "review_rating": "4.000000",
+      "reviews_per_rating": "{\"1\":4,\"2\":0,\"3\":0,\"4\":0,\"5\":12}",
+      "latitude": "14.589987",
+      "longitude": "120.977555",
+      "cid": "7287170547009688612",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9H3ELwGPwm7xU9RdogotBs04XshRuHnygVurcvg7wbCXu7orzC-Y-cILHZQlW2ZAGzIFDwODGlAV_pxfuIionRx6kRmk4jvvZGuzzABWx7pku7viTexWlkqDRO4hBHzSzYbi1m6Ayy-0=w408-h544-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397cbc5e45a7fa5:0x65213b00e0339424",
+      "street_view_url": "",
+      "place_id": "ChIJpX9a5MXLlzMRJJQz4AA7IWU",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"117219901928819954223\",\"name\":\"Manila Dental Care Center (Owner)\",\"link\":\"https://www.google.com/maps/contrib/117219901928819954223\"}",
+      "complete_address": "{\"borough\":\"Barangay 658, Intramuros\",\"street\":\"Unit 2, 613 Solana St\",\"city\":\"Manila\",\"postal_code\":\"1002\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"LJGonz\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocKpxhZ5w0kSASXUe8DC4KFrQklU4enrrHB-HuROTKBz33Txqw=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"The best dental clinic so far I been. Very accommodating, approachable dentists. Highly recommended clinic, price wise and quality.\",\"Images\":null,\"When\":\"5 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2sxWVNtZG9NMnd5YmxBMFdtRnpXa3d0VWw5Q2VXYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/105776284915820559216/reviews?hl=en-US\",\"posted_at_unix_micros\":1776406790607088,\"updated_at_unix_micros\":1776406790607088,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"The best dental clinic so far I been. Very accommodating, approachable dentists. Highly recommended clinic, price wise and quality.\",\"text_translated\":\"\",\"published_at\":\"2026-04-17T06:19:50.607088Z\"},{\"Name\":\"jhunmore\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJkqq9hU9GLKF4W9jS3Lhv-KSPuBjvp1qVC1G0YzqWXxRa9fA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Highly Recommended Dental Clinic Specially For Fellow Seafarers .\\nFrom staff to dentists 5star.\\nCompetitive price and Quality Service.\",\"Images\":null,\"When\":\"10 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT25NeVRFRjVRblJvY0hRM1JETjJRVnBTUjFkVk5tYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/108388934742163275995/reviews?hl=en-US\",\"posted_at_unix_micros\":1764310426474752,\"updated_at_unix_micros\":1764310426474752,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Highly Recommended Dental Clinic Specially For Fellow Seafarers .\\nFrom staff to dentists 5star.\\nCompetitive price and Quality Service.\",\"text_translated\":\"\",\"published_at\":\"2025-11-28T06:13:46.474752Z\"},{\"Name\":\"k Fm\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUXqJ5TGE8lrzKWmztqNbFUyk54sSHS-nkeua-fSEXZu_w4RZ1a2g=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I had a really great experience here. The dentist incredibly professional and friendly.  I highly recommended for family and friends.\",\"Images\":null,\"When\":\"a week ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21aV1oxSkZkbmRsYjFaMGJ6RkJOamhQVUdsWGJHYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/107587681910639531165/reviews?hl=en-US\",\"posted_at_unix_micros\":1791097026155910,\"updated_at_unix_micros\":1791097026155910,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I had a really great experience here. The dentist incredibly professional and friendly.  I highly recommended for family and friends.\",\"text_translated\":\"\",\"published_at\":\"2026-10-04T06:57:06.15591Z\"},{\"Name\":\"Alejandra Miranda\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJaCn3ndRI4By6_1CWixHeeqeNqGUVldeOjPDe8JcXJ_6VZPQ=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I highly recommend this clinic. The staff and dentist are kind. The price is very affordable. I will definitely back for my next cleaning.\",\"Images\":null,\"When\":\"a week ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT25aNE5saHVjMEZuYm0xWWNHaHBORVZrWVZsVk5XYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/113213491636597719737/reviews?hl=en-US\",\"posted_at_unix_micros\":1791096069098806,\"updated_at_unix_micros\":1791096069098806,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I highly recommend this clinic. The staff and dentist are kind. The price is very affordable. I will definitely back for my next cleaning.\",\"text_translated\":\"\",\"published_at\":\"2026-10-04T06:41:09.098806Z\"},{\"Name\":\"winter\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJglGu736W_vVL5MkrJazxtGsMG09HghQD2bJ71u4EbllnMkA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Quality dental service so far yet so affordable. Dentists and staff are so accommodating and very approachable 🫶 will visit againn\",\"Images\":null,\"When\":\"2 weeks ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2pscVozZHRkVGR4UXpoa1lsbGtUVzFRUkRWYVVFRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/114206021225762555950/reviews?hl=en-US\",\"posted_at_unix_micros\":1790923692194858,\"updated_at_unix_micros\":1790923692194858,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Quality dental service so far yet so affordable. Dentists and staff are so accommodating and very approachable 🫶 will visit againn\",\"text_translated\":\"\",\"published_at\":\"2026-10-02T06:48:12.194858Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [],
+      "audit": {
+        "problems": [
+          {
+            "issue": "Relying solely on a social media profile (Facebook) instead of a dedicated, standalone business website.",
+            "impact": "Limits brand credibility, search engine optimization (SEO) potential, and full control over the user journey and booking capabilities.",
+            "severity": "high"
+          },
+          {
+            "issue": "Lack of direct call-to-action (CTA) elements such as online appointment booking or direct consultation links visible in the page metadata.",
+            "impact": "Friction in converting prospective social media visitors into paying dental patients.",
+            "severity": "high"
+          },
+          {
+            "issue": "Insufficient structured schema markup for local business and dental services in the HTML head.",
+            "impact": "Reduces visibility in local search engine results pages (SERPs) and Google Maps for high-intent local queries.",
+            "severity": "medium"
+          }
+        ],
+        "opportunities": [
+          "Build a dedicated mobile-responsive website integrated with an online appointment scheduling system.",
+          "Implement local SEO strategies and schema markup to capture high-intent dental search traffic in Manila.",
+          "Showcase patient testimonials, before-and-after galleries, and detailed service descriptions to build immediate trust."
+        ],
+        "summary": "Manila Dental Care Center currently relies on a Facebook profile as its primary digital presence, which limits its search visibility, professional branding, and patient conversion efficiency. Transitioning to a dedicated website with local SEO and online booking will significantly enhance patient acquisition.",
+        "url": "https://facebook.com/ManilaDentalCareCenter",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick thought on Manila Dental Care Center's online presence",
+        "body": "Hi there,\n\nI was looking at Manila Dental Care Center's Facebook page and noticed how active your community is. \n\nHowever, relying solely on social media means you're likely missing out on patients searching Google for local dentists, since there's no dedicated website or easy way for folks to book appointments online directly.\n\nWe put together a quick, live demo of what a simple, modern site with instant booking could look like for your clinic. \n\nWould it be useful if I sent it over?\n\nBest,\nRahul\n\n---\nIf you'd prefer not to hear from me again, just reply 'unsubscribe' and I'll remove you right away.",
+        "provider": "gemini"
+      }
+    },
+    {
+      "input_id": "5aff323f-cf6e-405a-973a-00b7b5683db2",
+      "link": "https://www.google.com/maps/place/DR+Smile+Dental+Clinic+-+Manila+Branch/data=!4m7!3m6!1s0x3397b7476110dcc9:0x1f8c79d1bcb3a5c5!8m2!3d14.6132441!4d121.0010529!16s%2Fg%2F11f7f933n_!19sChIJydwQYUe3lzMRxaWzvNF5jB8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMy4wIJJjKgBIAVAD&rclk=1",
+      "title": "DR Smile Dental Clinic - Manila Branch",
+      "category": "Dental clinic",
+      "address": "734 T. Anzures St, Sampaloc, Manila, 1008 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"9 AM–7 PM\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"9 AM–7 PM\"],\"Sunday\":[\"9 AM–7 PM\"],\"Thursday\":[\"9 AM–7 PM\"],\"Tuesday\":[\"9 AM–7 PM\"],\"Wednesday\":[\"9 AM–7 PM\"]}",
+      "popular_times": "{}",
+      "website": "https://px.molarsoft.com/_/drsmile?b=1218",
+      "phone": "+63 915 915 7285",
+      "plus_code": "J272+7C Manila, Metro Manila, Philippines",
+      "review_count": "84",
+      "review_rating": "4.400000",
+      "reviews_per_rating": "{\"1\":10,\"2\":3,\"3\":0,\"4\":1,\"5\":70}",
+      "latitude": "14.613244",
+      "longitude": "121.001053",
+      "cid": "2273325853636273605",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeIWZMQPoJtlUPssOFYFs32NyU_bQxIoANz8JDzlUU9lXXJqOOc8j6o114KZfgLT_TvKsEn26Bfr-jFcfQSU116YGra71R2gkiHn2EewKLIFo_toDM_PDbdSnFoQ3qmd0yJhI9X=w408-h544-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397b7476110dcc9:0x1f8c79d1bcb3a5c5",
+      "street_view_url": "",
+      "place_id": "ChIJydwQYUe3lzMRxaWzvNF5jB8",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"106127776789624546423\",\"name\":\"DR Smile Dental Clinic - Manila Branch (Owner)\",\"link\":\"https://www.google.com/maps/contrib/106127776789624546423\"}",
+      "complete_address": "{\"borough\":\"Sampaloc\",\"street\":\"734 T. Anzures St\",\"city\":\"Manila\",\"postal_code\":\"1008\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"Tatzkie.F\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJYIOXFOysvBuS33ObO4eIGlvyRKJIss18snv1c85RQrp5XIg=s120-c-rp-mo-ba12-br100\",\"Rating\":2,\"Description\":\"I've been to this clinic last year and my experience was great, with a friendly staff and quality of service. However, recently I have oral prophylaxis even though the staffs are as friendly as before, and booking for an appointment is somewhat convenient. I am very disappointed with the quality of their service.\\nI think it is because I am a patient with HMO, it is a different dentist from before and upon her checking there are a few buildups on my lower teeth (very minimal on my perspective and based on their chart) and they says it does not covered by HMO since it requires deep cleaning. With a few questions on my end, I still agree with what should be done and expect also for a better way of how this cleaning should be done. But, halfway through upon spitting out excess water there no any debris or plaque buildup that comes out. And yet I still paid for the said deep cleaning fee.\\nWith comparing to what I have been way way back before with other clinics this is the worst quality of service  considering with an addtl payment \\u0026 HMO avail that I have experienced.\\nFrom there, I said to my mind, I am never going back to this Clinic/branch again.\",\"Images\":null,\"When\":\"4 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2kxSFgyUndTM0EyWm1OUFozQmFlRmg2TURodkxVRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":2,\"author_url\":\"https://www.google.com/maps/contrib/118098080704970597597/reviews?hl=en-US\",\"posted_at_unix_micros\":1781166341990286,\"updated_at_unix_micros\":1781166341990286,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I've been to this clinic last year and my experience was great, with a friendly staff and quality of service. However, recently I have oral prophylaxis even though the staffs are as friendly as before, and booking for an appointment is somewhat convenient. I am very disappointed with the quality of their service.\\nI think it is because I am a patient with HMO, it is a different dentist from before and upon her checking there are a few buildups on my lower teeth (very minimal on my perspective and based on their chart) and they says it does not covered by HMO since it requires deep cleaning. With a few questions on my end, I still agree with what should be done and expect also for a better way of how this cleaning should be done. But, halfway through upon spitting out excess water there no any debris or plaque buildup that comes out. And yet I still paid for the said deep cleaning fee.\\nWith comparing to what I have been way way back before with other clinics this is the worst quality of service  considering with an addtl payment \\u0026 HMO avail that I have experienced.\\nFrom there, I said to my mind, I am never going back to this Clinic/branch again.\",\"text_translated\":\"\",\"published_at\":\"2026-06-11T08:25:41.990286Z\"},{\"Name\":\"Laurence Mark Manatad\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjWaDBjMw7JMjgWA0Sgjy2OPnqo_lrBfNcJdvoYsB2qERy8UPMkX=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I had a fantastic experience at this dental office! From the moment I walked in, the staff was incredibly welcoming and professional. The dentist took the time to explain every step of the procedure, which really helped put my mind at ease. The office is modern, clean, and uses the latest technology. I’m so happy with the results and will definitely be recommending them to all my friends and family!\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLc5-qUYlic_8AHnoR-pS1LcjABA6PDfpgth8T-CSrvjS2Olz3lwx2htqRyCkAJu7y4DH20y-9luMDpjqov-9_Ld5PtISrGSd_WQRFtyDNjg8LIPQEA7RZ270PNrxSXAfUjbh9TlaY7sHkuE=k-no\"],\"When\":\"8 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xkSVgwcG9VVVI2WDNKaFkwRXdjMWxGVFVsQ2RXYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/105499704181150129115/reviews?hl=en-US\",\"posted_at_unix_micros\":1768722358676273,\"updated_at_unix_micros\":1768722358676273,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I had a fantastic experience at this dental office! From the moment I walked in, the staff was incredibly welcoming and professional. The dentist took the time to explain every step of the procedure, which really helped put my mind at ease. The office is modern, clean, and uses the latest technology. I’m so happy with the results and will definitely be recommending them to all my friends and family!\",\"text_translated\":\"\",\"published_at\":\"2026-01-18T07:45:58.676273Z\"},{\"Name\":\"Netflix Account\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocIcC9MjU_9I7AU7l4w69qJLLKNm1vJ-GE4Z4LniT8qkoSn8dw=s120-c-rp-mo-br100\",\"Rating\":1,\"Description\":\"Complete waste of time and utterly unprofessional\\n\\nWe secured an appointment a full week in advance and received confirmation, yet there was zero coordination from this clinic. No reminders, no updates, no proactive communication. We even had to call them ourselves just to confirm, which should have already been a red flag.\\n\\nWhen we arrived for our confirmed appointment, we were not accommodated at all because they suddenly required us to contact our HMO provider first. This is unacceptable, especially since we specifically asked about this during our confirmation call and were told they would take care of it.\\n\\nAs a result, we wasted time, money, and energy traveling to their run-down clinic, only to be turned away due to their lack of coordination and internal clarity.\\n\\nThis clinic clearly does not respect patients’ time. If you value professionalism, proper communication, and basic appointment management, look elsewhere. I deeply regret giving this clinic a chance\\n\\nİt was also sooooo difficult to contact the numbers they have posted. We had to call a different branch just to ask help so they serve as a bridge to help us contact their Manila Branch.\\n\\nI find it hard to believe that the reviews  here are legitimate so be wary of that too.\",\"Images\":null,\"When\":\"8 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT25Cb2EwVnpNbEo0WlZOeVUxTlVOVk13Um1JdFdFRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":1,\"author_url\":\"https://www.google.com/maps/contrib/110187902962879919616/reviews?hl=en-US\",\"posted_at_unix_micros\":1769927060012438,\"updated_at_unix_micros\":1769927060012438,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Complete waste of time and utterly unprofessional\\n\\nWe secured an appointment a full week in advance and received confirmation, yet there was zero coordination from this clinic. No reminders, no updates, no proactive communication. We even had to call them ourselves just to confirm, which should have already been a red flag.\\n\\nWhen we arrived for our confirmed appointment, we were not accommodated at all because they suddenly required us to contact our HMO provider first. This is unacceptable, especially since we specifically asked about this during our confirmation call and were told they would take care of it.\\n\\nAs a result, we wasted time, money, and energy traveling to their run-down clinic, only to be turned away due to their lack of coordination and internal clarity.\\n\\nThis clinic clearly does not respect patients’ time. If you value professionalism, proper communication, and basic appointment management, look elsewhere. I deeply regret giving this clinic a chance\\n\\nİt was also sooooo difficult to contact the numbers they have posted. We had to call a different branch just to ask help so they serve as a bridge to help us contact their Manila Branch.\\n\\nI find it hard to believe that the reviews  here are legitimate so be wary of that too.\",\"text_translated\":\"\",\"published_at\":\"2026-02-01T06:24:20.012438Z\"},{\"Name\":\"Jainashka Isip\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVt0VEBZ39hIcw0rAgbKSx1xJBsaHAhqesvDJfPpUPDo6MUKhs=s120-c-rp-mo-br100\",\"Rating\":1,\"Description\":\"I have to say I'm genuinely disappointed with how my appointment was handled. This is something that should have been CHECKED WELL BEFORE sending out a confirmation, not just a day before the scheduled visit.\\n\\nWhen I booked my appointment for Feb. 14, your website clearly showed that the date \\u0026 time I selected were available. After booking, that timeslot even disappeared from the available options, which normally indicated that the system successfully secured it for me. Despite this, I received a call informing me that ALL THE SCHEDULES FOR THAT DAY WERE ALREADY FULLY BOOKED.\\n\\nWhat's even more disappointing is the explanation given by your staff that the system IS NOT UPDATED and that the times I selected were already taken. If the system truly wasn't updated, then how did it remove the slot immediately after my booking? The two things simply don't add up, and it leave me feeling misled and frustrated.\\n\\nIf clients using HMO are not being accommodated properly, it might be better to reconsider your accreditation rather than alow situations that inconvenience and disappoint customers like this.\\n\\nI planned my day around this appointment. What if I had cancelled other errands? What if I had taken leave from work? These are real impacts caused by the lack of coordination and professionalism.\\n\\nIt's honestly disheartening and very disappointing that a confirmed appointment, something your system indicated was secured, could be invalidated so casually and without accountability.\\n\\nThis experience has really shaken my trust in your process.\",\"Images\":null,\"When\":\"7 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xORVIyY3hSR05aWkVkemJHZEljVzFZVW1oWlYwRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":1,\"author_url\":\"https://www.google.com/maps/contrib/104498217983238239756/reviews?hl=en-US\",\"posted_at_unix_micros\":1772184191679924,\"updated_at_unix_micros\":1772184191679924,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I have to say I'm genuinely disappointed with how my appointment was handled. This is something that should have been CHECKED WELL BEFORE sending out a confirmation, not just a day before the scheduled visit.\\n\\nWhen I booked my appointment for Feb. 14, your website clearly showed that the date \\u0026 time I selected were available. After booking, that timeslot even disappeared from the available options, which normally indicated that the system successfully secured it for me. Despite this, I received a call informing me that ALL THE SCHEDULES FOR THAT DAY WERE ALREADY FULLY BOOKED.\\n\\nWhat's even more disappointing is the explanation given by your staff that the system IS NOT UPDATED and that the times I selected were already taken. If the system truly wasn't updated, then how did it remove the slot immediately after my booking? The two things simply don't add up, and it leave me feeling misled and frustrated.\\n\\nIf clients using HMO are not being accommodated properly, it might be better to reconsider your accreditation rather than alow situations that inconvenience and disappoint customers like this.\\n\\nI planned my day around this appointment. What if I had cancelled other errands? What if I had taken leave from work? These are real impacts caused by the lack of coordination and professionalism.\\n\\nIt's honestly disheartening and very disappointing that a confirmed appointment, something your system indicated was secured, could be invalidated so casually and without accountability.\\n\\nThis experience has really shaken my trust in your process.\",\"text_translated\":\"\",\"published_at\":\"2026-02-27T09:23:11.679924Z\"},{\"Name\":\"Franz Lowell Lim\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXLW6DF3mTcZOIkKlVrA7ppPm_D3kfPKhxbWnM0egWOBlCuWophgg=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Booking a schedule was a bit tricky but they tried their very best to accommodate our preferred schedule. Service was excellent, Doc JP was extra patient with us while performing our cleaning. Will definitely be back for future appointments. Thanks a lot!\",\"Images\":null,\"When\":\"9 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT25oWVowaHpWMFJYTkdSME55MHROelozVEd4ellrRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/103637720089938723126/reviews?hl=en-US\",\"posted_at_unix_micros\":1768555801178755,\"updated_at_unix_micros\":1768555801178755,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Booking a schedule was a bit tricky but they tried their very best to accommodate our preferred schedule. Service was excellent, Doc JP was extra patient with us while performing our cleaning. Will definitely be back for future appointments. Thanks a lot!\",\"text_translated\":\"\",\"published_at\":\"2026-01-16T09:30:01.178755Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [],
+      "audit": {
+        "problems": [
+          {
+            "issue": "The page has robots meta set to 'noindex', which prevents search engines from indexing the clinic's landing page.",
+            "impact": "Severe reduction in organic search visibility and local SEO discoverability for new patients.",
+            "severity": "high"
+          },
+          {
+            "issue": "Lack of structured data (Schema.org for Dentist / MedicalBusiness) in the HTML head.",
+            "impact": "Missed opportunity for rich snippets in search results (e.g., operating hours, ratings, direct booking links).",
+            "severity": "medium"
+          }
+        ],
+        "opportunities": [
+          "Implement LocalBusiness and Dentist schema markup to improve local SEO rankings and rich snippet displays.",
+          "Add direct click-to-call functionality on the mobile phone number element to improve mobile conversion rates.",
+          "Enhance Open Graph metadata to ensure rich previews when shared on messaging platforms and social media."
+        ],
+        "summary": "The DR Smile Dental Clinic landing page hosted on Molarsoft is clean and functional for appointments and queue management, but suffers from a 'noindex' directive that blocks search engine indexing and lacks local business schema markup.",
+        "url": "https://px.molarsoft.com/_/drsmile?b=1218",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick note about DR Smile Manila's search visibility",
+        "body": "Hi there,\n\nI was looking at the DR Smile Manila landing page and noticed the site looks clean and works well for patient bookings. However, I spotted a quick technical snag: there's an accidental 'noindex' tag hiding the page from Google, meaning new patients searching locally are likely missing you. Plus, adding local business schema could help you pop up with operating hours right in the search results.\n\nWe put together a quick live demo with these fixes in place. Would it be useful if I sent it over?\n\nBest,\nRahul\n\n---\nIf you'd prefer not to hear from me again, just reply 'unsubscribe' and I'll remove you right away.",
+        "provider": "gemini"
+      }
+    }
+  ],
+  "store_stats": {
+    "new": 2
+  }
+}
