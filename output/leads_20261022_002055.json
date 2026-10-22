@@ -1,0 +1,128 @@
+{
+  "success": true,
+  "query": "dental clinic in Manila",
+  "started": "2026-10-22T00:18:12.439240",
+  "finished": "2026-10-22T00:20:55.369746",
+  "scraped_count": 6,
+  "skipped_known": 0,
+  "enriched_count": 2,
+  "leads": [
+    {
+      "input_id": "b5bcde06-f513-47a5-8ffb-bcbf15372a0c",
+      "link": "https://www.google.com/maps/place/lucky+ace+dental+clinic+and+laboratory/data=!4m7!3m6!1s0x3397cb002f96614f:0x25bf20476b4589f8!8m2!3d14.5988939!4d120.9857197!16s%2Fg%2F11nr8qtrlz!19sChIJT2GWLwDLlzMR-IlFa0cgvyU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+      "title": "lucky ace dental clinic and laboratory",
+      "category": "Dental clinic",
+      "address": "434 Z.P. De Guzman St, Quiapo, Manila, 1001 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"8 AM–5 PM\"],\"Monday\":[\"8 AM–5 PM\"],\"Saturday\":[\"8 AM–5 PM\"],\"Sunday\":[\"8 AM–5 PM\"],\"Thursday\":[\"8 AM–5 PM\"],\"Tuesday\":[\"8 AM–5 PM\"],\"Wednesday\":[\"8 AM–5 PM\"]}",
+      "popular_times": "{}",
+      "website": "",
+      "phone": "+63 950 828 5909",
+      "plus_code": "HXXP+H7 Manila, Metro Manila, Philippines",
+      "review_count": "37",
+      "review_rating": "4.800000",
+      "reviews_per_rating": "{\"1\":0,\"2\":1,\"3\":1,\"4\":2,\"5\":33}",
+      "latitude": "14.598894",
+      "longitude": "120.985720",
+      "cid": "2719928191069555192",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfP4ArPSUVlfoA39WDnCN_24Q2SSZBpkoj6lk64i_bg8wQYU6OHf746O5p_umKSqq2ZS0f5VoltC1w8Ogk8Nq6s41t2j3QfR9Dt4CTtoPylXhbv6jGcQtrcHBIZMfYJSONpVo1vmYv2taKk=w410-h240-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397cb002f96614f:0x25bf20476b4589f8",
+      "street_view_url": "",
+      "place_id": "ChIJT2GWLwDLlzMR-IlFa0cgvyU",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"106580929413738081652\",\"name\":\"lucky ace dental clinic and laboratory (Owner)\",\"link\":\"https://www.google.com/maps/contrib/106580929413738081652\"}",
+      "complete_address": "{\"borough\":\"Quiapo\",\"street\":\"434 Z.P. De Guzman St\",\"city\":\"Manila\",\"postal_code\":\"\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"GERMILINA DE VILLA\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocLiyvmVdrbPW72qLQkYaWQq_YRP4pRWZbFEF9yCT0_M6ynbig=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Great service\",\"Images\":null,\"When\":\"a month ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21aZk1XcDNSMkpSWlZWTE5sVkhWak54V2xCUFNsRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/106316309328669868962/reviews?hl=en-US\",\"posted_at_unix_micros\":1788327786141310,\"updated_at_unix_micros\":1788327786141310,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Great service\",\"text_translated\":\"\",\"published_at\":\"2026-09-02T05:43:06.14131Z\"},{\"Name\":\"Katrin Vellosa\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocKSFJtau5ZW4J8QG1OhX_iVNRL-JUDzaUnPLJgXaup4JBnX2g=s120-c-rp-mo-br100\",\"Rating\":2,\"Description\":\"They are not accommodating.\",\"Images\":null,\"When\":\"2 weeks ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2pKb05XSlNkbUpVVG5kR1RXSnJlVFV0YzFOemJIYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":2,\"author_url\":\"https://www.google.com/maps/contrib/108282422160171486591/reviews?hl=en-US\",\"posted_at_unix_micros\":1791031534827420,\"updated_at_unix_micros\":1791031534827420,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"They are not accommodating.\",\"text_translated\":\"\",\"published_at\":\"2026-10-03T12:45:34.82742Z\"},{\"Name\":\"Mark Leonard Manuel\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjU94RAULV1Rbqa-_73Pqy4-NwaVKoywGdsWQKnHvN8yxX-agqZcyA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"how much is your rate for braces?\",\"Images\":null,\"When\":\"a month ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2tsZlZIVnZVVk5mZGtFMlptUTRUbmRmY1V0SFowRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/115223390813534153395/reviews?hl=en-US\",\"posted_at_unix_micros\":1788693277545282,\"updated_at_unix_micros\":1788693277545282,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"how much is your rate for braces?\",\"text_translated\":\"\",\"published_at\":\"2026-09-06T11:14:37.545282Z\"},{\"Name\":\"Reymart Ramirez\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVKsNIvHqRWXw8yQXFrotmC7cYTA15f19YdVWAFf_Jax2L1SiHm=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"good quality and affordable super ganda 😊🫶\",\"Images\":null,\"When\":\"a month ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xOalgwSm9URUZOY2xwSFNrTlJWMWhuVVZkaWVHYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/105754631889938395812/reviews?hl=en-US\",\"posted_at_unix_micros\":1788325785422763,\"updated_at_unix_micros\":1788325785422763,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"good quality and affordable super ganda 😊🫶\",\"text_translated\":\"\",\"published_at\":\"2026-09-02T05:09:45.422763Z\"},{\"Name\":\"Michelle Ancheta\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXKCCKOrXZYBfKHQBNSgdmbZmkpNEDwVuBwwLjYMcZ88HLFqUY=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"very affordable\\nclean and neat\\nverygood approachable to their client\\ncleanliness clinic\\nmore client to come ☺️\",\"Images\":null,\"When\":\"a month ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2s1WFRuSktaSEl4WWxnNWJWODBha1ptWTJOS2JYYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/105697914054220236188/reviews?hl=en-US\",\"posted_at_unix_micros\":1788149642810219,\"updated_at_unix_micros\":1788149642810219,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"very affordable\\nclean and neat\\nverygood approachable to their client\\ncleanliness clinic\\nmore client to come ☺️\",\"text_translated\":\"\",\"published_at\":\"2026-08-31T04:14:02.810219Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [],
+      "audit": {
+        "problems": [],
+        "summary": "No website"
+      },
+      "outreach": {
+        "subject": "",
+        "body": ""
+      }
+    },
+    {
+      "input_id": "b5bcde06-f513-47a5-8ffb-bcbf15372a0c",
+      "link": "https://www.google.com/maps/place/Dentacare+SM+Manila/data=!4m7!3m6!1s0x3397cbc1bc596715:0x283fd7140050d385!8m2!3d14.5901469!4d120.9830916!16s%2Fg%2F11twtvgz2f!19sChIJFWdZvMHLlzMRhdNQABTXPyg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+      "title": "Dentacare SM Manila",
+      "category": "Dental clinic",
+      "address": "SM City Manila, Natividad Lopez St, Ermita, Manila, 1000 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"10 AM–9 PM\"],\"Monday\":[\"10 AM–9 PM\"],\"Saturday\":[\"10 AM–9 PM\"],\"Sunday\":[\"10 AM–9 PM\"],\"Thursday\":[\"10 AM–9 PM\"],\"Tuesday\":[\"10 AM–9 PM\"],\"Wednesday\":[\"10 AM–9 PM\"]}",
+      "popular_times": "{}",
+      "website": "http://dentacarephilippines.com.ph/",
+      "phone": "+63 998 868 9387",
+      "plus_code": "HXRM+36 Manila, Metro Manila, Philippines",
+      "review_count": "72",
+      "review_rating": "4.700000",
+      "reviews_per_rating": "{\"1\":4,\"2\":0,\"3\":1,\"4\":3,\"5\":64}",
+      "latitude": "14.590147",
+      "longitude": "120.983092",
+      "cid": "2900273165954503557",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLe4bO3EyONUSSKgJrCOFHdzvUOJ-f0JDhr4lUtTdUzrwNLvbeluWJgA_HfBkvjSW16MGYrCNWS1ZspvnH0xXmfuh5Q3n1eQmdBIUlkqr9uHeRIuvdHF85Aldo3DHOU9cQwBVEaW3qGQhwg=w408-h544-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397cbc1bc596715:0x283fd7140050d385",
+      "street_view_url": "",
+      "place_id": "ChIJFWdZvMHLlzMRhdNQABTXPyg",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"114904716247277073984\",\"name\":\"Dentacare SM Manila (Owner)\",\"link\":\"https://www.google.com/maps/contrib/114904716247277073984\"}",
+      "complete_address": "{\"borough\":\"Ermita\",\"street\":\"SM City Manila, Natividad Lopez St\",\"city\":\"Manila\",\"postal_code\":\"1000\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"Priscilla Del Norte\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocIzJ7BEV04I7-UiTzNKez4pahYbuwFV1yNfKC8_IEFuqWsl8g=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I had a great experience at dentacare. The doctors and staff are very nice, and friendly, and welcoming, which made me feel more comfortable right away. They handled everything professionally n made the visit stress free. Overall, I'm satisfied with Their service n would definitely recommend dentacare to others.\",\"Images\":null,\"When\":\"6 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2pZNFJHbExUVUYxWW1GVk9VaHlRMWR6VnpWM2MwRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/106738256959443856665/reviews?hl=en-US\",\"posted_at_unix_micros\":1775639164299924,\"updated_at_unix_micros\":1775639385420619,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I had a great experience at dentacare. The doctors and staff are very nice, and friendly, and welcoming, which made me feel more comfortable right away. They handled everything professionally n made the visit stress free. Overall, I'm satisfied with Their service n would definitely recommend dentacare to others.\",\"text_translated\":\"\",\"reply_text_original\":\"Thank you for choosing Dentacare for your oral health needs! We truly appreciate your trust and are committed to providing you with the best care possible. Your message means a lot to us, and we look forward to seeing you again at our clinic. For all your oral health needs, i-Dentacare Mo Na Yan! 🦷💙\",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1785485296000000,\"reply_updated_at_unix_micros\":1785485296000000,\"published_at\":\"2026-04-08T09:06:04.299924Z\"},{\"Name\":\"alkiere mhiel fabro\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocK8I1L5YP2P372oANmPAEn9Bd0jObJwV82a5ZTI3sNBiF74Gw=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"The doctor will provide what is good for the teeth\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLcsNIbeXLDPOd5Z854LIf1G9_hTBt5r-tbwxFOiNOahZNsNxf9X0jZwEbOG0LvU1Dld21X2iVVd986gt9YotSVWwikMJaOl1ZnbA4pOTN5doN-EjeWK4jyiiHfAY0bfDC7hir6FIxGfDENW=k-no\"],\"When\":\"a month ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21oVGRWb3dVR0ZCZHpkTWRFSk9SM1puVUhkdVpFRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/111938774750654489491/reviews?hl=en-US\",\"posted_at_unix_micros\":1788081088815202,\"updated_at_unix_micros\":1788081088815202,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"The doctor will provide what is good for the teeth\",\"text_translated\":\"\",\"published_at\":\"2026-08-30T09:11:28.815202Z\"},{\"Name\":\"Mikaella Marie Briones\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjViUlqymhhId7_T8tY4Tykna_I9mQAjEG0QTViJOtGOReYK_r_K=s120-c-rp-mo-br100\",\"Rating\":1,\"Description\":\"Not recommending SM Manila Branch!\\n\\nScheduled a consultation and cleaning in SM Manila branch using my HMO and they were very unprofessional. 1st, when I was calling for schedule the person on the other line just suddenly drop the call even if I'm not yet done talking. 2nd, when I was scheduling thru text they didn't reply any confirmation text that my schedule has been successful, I needed to call them pa to confirm. 3rd and REALLY UNPROFESSIONAL, 3:30 was may schedule and then I'm already in SM Manila 3:15 PM when they just texted me that the dentist is not available like? SUPER UNPROFESSIONAL. They didn't also informed me earlier that the 1st visit will only be for consultation and cleaning ONLY, and only 1 hr before my rescheduled visit they informed me that my HMO contacts in the company were unreachable like I SCHEDULED WEEKS BEFORE BUT THEY ONLY CONTACTED THEM AN HOUR BEFORE MY SCHEDULE AND SAID TO ME THAT THEY ARE UNREACHABLE?? SUPER UNPROFESSIONAL!\\n\\nEven if I'm using my HMO card, it's free of my expense BUT IT'S STILL PAID BY MY COMPANY. I'm not working for nothing. Don't look down on your customers who use their HMO! and be PROFESSIONAL you're not in school anymore TO CRAM things!\",\"Images\":null,\"When\":\"10 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT25sVVJVcDVielEwUVd4Vk1HMXlWR3d3VG1GbFJFRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":1,\"author_url\":\"https://www.google.com/maps/contrib/105683284083006810529/reviews?hl=en-US\",\"posted_at_unix_micros\":1764914708295050,\"updated_at_unix_micros\":1764914991612662,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Not recommending SM Manila Branch!\\n\\nScheduled a consultation and cleaning in SM Manila branch using my HMO and they were very unprofessional. 1st, when I was calling for schedule the person on the other line just suddenly drop the call even if I'm not yet done talking. 2nd, when I was scheduling thru text they didn't reply any confirmation text that my schedule has been successful, I needed to call them pa to confirm. 3rd and REALLY UNPROFESSIONAL, 3:30 was may schedule and then I'm already in SM Manila 3:15 PM when they just texted me that the dentist is not available like? SUPER UNPROFESSIONAL. They didn't also informed me earlier that the 1st visit will only be for consultation and cleaning ONLY, and only 1 hr before my rescheduled visit they informed me that my HMO contacts in the company were unreachable like I SCHEDULED WEEKS BEFORE BUT THEY ONLY CONTACTED THEM AN HOUR BEFORE MY SCHEDULE AND SAID TO ME THAT THEY ARE UNREACHABLE?? SUPER UNPROFESSIONAL!\\n\\nEven if I'm using my HMO card, it's free of my expense BUT IT'S STILL PAID BY MY COMPANY. I'm not working for nothing. Don't look down on your customers who use their HMO! and be PROFESSIONAL you're not in school anymore TO CRAM things!\",\"text_translated\":\"\",\"reply_text_original\":\"Hi! We are sorry that you did not find our service well, we will talk to our staff in the clinic and will also reach out to you. We strive to serve each of our patients the most care and this message means a lot to us!\",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1771670722000000,\"reply_updated_at_unix_micros\":1771670722000000,\"published_at\":\"2025-12-05T06:05:08.29505Z\"},{\"Name\":\"Joel Abusman\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVhaaCnXJAKbVFw_7H-1a7_cQr23H4zi5ne4cQKhHsx1AOj_J6g=s120-c-rp-mo-br100\",\"Rating\":1,\"Description\":\"I don’t usually leave reviews, but I would not recommend this dental clinic. I found them unprofessional and felt they were more focused on finding ways to overcharge patients rather than providing proper care. I would rather give zero star if there is an option.\",\"Images\":null,\"When\":\"9 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21SbFJXcG5PVXBWYkRJd01rRTRiR3M1ZWpkdmEzYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":1,\"author_url\":\"https://www.google.com/maps/contrib/116049502499919153447/reviews?hl=en-US\",\"posted_at_unix_micros\":1766569614062541,\"updated_at_unix_micros\":1766569614062541,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I don’t usually leave reviews, but I would not recommend this dental clinic. I found them unprofessional and felt they were more focused on finding ways to overcharge patients rather than providing proper care. I would rather give zero star if there is an option.\",\"text_translated\":\"\",\"reply_text_original\":\"Hi! We are sorry that you did not find our service well, we will talk to our staff in the clinic and will also reach out to you. We strive to serve each of our patients the most care and this message means a lot to us!\",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1771670727000000,\"reply_updated_at_unix_micros\":1771670727000000,\"published_at\":\"2025-12-24T09:46:54.062541Z\"},{\"Name\":\"Alexander Villalino\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXLavjF0uec6DfwkNs0Luco-ms-N_WPeVQU8FLKzBJGrIQbTs8p=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"it was very good experience especially if you are first timer having braces. the staff was kind and nice service.\",\"Images\":null,\"When\":\"6 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21WcGNrTTJjVk54VkRVMFMwY3RSelF6ZWtVeVNWRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/105902030201922656744/reviews?hl=en-US\",\"posted_at_unix_micros\":1775633285023772,\"updated_at_unix_micros\":1775633285023772,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"it was very good experience especially if you are first timer having braces. the staff was kind and nice service.\",\"text_translated\":\"\",\"reply_text_original\":\"Thank you for choosing Dentacare for your oral health needs! We truly appreciate your trust and are committed to providing you with the best care possible. Your message means a lot to us, and we look forward to seeing you again at our clinic. For all your oral health needs, i-Dentacare Mo Na Yan! 🦷💙\",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1785485299000000,\"reply_updated_at_unix_micros\":1785485299000000,\"published_at\":\"2026-04-08T07:28:05.023772Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [
+        "admin@dentacarephilippines.com.ph",
+        "marketing@dentacarephilippines.com.ph"
+      ],
+      "audit": {
+        "problems": [
+          {
+            "issue": "Truncated meta description and HTML content in article excerpt ('Dentacare Philippines open')",
+            "impact": "Incomplete content damages brand professionalism and user trust during initial discovery.",
+            "severity": "medium"
+          },
+          {
+            "issue": "Lack of structured data (Schema.org for Dentist/LocalBusiness) visible in the head section",
+            "impact": "Misses crucial local SEO signals needed to rank effectively in local map packs and search engine results across multiple branches (e.g., Batangas).",
+            "severity": "high"
+          }
+        ],
+        "opportunities": [
+          "Implement Local Business Schema markup for all 27+ branches to enhance local SEO visibility and Google Maps integration.",
+          "Add prominent NAP (Name, Address, Phone) details directly in the header or footer for immediate patient contact.",
+          "Optimize service card images and alt text for better accessibility and image search rankings."
+        ],
+        "summary": "Dentacare Philippines has a clean, modern interface with clear calls-to-action for bookings, but suffers from minor content truncation and lacks robust local SEO structured data to fully capitalize on its 27 branch locations.",
+        "url": "http://dentacarephilippines.com.ph/",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick thought on Dentacare's 27 branches",
+        "body": "Hi there,\n\nManaging 27 dental branches across the Philippines is no small feat, and I really like how clean and booking-friendly your site at dentacarephilippines.com.ph is.\n\nWhile browsing, I noticed a couple of technical gaps holding things back. First, some article excerpts are cutting off abruptly, which can slightly affect first impressions. More importantly, the site is missing local SEO structured data, making it harder for Google to properly index all your branch locations in local search results.\n\nI put together a quick live demo fixing these. Would it be useful if I sent it over?\n\nBest,\nRahul\n\n---\nIf you'd prefer not to hear from me again, just reply 'unsubscribe' and I'll remove you right away.",
+        "provider": "gemini"
+      }
+    }
+  ],
+  "store_stats": {
+    "new": 1
+  }
+}
