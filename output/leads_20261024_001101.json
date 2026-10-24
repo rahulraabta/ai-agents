@@ -1,0 +1,122 @@
+{
+  "success": true,
+  "query": "dental clinic in Manila",
+  "started": "2026-10-24T00:08:03.223663",
+  "finished": "2026-10-24T00:11:01.229457",
+  "scraped_count": 6,
+  "skipped_known": 0,
+  "enriched_count": 2,
+  "leads": [
+    {
+      "input_id": "3665dbbc-64f7-4b51-88b7-96032b18e90f",
+      "link": "https://www.google.com/maps/place/Precision+Smile+Dental+Clinic/data=!4m7!3m6!1s0x3397c9bf3a938621:0xddb012b43d81bb66!8m2!3d14.6065937!4d120.9904948!16s%2Fg%2F11fl764x3m!19sChIJIYaTOr_JlzMRZruBPbQSsN0?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+      "title": "Precision Smile Dental Clinic",
+      "category": "Dental clinic",
+      "address": "857 Galicia St, Sampaloc, Manila, 1008 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"9 AM–6 PM\"],\"Monday\":[\"9 AM–6 PM\"],\"Saturday\":[\"9 AM–6 PM\"],\"Sunday\":[\"10 AM–7 PM\"],\"Thursday\":[\"Closed\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"9 AM–6 PM\"]}",
+      "popular_times": "{}",
+      "website": "https://precisionsmiledentalclinic.com/",
+      "phone": "+63 908 865 4180",
+      "plus_code": "JX4R+J5 Manila, Metro Manila, Philippines",
+      "review_count": "11",
+      "review_rating": "5.000000",
+      "reviews_per_rating": "{\"1\":0,\"2\":0,\"3\":0,\"4\":0,\"5\":11}",
+      "latitude": "14.606594",
+      "longitude": "120.990495",
+      "cid": "15974288443618474854",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdVzDNkZjTHhrfLOcZcaXiP7D_k3wRPGnULxW_KrCR0e03dE81-WGQn802qcmWF8JjwHBiQhQs4QXuXysyL2aHu-oR4obrOOW_8CWw2rjuDb_ooI_bssaqX2aB0_IEyNHVk97i7=w408-h272-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397c9bf3a938621:0xddb012b43d81bb66",
+      "street_view_url": "",
+      "place_id": "ChIJIYaTOr_JlzMRZruBPbQSsN0",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "[{\"link\":\"http://m.me/precisionsmile.dentalclinic\",\"source\":\"m.me\"}]",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"102466765929785140883\",\"name\":\"Precision Smile Dental Clinic (Owner)\",\"link\":\"https://www.google.com/maps/contrib/102466765929785140883\"}",
+      "complete_address": "{\"borough\":\"Sampaloc\",\"street\":\"857 Galicia St\",\"city\":\"Manila\",\"postal_code\":\"1008\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"Elle Torres\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjWWEH1MbOsn1_h9WVQiqGpjVrrz1BAfxNr6XHnXqduHRoiuNGO-=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I had such a wonderful experience at this dental clinic. As a pregnant patient, I was naturally a little anxious about getting dental treatment, but the entire team made me feel safe and well cared for from start to finish.\\n\\nThe dentist was incredibly kind, gentle, and patient. She took the time to explain everything, made sure I was comfortable throughout the procedure, and were very mindful of my pregnancy. I truly appreciated how compassionate and attentive everyone was.\\n\\nThe service was excellent, and I left feeling grateful for the care I received.\",\"Images\":null,\"When\":\"2 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT25adE5tNHpWRUpxTkhGeWNqQlJaVWczTURsclkxRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/106805992236289595936/reviews?hl=en-US\",\"posted_at_unix_micros\":1785848024994410,\"updated_at_unix_micros\":1785848081188606,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I had such a wonderful experience at this dental clinic. As a pregnant patient, I was naturally a little anxious about getting dental treatment, but the entire team made me feel safe and well cared for from start to finish.\\n\\nThe dentist was incredibly kind, gentle, and patient. She took the time to explain everything, made sure I was comfortable throughout the procedure, and were very mindful of my pregnancy. I truly appreciated how compassionate and attentive everyone was.\\n\\nThe service was excellent, and I left feeling grateful for the care I received.\",\"text_translated\":\"\",\"published_at\":\"2026-08-04T12:53:44.99441Z\"},{\"Name\":\"Queenberly Concha\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjU9FkEJSJPpCsyvzyUUeAYCBVXV5cNCNCyNUUa1CvBODMXnkUE=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I highly appreciate and recommend the dentist. Very hands-on and provides quality services. I just got my oral prophylaxis and filling. The result of my filled teeth is excellent; it seems like nothing happened and is similar to my normal teeth.\\n\\nYes, the price matches the quality service. I will return for my next tooth filling; I just need to save money first. ✌️\\n\\nThanks, Doc!\",\"Images\":null,\"When\":\"8 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xJMlowOVdUMlJLZGs1NFJVdHhUWFo1VW5KTk5HYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/103516945498283649495/reviews?hl=en-US\",\"posted_at_unix_micros\":1770101964167220,\"updated_at_unix_micros\":1770101964167220,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I highly appreciate and recommend the dentist. Very hands-on and provides quality services. I just got my oral prophylaxis and filling. The result of my filled teeth is excellent; it seems like nothing happened and is similar to my normal teeth.\\n\\nYes, the price matches the quality service. I will return for my next tooth filling; I just need to save money first. ✌️\\n\\nThanks, Doc!\",\"text_translated\":\"\",\"published_at\":\"2026-02-03T06:59:24.16722Z\"},{\"Name\":\"Trish A\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjU_0e5caL4_xdhP_KI-QgvMmBfZEQC3TnEc-spP23DEh11ciLI=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"Affordable service. The doctor is very approachable, kind and a good listener. Gives you recommendations for the treatment.\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLe6ZIV7JAtk3hzLB4RD4i0UzTQ6N-TOf4EEnbHzQFI2P25QBNegF03yU_YCday0UNbC8yZM1lVspUfHKeMJIFNjxZIHSZSEkMsyBrBKlnTT1lY9qNIMgUpreU0yEQWY9nZriZdb6g=k-no\"],\"When\":\"a year ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnTUNvX0xEOWp3RRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/108383705804173555566/reviews?hl=en-US\",\"posted_at_unix_micros\":1744723330272505,\"updated_at_unix_micros\":1744723330272505,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Affordable service. The doctor is very approachable, kind and a good listener. Gives you recommendations for the treatment.\",\"text_translated\":\"\",\"published_at\":\"2025-04-15T13:22:10.272505Z\"},{\"Name\":\"Leana Estomaguio\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJc472ZN7W5lfUGsZ_r7hYEjs9w1ba5CWPQCr4QH-f02lHAIw=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I highly recommend Dr. Jake for his outstanding dental treatment. Not only he is straightforward about giving recommendations to your dental needs but also takes time to listen and understand your concerns. He also explains very well, making sure I understand what was being discussed even before we start the treatment. I am definitely excited to come back again! 😊\",\"Images\":null,\"When\":\"6 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUQ4aGRDSURnEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/112458709680879978407/reviews?hl=en-US\",\"posted_at_unix_micros\":1595368851584113,\"updated_at_unix_micros\":1595368851584113,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I highly recommend Dr. Jake for his outstanding dental treatment. Not only he is straightforward about giving recommendations to your dental needs but also takes time to listen and understand your concerns. He also explains very well, making sure I understand what was being discussed even before we start the treatment. I am definitely excited to come back again! 😊\",\"text_translated\":\"\",\"published_at\":\"2020-07-21T22:00:51.584113Z\"},{\"Name\":\"unfortunate kun\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocK_knWMQjeMszLGbMZ1fJ5oeW8ReB4-O8HcGpkz5kc1kblPNA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Cheaper compared to other clinics. The clinic feels homey and the dentist was great\",\"Images\":null,\"When\":\"7 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUNVdjZyeVBBEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/110546809694365853429/reviews?hl=en-US\",\"posted_at_unix_micros\":1565423041735332,\"updated_at_unix_micros\":1565423041735332,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Cheaper compared to other clinics. The clinic feels homey and the dentist was great\",\"text_translated\":\"\",\"reply_text_original\":\"Thank you for the wonderful feedback and for trusting us with your dental needs.\",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1580284958000000,\"reply_updated_at_unix_micros\":1580284958000000,\"published_at\":\"2019-08-10T07:44:01.735332Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [],
+      "audit": {},
+      "outreach": {
+        "subject": "",
+        "body": ""
+      }
+    },
+    {
+      "input_id": "3665dbbc-64f7-4b51-88b7-96032b18e90f",
+      "link": "https://www.google.com/maps/place/DSDY+Dental+Clinic+Malate,+Manila+%28Official%29/data=!4m7!3m6!1s0x3397c91b7b9d5c2f:0xd6d9933cd28cc2ee!8m2!3d14.5715458!4d120.9939544!16s%2Fg%2F11p5rkdfy0!19sChIJL1ydexvJlzMR7sKM0jyT2dY?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+      "title": "DSDY Dental Clinic Malate, Manila (Official)",
+      "category": "Dental clinic",
+      "address": "2067 B Modesto St, Malate, Manila, 1004 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"8 AM–5 PM\"],\"Monday\":[\"8 AM–5 PM\"],\"Saturday\":[\"8 AM–5 PM\"],\"Sunday\":[\"8 AM–5 PM\"],\"Thursday\":[\"8 AM–5 PM\"],\"Tuesday\":[\"8 AM–5 PM\"],\"Wednesday\":[\"8 AM–5 PM\"]}",
+      "popular_times": "{}",
+      "website": "https://www.facebook.com/dsdydentalofficial",
+      "phone": "+63 977 773 2875",
+      "plus_code": "HXCV+JH Manila, Metro Manila, Philippines",
+      "review_count": "27",
+      "review_rating": "5.000000",
+      "reviews_per_rating": "{\"1\":0,\"2\":0,\"3\":0,\"4\":0,\"5\":27}",
+      "latitude": "14.571546",
+      "longitude": "120.993954",
+      "cid": "15481567083502551790",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfSHJTS4_lfAXrivjRvRAaba7M7G-_dKTAGWnGUD0zVOY-oA8Wex7TfDIiTyPYz2DmgQKJedbrM9v0VFTE53VlvQyv6T7Y7d2NMY1sLpSKde4Q-tI1RGTDMM7v-chsJTbicloGfuw=w408-h544-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397c91b7b9d5c2f:0xd6d9933cd28cc2ee",
+      "street_view_url": "",
+      "place_id": "ChIJL1ydexvJlzMR7sKM0jyT2dY",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"113119638932474185363\",\"name\":\"DSDY Dental Clinic Malate, Manila (Official) (Owner)\",\"link\":\"https://www.google.com/maps/contrib/113119638932474185363\"}",
+      "complete_address": "{\"borough\":\"Malate\",\"street\":\"2067 B Modesto St\",\"city\":\"Manila\",\"postal_code\":\"1004\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"Ezekiel Geronga\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjV7DwFRUcAPvM0114JWO0t7aaKgdFvedr-u8BEZoRZi94uu7A=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"DSDY Dental offers affordable dental services without compromising quality. The staff are very friendly, welcoming, and make patients feel comfortable during the visit. It’s a great place if you’re looking for budget-friendly dental care with good service and a pleasant experience. Highly recommended!\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLdUiSmFqJ305e0QmWzZ0T_VNQiHcRzHLsLlaSFhrnnhU9fIBgeD7-JlhQg7U6y2q4XwfehiLVc6K4m2rx0lZdFwIKEFmW2fGqC5yAphXslkG4kdwCf3qohjW7XCwR2MpyqArRW9LWeopLc=k-no\"],\"When\":\"7 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2tnNGMzRkVOamMyYW5SYVdrSnFPSE4xV0ZCYWIwRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/108362652504187106056/reviews?hl=en-US\",\"posted_at_unix_micros\":1772978321095223,\"updated_at_unix_micros\":1772978321095223,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"DSDY Dental offers affordable dental services without compromising quality. The staff are very friendly, welcoming, and make patients feel comfortable during the visit. It’s a great place if you’re looking for budget-friendly dental care with good service and a pleasant experience. Highly recommended!\",\"text_translated\":\"\",\"reply_text_original\":\"Thank you Sir..🦷✨️😃\",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1773017438000000,\"reply_updated_at_unix_micros\":1773025783000000,\"published_at\":\"2026-03-08T13:58:41.095223Z\"},{\"Name\":\"Ba\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVfNoiOe0d3ycT9a2TgdEc9LHBGHXtHfJHVMaOHjrWxkvPMC8Q=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Had 2 of my wisdom teeth extracted here. Doc Dante is the best 😊 He explained the procedure to me and answered all of my many many questions. I was very anxious beforehand which I told him a week before and through text and when I came in, he was playing calming music too. When doing the procedure, he was very quick (depending on the case— in my case it was faster than anticipated), I didn’t even realize the upper wisdom tooth was removed already as he proceeded with the second one. He also priced really reasonably which I am thankful for. Highly recommended!\",\"Images\":null,\"When\":\"7 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT210RldrUm5OMmhvUTJGbGNGOXdVMHBhWm00d2NsRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/115071960884480140216/reviews?hl=en-US\",\"posted_at_unix_micros\":1772281815367351,\"updated_at_unix_micros\":1772281815367351,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Had 2 of my wisdom teeth extracted here. Doc Dante is the best 😊 He explained the procedure to me and answered all of my many many questions. I was very anxious beforehand which I told him a week before and through text and when I came in, he was playing calming music too. When doing the procedure, he was very quick (depending on the case— in my case it was faster than anticipated), I didn’t even realize the upper wisdom tooth was removed already as he proceeded with the second one. He also priced really reasonably which I am thankful for. Highly recommended!\",\"text_translated\":\"\",\"reply_text_original\":\"Thank you Ma'am Ba for trusting and recommending our services 😊✨️🦷❤️\",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1772292033000000,\"reply_updated_at_unix_micros\":1772292033000000,\"published_at\":\"2026-02-28T12:30:15.367351Z\"},{\"Name\":\"ChristRF\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVr8yWHLiMGibmNG-0PwQ8ttQU-JmEsIv5Ufxqc_OOZm_SmXTY=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"I had an excellent experience at DSDY Dental Clinic Malate. The service was fast and very affordable without compromising quality. The staff and dentist Dr. Yu, are extremely professional and, most importantly, honest about the treatments you actually need.\\nA huge plus is that they accept walk-ins, which is perfect for busy schedules. Definitely the go-to clinic in Manila for reliable and budget-friendly dental care!\",\"Images\":null,\"When\":\"7 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21ONmNIY3RjbE5FZG5ab05GOVZOa3N0VUhsM1FsRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/114429821430161217906/reviews?hl=en-US\",\"posted_at_unix_micros\":1773825727534982,\"updated_at_unix_micros\":1773825727534982,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I had an excellent experience at DSDY Dental Clinic Malate. The service was fast and very affordable without compromising quality. The staff and dentist Dr. Yu, are extremely professional and, most importantly, honest about the treatments you actually need.\\nA huge plus is that they accept walk-ins, which is perfect for busy schedules. Definitely the go-to clinic in Manila for reliable and budget-friendly dental care!\",\"text_translated\":\"\",\"reply_text_original\":\"Thank you Sir😃🦷✨️❤️\",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1773845872000000,\"reply_updated_at_unix_micros\":1773845872000000,\"published_at\":\"2026-03-18T09:22:07.534982Z\"},{\"Name\":\"Jorim Rafael\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVvcX-IgpZHDJsfpttX1wwbHMSDt5ifgTw8hRUKPyOHEPzMEqKE=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"All reviews are legit.. at first i have doubt if the service is good but i try because i need to finish my medical on that day.. but it turns out great. The Doctor is kind and he assures that your tooth is in good hands.. also he has good pricing on what he is doing.. recommended dentist.. and i think i found my dentist..  i will come back here for sure.\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLc4iwkHqMBx-fNa004_LlmMcONYRqh4bD72udZ1QI3TOpZUPuztgkcWu5vzXNa9quRhVJ1cn3MGImrdp0-3a9FaQpFn0IxDPfkcmxQZut-xe8QGMlmHVXYXzzEe6euvPKk91qxs6w=k-no\",\"https://lh3.googleusercontent.com/grass-cs/AABkmLdCEsdUR9MjYTQzvJNkmzm-zf6_Lgd86vEGiavTk951RLmK8hN_og57BKKfgq9C3Sz6JNiWE5mbg73-JMeKzrKFMcaHeH2SwGB5gB9aWUloMeS7ISv_iILwyhVW9qUzMfVyXjLJ=k-no\",\"https://lh3.googleusercontent.com/grass-cs/AABkmLc7U-aQQTnvTA-o1VlqRHiwS3zejnIi7rHG08ZdiMLJIczZZMaJXBIV9Ssy2OWzLqTIWfD4KdA6hLEZSBQeMVbJBAdNzqWFdhbQwqd8ING92JtDYMxQ7culkSk2C4FBzt_ShfzA=k-no\",\"https://lh3.googleusercontent.com/grass-cs/AABkmLfGi1tzABRrUmppOsVsbQMM40n8sEo4DR_gf82ckJ_VBBlW-n1sdB9uscvNLYrjKH_tUqEGtNe5-iNZkvAeF7i6E8d5Wtf9pesGNO4_NbbMnkRk8p_IS3BTET5Kr7eCM67HpRk=k-no\"],\"When\":\"2 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUNMb2ZxVlRnEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/112749810736636089661/reviews?hl=en-US\",\"posted_at_unix_micros\":1718840150636534,\"updated_at_unix_micros\":1718840150636534,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"All reviews are legit.. at first i have doubt if the service is good but i try because i need to finish my medical on that day.. but it turns out great. The Doctor is kind and he assures that your tooth is in good hands.. also he has good pricing on what he is doing.. recommended dentist.. and i think i found my dentist..  i will come back here for sure.\",\"text_translated\":\"\",\"reply_text_original\":\"Thank you Sir Jorim. Godbless and Good luck to your work\",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1718842832000000,\"reply_updated_at_unix_micros\":1718842832000000,\"published_at\":\"2024-06-19T23:35:50.636534Z\"},{\"Name\":\"Pradas James Ivan\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJ92WW5hGTczOMC3TEwfewK4f635-BounChfguyez1ckUUOnA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"The Best Dental care I have ever experienced! Professional, courteous, affordable and friendly staff they're responsive to my inquiries during I set my appointment.Thank you Doc Yu  I would Highly Recommend to anyone.\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLfrTjNRD89uDgn2UBplcs_Y4taLQ2-2cLmwa6G96zet8ZqvRudRh1wpTuNRvbeEKKgS3dCbzD-R7U4qglAqGu2ZoEqv29fknrGJpINXnt0BN3Dh8agss-7Spba6bhljWtwVo5E=k-no\"],\"When\":\"4 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSURPdl83Y3JnRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/113278640787059190062/reviews?hl=en-US\",\"posted_at_unix_micros\":1658112887405460,\"updated_at_unix_micros\":1658112887405460,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"The Best Dental care I have ever experienced! Professional, courteous, affordable and friendly staff they're responsive to my inquiries during I set my appointment.Thank you Doc Yu  I would Highly Recommend to anyone.\",\"text_translated\":\"\",\"reply_text_original\":\"Thank you, James! 😊🦷\",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1658114901000000,\"reply_updated_at_unix_micros\":1658114901000000,\"published_at\":\"2022-07-18T02:54:47.40546Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [],
+      "audit": {
+        "problems": [
+          {
+            "issue": "Relying solely on a Facebook page instead of a dedicated business website limits brand ownership, search engine visibility, and advanced booking or patient management integration.",
+            "impact": "Misses potential patients searching independently on Google and restricts the clinic's ability to showcase comprehensive services and professional credentials.",
+            "severity": "high"
+          },
+          {
+            "issue": "Low social proof and engagement metrics visible in metadata (only ~998 followers and minimal active interaction indicators).",
+            "impact": "May reduce trust among prospective dental patients comparing local clinics in the Manila area.",
+            "severity": "medium"
+          }
+        ],
+        "opportunities": [
+          "Develop a dedicated, mobile-optimized website with an integrated online appointment booking system to capture high-intent local search traffic.",
+          "Implement structured local SEO schema (Dentist/MedicalClinic) to improve local map pack and organic search rankings in Manila and Malate.",
+          "Leverage patient testimonials and before-and-after case studies on the landing pages to build higher conversion trust."
+        ],
+        "summary": "While DSDY Dental Clinic maintains an active social media presence on Facebook, the lack of an official independent website limits their digital footprint, patient conversion capabilities, and local search engine dominance.",
+        "url": "https://www.facebook.com/dsdydentalofficial",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick thought on DSDY Dental Clinic's online presence",
+        "body": "Hi there,\n\nI was looking at DSDY Dental Clinic's Facebook page and noticed you're doing great work helping patients in Malate. \n\nRelying only on Facebook instead of an independent website makes it tough to show up on Google when locals search for dentists, and under 1,000 followers can sometimes make new patients hesitate compared to clinics with a stronger digital footprint.\n\nWe actually put together a quick, live demo of a clean, professional website tailored for DSDY Dental to help fix this. \n\nWould it be useful if I sent it over?\n\nBest,\nRahul\n\n---\nIf you'd prefer not to hear from me again, just reply 'unsubscribe' and I'll remove you right away.",
+        "provider": "gemini"
+      }
+    }
+  ],
+  "store_stats": {
+    "new": 2
+  }
+}
