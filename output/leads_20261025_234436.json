@@ -1,0 +1,152 @@
+{
+  "success": true,
+  "query": "dental clinic in Manila",
+  "started": "2026-10-25T23:40:52.157619",
+  "finished": "2026-10-25T23:44:36.364462",
+  "scraped_count": 6,
+  "skipped_known": 0,
+  "enriched_count": 2,
+  "leads": [
+    {
+      "input_id": "46b91c7f-ad6b-4136-97cb-a750c117b066",
+      "link": "https://www.google.com/maps/place/Manila+Dental+Care+Center/data=!4m7!3m6!1s0x3397cbc5e45a7fa5:0x65213b00e0339424!8m2!3d14.5899872!4d120.9775551!16s%2Fg%2F11kj6pg9kh!19sChIJpX9a5MXLlzMRJJQz4AA7IWU?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+      "title": "Manila Dental Care Center",
+      "category": "Dental clinic",
+      "address": "Unit 2, Manila Dental Care Center, 613 Solana St, Barangay 658, Intramuros, Manila, 1002 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"9 AM–7 PM\"],\"Monday\":[\"9 AM–7 PM\"],\"Saturday\":[\"9 AM–7 PM\"],\"Sunday\":[\"12–6 PM\"],\"Thursday\":[\"9 AM–7 PM\"],\"Tuesday\":[\"9 AM–7 PM\"],\"Wednesday\":[\"9 AM–7 PM\"]}",
+      "popular_times": "{}",
+      "website": "https://facebook.com/ManilaDentalCareCenter",
+      "phone": "+63 906 569 5786",
+      "plus_code": "HXQH+X2 Manila, Metro Manila, Philippines",
+      "review_count": "16",
+      "review_rating": "4.000000",
+      "reviews_per_rating": "{\"1\":4,\"2\":0,\"3\":0,\"4\":0,\"5\":12}",
+      "latitude": "14.589987",
+      "longitude": "120.977555",
+      "cid": "7287170547009688612",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdm0M2D67QU43-ndtf9DxXOb_AQZxMDSjP1C3aqseeA911w5IqVQjn4HMqay1ICGuxINT8YMXaSBs83fUNfrwDFuYq4isjotRJAQj2K1KkFX40c5ZA-tCXVIQJFAgq3I4kPqtRtmxGm4eg=w408-h544-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397cbc5e45a7fa5:0x65213b00e0339424",
+      "street_view_url": "",
+      "place_id": "ChIJpX9a5MXLlzMRJJQz4AA7IWU",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"117219901928819954223\",\"name\":\"Manila Dental Care Center (Owner)\",\"link\":\"https://www.google.com/maps/contrib/117219901928819954223\"}",
+      "complete_address": "{\"borough\":\"Barangay 658, Intramuros\",\"street\":\"Unit 2, 613 Solana St\",\"city\":\"Manila\",\"postal_code\":\"1002\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"winter\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJglGu736W_vVL5MkrJazxtGsMG09HghQD2bJ71u4EbllnMkA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Quality dental service so far yet so affordable. Dentists and staff are so accommodating and very approachable 🫶 will visit againn\",\"Images\":null,\"When\":\"3 weeks ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2pscVozZHRkVGR4UXpoa1lsbGtUVzFRUkRWYVVFRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/114206021225762555950/reviews?hl=en-US\",\"posted_at_unix_micros\":1790923692194858,\"updated_at_unix_micros\":1790923692194858,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Quality dental service so far yet so affordable. Dentists and staff are so accommodating and very approachable 🫶 will visit againn\",\"text_translated\":\"\",\"published_at\":\"2026-10-02T06:48:12.194858Z\"},{\"Name\":\"LJGonz\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocKpxhZ5w0kSASXUe8DC4KFrQklU4enrrHB-HuROTKBz33Txqw=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"The best dental clinic so far I been. Very accommodating, approachable dentists. Highly recommended clinic, price wise and quality.\",\"Images\":null,\"When\":\"6 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2sxWVNtZG9NMnd5YmxBMFdtRnpXa3d0VWw5Q2VXYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/105776284915820559216/reviews?hl=en-US\",\"posted_at_unix_micros\":1776406790607088,\"updated_at_unix_micros\":1776406790607088,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"The best dental clinic so far I been. Very accommodating, approachable dentists. Highly recommended clinic, price wise and quality.\",\"text_translated\":\"\",\"published_at\":\"2026-04-17T06:19:50.607088Z\"},{\"Name\":\"jhunmore\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJkqq9hU9GLKF4W9jS3Lhv-KSPuBjvp1qVC1G0YzqWXxRa9fA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Highly Recommended Dental Clinic Specially For Fellow Seafarers .\\nFrom staff to dentists 5star.\\nCompetitive price and Quality Service.\",\"Images\":null,\"When\":\"10 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT25NeVRFRjVRblJvY0hRM1JETjJRVnBTUjFkVk5tYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/108388934742163275995/reviews?hl=en-US\",\"posted_at_unix_micros\":1764310426474752,\"updated_at_unix_micros\":1764310426474752,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Highly Recommended Dental Clinic Specially For Fellow Seafarers .\\nFrom staff to dentists 5star.\\nCompetitive price and Quality Service.\",\"text_translated\":\"\",\"published_at\":\"2025-11-28T06:13:46.474752Z\"},{\"Name\":\"k Fm\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUXqJ5TGE8lrzKWmztqNbFUyk54sSHS-nkeua-fSEXZu_w4RZ1a2g=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I had a really great experience here. The dentist incredibly professional and friendly.  I highly recommended for family and friends.\",\"Images\":null,\"When\":\"3 weeks ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21aV1oxSkZkbmRsYjFaMGJ6RkJOamhQVUdsWGJHYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/107587681910639531165/reviews?hl=en-US\",\"posted_at_unix_micros\":1791097026155910,\"updated_at_unix_micros\":1791097026155910,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I had a really great experience here. The dentist incredibly professional and friendly.  I highly recommended for family and friends.\",\"text_translated\":\"\",\"published_at\":\"2026-10-04T06:57:06.15591Z\"},{\"Name\":\"Alejandra Miranda\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJaCn3ndRI4By6_1CWixHeeqeNqGUVldeOjPDe8JcXJ_6VZPQ=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I highly recommend this clinic. The staff and dentist are kind. The price is very affordable. I will definitely back for my next cleaning.\",\"Images\":null,\"When\":\"3 weeks ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT25aNE5saHVjMEZuYm0xWWNHaHBORVZrWVZsVk5XYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/113213491636597719737/reviews?hl=en-US\",\"posted_at_unix_micros\":1791096069098806,\"updated_at_unix_micros\":1791096069098806,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I highly recommend this clinic. The staff and dentist are kind. The price is very affordable. I will definitely back for my next cleaning.\",\"text_translated\":\"\",\"published_at\":\"2026-10-04T06:41:09.098806Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [],
+      "audit": {
+        "problems": [
+          {
+            "issue": "Relying solely on a Facebook page instead of a dedicated, custom-branded website.",
+            "impact": "Limits professional credibility, brand ownership, advanced search engine optimization (SEO), and custom patient booking/intake workflows.",
+            "severity": "high"
+          },
+          {
+            "issue": "Low social proof and engagement metrics visible on the profile (only 346 followers).",
+            "impact": "May fail to build sufficient trust with prospective dental patients comparing local clinics.",
+            "severity": "medium"
+          },
+          {
+            "issue": "Absence of structured schema markup for local medical businesses on a standalone domain.",
+            "impact": "Reduces visibility in local Google Maps and organic search results for high-intent dental keywords in Manila.",
+            "severity": "high"
+          }
+        ],
+        "opportunities": [
+          "Develop a dedicated, mobile-responsive website featuring online appointment scheduling and a service catalog (e.g., orthodontics, cleaning, surgery).",
+          "Implement local SEO strategies and Google Business Profile integration to capture high-intent 'dentist in Manila' search traffic.",
+          "Showcase patient testimonials, before-and-after case galleries, and clear pricing or insurance information to build immediate trust."
+        ],
+        "summary": "Manila Dental Care Center currently relies entirely on a Facebook presence, which limits its professional branding, advanced booking capabilities, and local search visibility compared to competitors with dedicated websites.",
+        "url": "https://facebook.com/ManilaDentalCareCenter",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick thought on Manila Dental Care Center's online presence",
+        "body": "Hi there,\n\nI came across Manila Dental Care Center while looking at local practices online. Relying solely on Facebook is a great way to start, but it can make it harder for new patients to find you on Google or book appointments seamlessly when they're comparing local clinics.\n\nWithout a dedicated website, you're also missing out on local search visibility that brings in nearby patients.\n\nWe actually put together a quick live demo of what a custom, professional site could look like for your clinic. Would it be useful if I sent it over?\n\nBest,\nRahul\n\n---\nIf you'd prefer not to hear from me again, just reply 'unsubscribe' and I'll remove you right away.",
+        "provider": "gemini"
+      }
+    },
+    {
+      "input_id": "46b91c7f-ad6b-4136-97cb-a750c117b066",
+      "link": "https://www.google.com/maps/place/Bocobo+Dental+Care+Co./data=!4m7!3m6!1s0x3397ca28c9c1f245:0x3193d9316ae85e40!8m2!3d14.578069!4d120.982349!16s%2Fg%2F11b7hdhcwl!19sChIJRfLBySjKlzMRQF7oajHZkzE?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+      "title": "Bocobo Dental Care Co.",
+      "category": "Dental clinic",
+      "address": "1253 Bocobo St, Ermita, Manila, 1004 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"8 AM–5 PM\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"8 AM–5 PM\"],\"Sunday\":[\"8 AM–5 PM\"],\"Thursday\":[\"8 AM–5 PM\"],\"Tuesday\":[\"8 AM–5 PM\"],\"Wednesday\":[\"8 AM–5 PM\"]}",
+      "popular_times": "{}",
+      "website": "http://www.bocobodentalcare.com/",
+      "phone": "+63 922 443 7318",
+      "plus_code": "HXHJ+6W Manila, Metro Manila, Philippines",
+      "review_count": "253",
+      "review_rating": "4.700000",
+      "reviews_per_rating": "{\"1\":17,\"2\":1,\"3\":0,\"4\":1,\"5\":234}",
+      "latitude": "14.578069",
+      "longitude": "120.982349",
+      "cid": "3572437735705173568",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdqwXWyWl-SS6OSv6_R0yCYleRoMeJ22C3mRAolS9byQYyAXK7lSPIteOuTH3OYx3WiRyw0qdzbxH56El8tzNiR41x5BynEYPR2Pi81qqopIRCL6VCHt6YEABaM5vNyY6uss8b_JQ=w408-h306-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397ca28c9c1f245:0x3193d9316ae85e40",
+      "street_view_url": "",
+      "place_id": "ChIJRfLBySjKlzMRQF7oajHZkzE",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"116115434821131434940\",\"name\":\"Bocobo Dental Care Co. (Owner)\",\"link\":\"https://www.google.com/maps/contrib/116115434821131434940\"}",
+      "complete_address": "{\"borough\":\"Ermita\",\"street\":\"1253 Bocobo St\",\"city\":\"Manila\",\"postal_code\":\"1004\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "[{\"id\":\"accessibility\",\"name\":\"Accessibility\",\"options\":[{\"name\":\"Wheelchair accessible entrance\",\"enabled\":true},{\"name\":\"Wheelchair accessible restroom\",\"enabled\":true}]}]",
+      "user_reviews": "[{\"Name\":\"EnidlareG Gomz\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUMKYJ2xM6Du5owE2mv1ovVNPSmul9U8RquBKIXLrR4Poyw2oJH=s120-c-rp-mo-ba12-br100\",\"Rating\":4,\"Description\":\"Indeed the service was exceptional. Very friendly dentist Dr Noble as well as the frontdesk staff. A bit pricey yes, but suits their service.\\n\\nAppointment is a must!\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLcBz6J-HU2lkjT97YqHZm3Nk3Ac8ES9PCSep60hrZHioxubRvj-E-mPPl5GA85gNx46NO_2tm5d2x61AutFH0Sxw0KCSxjYhKJacHaBFRFgrlT8p33e23qlrgBWabsMdaT4_1XyoCGBV-GT=k-no\"],\"When\":\"10 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2paUVYwbzRaVUpRWHpZMFZXVXljbTVwUms5SE1HYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":4,\"author_url\":\"https://www.google.com/maps/contrib/109772144406990981331/reviews?hl=en-US\",\"posted_at_unix_micros\":1765014172447465,\"updated_at_unix_micros\":1765014172447465,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Indeed the service was exceptional. Very friendly dentist Dr Noble as well as the frontdesk staff. A bit pricey yes, but suits their service.\\n\\nAppointment is a must!\",\"text_translated\":\"\",\"published_at\":\"2025-12-06T09:42:52.447465Z\"},{\"Name\":\"Ezekiel Wilson\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjWL9x6j9tAhAA5dr-_wzCVxaF6ZojKBF72ahL_Bb_weApXQzjQ=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"I had a great experience at Bocobo Dental Care Co.. The clinic is clean, modern, and very well organized, which made me feel comfortable as soon as I arrived. The staff were friendly and welcoming, assisting me smoothly from registration to the treatment. The dentist was professional and took the time to explain the procedure clearly, which helped me feel more relaxed during the visit. I also appreciated how gentle and careful the treatment was throughout the session. Overall, the service was efficient and very professional. I would definitely recommend Bocobo Dental Care Co. to anyone looking for reliable and quality dental care.\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLdcLMGzOLA05QKZ1mEA1spsVGk3JSUQLquUnlK0eg9Z3ZQvS9ycn8pqgsRsAteO4iL6yDK0JpVzFN_icvfs7q9PvgIem6odlyQbjBe3AfAFNc3tH5cto_Ll_knhZ2MRmeDMWbfWRT9OkHw=k-no\",\"https://lh3.googleusercontent.com/grass-cs/AABkmLdSKDvhrLFM1eP8xWx3PCMx9zXioLbv24iAf3hc8h8Fb4KL1_C0xNhpH3jSpjqNZXNm8W2G7Elzhmr2TDvhF-_0VoTN4hm_1qHG2jNzNgXBTmGflKDw52IK0_XRzd6WuyRJF0IN24Wa1iFn=k-no\"],\"When\":\"7 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2taUmJsazRaSHB3ZVc1SGRucFBWMDFQUWxkV2FrRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/108912526729099966200/reviews?hl=en-US\",\"posted_at_unix_micros\":1773640413634144,\"updated_at_unix_micros\":1773640413634144,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I had a great experience at Bocobo Dental Care Co.. The clinic is clean, modern, and very well organized, which made me feel comfortable as soon as I arrived. The staff were friendly and welcoming, assisting me smoothly from registration to the treatment. The dentist was professional and took the time to explain the procedure clearly, which helped me feel more relaxed during the visit. I also appreciated how gentle and careful the treatment was throughout the session. Overall, the service was efficient and very professional. I would definitely recommend Bocobo Dental Care Co. to anyone looking for reliable and quality dental care.\",\"text_translated\":\"\",\"published_at\":\"2026-03-16T05:53:33.634144Z\"},{\"Name\":\"Benj Lyndon Naboa\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJAiVdyHg1NStXIQCpzMVvGB9BlBMNf0KRsXhrrQBgGLZTUfg=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Clinic is clean and staff are accommodating to your concerns. Will recommend to those looking for dental services to come and avail here.\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLcHLZ39KySzYdpsFeNocGLor3_PoItxwSiuXfNDD0MDTiQVLhP8U8OSCCk5eBQMpCZQ78i3pKt7cyRTrH0zciz9pGatxuMNKi4HXEEKq9fYOBPNttDaF9Q1DaEJ4RMHtrsiSnsJM0wi6JXA=k-no\"],\"When\":\"10 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT25saFh6SXRTM2hNV2xOeVowRnhhalpYVFZwTVdsRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/113871813548945781079/reviews?hl=en-US\",\"posted_at_unix_micros\":1766289101900839,\"updated_at_unix_micros\":1766289101900839,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Clinic is clean and staff are accommodating to your concerns. Will recommend to those looking for dental services to come and avail here.\",\"text_translated\":\"\",\"published_at\":\"2025-12-21T03:51:41.900839Z\"},{\"Name\":\"Madz DC\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVXDSBmYGpjt95UlMYvDG0FBKVaiRBbx8xmlIfn6IraOgxOu0dWqg=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I usually get pretty anxious about going to the dentist, so when I had a dental emergency, I was honestly dreading it. The staff were super kind and helpful from the start, and the dentist was really warm and easy to talk to. She made me feel comfortable right away, walked me through everything, and kept checking in to make sure I was okay. Dr. Kaye  also took her time and made sure the work was done properly, which I really appreciated.\",\"Images\":null,\"When\":\"a year ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2pSU1pVRnRRa1F4Tkc0NFR6SmliRTVTZEdaZlozYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/109694984320507417720/reviews?hl=en-US\",\"posted_at_unix_micros\":1756590869859900,\"updated_at_unix_micros\":1756590869859900,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I usually get pretty anxious about going to the dentist, so when I had a dental emergency, I was honestly dreading it. The staff were super kind and helpful from the start, and the dentist was really warm and easy to talk to. She made me feel comfortable right away, walked me through everything, and kept checking in to make sure I was okay. Dr. Kaye  also took her time and made sure the work was done properly, which I really appreciated.\",\"text_translated\":\"\",\"published_at\":\"2025-08-30T21:54:29.8599Z\"},{\"Name\":\"Mark Renan “Kram” Dela Peña\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjWweFG0d_9VM0mvI6XoYAdEPpbrNanuIYbGTpGquc6Es3r2DAs=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I had a fantastic experience at Bocobo Dental Care Co. The staff was incredibly accommodating and made me feel comfortable from the moment I walked in.\\n\\nDr. Noble is truly exceptional. They were understanding, non-judgemental, and took the time to listen to my concerns. I felt completely at ease during my procedure. I highly recommend this clinic and Dr. Noble to anyone looking for compassionate and professional dental care.\",\"Images\":null,\"When\":\"a year ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xocWFGUnFlRlZYVm10UlUyWnBaR3hRWmxFNGFWRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/104529207331536071830/reviews?hl=en-US\",\"posted_at_unix_micros\":1755417794360423,\"updated_at_unix_micros\":1755417794360423,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I had a fantastic experience at Bocobo Dental Care Co. The staff was incredibly accommodating and made me feel comfortable from the moment I walked in.\\n\\nDr. Noble is truly exceptional. They were understanding, non-judgemental, and took the time to listen to my concerns. I felt completely at ease during my procedure. I highly recommend this clinic and Dr. Noble to anyone looking for compassionate and professional dental care.\",\"text_translated\":\"\",\"published_at\":\"2025-08-17T08:03:14.360423Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [
+        "bocobodental@yahoo.com.ph",
+        "bocobodentalschedules@gmail.com"
+      ],
+      "audit": {
+        "problems": [
+          {
+            "issue": "Website relies entirely on Wix JavaScript-heavy rendering and heavy client-side polyfills, which may slow down initial page load (TTFB and LCP).",
+            "impact": "Potential drop in mobile conversions and poor SEO indexing due to heavy client-side rendering frameworks.",
+            "severity": "medium"
+          },
+          {
+            "issue": "Lack of explicit local business schema markup in the provided HTML head to optimize for local dental search queries.",
+            "impact": "Reduced visibility in Google Local Pack results for patients searching for dental care in the area.",
+            "severity": "high"
+          }
+        ],
+        "opportunities": [
+          "Implement LocalBusiness Schema.org structured data to enhance local SEO visibility and Google Maps integration.",
+          "Optimize asset delivery and leverage Wix caching or server-side rendering improvements to enhance Core Web Vitals performance.",
+          "Add prominent call-to-action elements (e.g., 'Book Appointment' or 'Call Now') within the critical render path."
+        ],
+        "summary": "The Bocobo Dental Care website runs on the Wix platform, utilizing modern JavaScript polyfills and renderer configurations. While functionally operational, the site lacks visible server-side rendered SEO structured data in the head and relies heavily on client-side rendering, which can be improved for better local search ranking and faster mobile load times.",
+        "url": "http://www.bocobodentalcare.com/",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick thought on your site's local search visibility",
+        "body": "Hi there,\n\nI was looking over the Bocobo Dental Care site and appreciate the clean layout. \n\nI noticed two small technical things that might be holding you back. First, because it relies heavily on client-side rendering, it can sometimes slow down mobile load times. Second, it's missing local business schema markup in the header, which makes it harder for Google's Local Pack to pick you up for nearby patients.\n\nWe put together a quick, live demo showing how a lighter version handles these. Would it be useful if I sent it over?\n\nBest,\nRahul\n\n---\nIf you'd prefer not to hear from me again, just reply 'unsubscribe' and I'll remove you right away.",
+        "provider": "gemini"
+      }
+    }
+  ],
+  "store_stats": {
+    "new": 2
+  }
+}
