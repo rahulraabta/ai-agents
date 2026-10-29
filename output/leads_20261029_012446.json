@@ -1,0 +1,129 @@
+{
+  "success": true,
+  "query": "dental clinic in Manila",
+  "started": "2026-10-29T01:22:18.713314",
+  "finished": "2026-10-29T01:24:46.142709",
+  "scraped_count": 6,
+  "skipped_known": 0,
+  "enriched_count": 2,
+  "leads": [
+    {
+      "input_id": "002f1672-549c-4f3d-82b5-09bce081b6d3",
+      "link": "https://www.google.com/maps/place/Premium+Smile+Dental+Clinic/data=!4m7!3m6!1s0x3397cb00691e7c8d:0x136a265ef8df873a!8m2!3d14.6006104!4d120.9852816!16s%2Fg%2F11yc5606qn!19sChIJjXweaQDLlzMROoff-F4mahM?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+      "title": "Premium Smile Dental Clinic",
+      "category": "Dental clinic",
+      "address": "826 Gonzalo Puyat St, Quiapo, Manila, 1001 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"9 AM–5 PM\"],\"Monday\":[\"9 AM–5 PM\"],\"Saturday\":[\"9 AM–5 PM\"],\"Sunday\":[\"9 AM–5 PM\"],\"Thursday\":[\"9 AM–5 PM\"],\"Tuesday\":[\"9 AM–5 PM\"],\"Wednesday\":[\"9 AM–5 PM\"]}",
+      "popular_times": "{}",
+      "website": "https://www.facebook.com/share/1BAXv8qV47/?mibextid=wwXIfr",
+      "phone": "",
+      "plus_code": "JX2P+64 Manila, Metro Manila, Philippines",
+      "review_count": "54",
+      "review_rating": "4.600000",
+      "reviews_per_rating": "{\"1\":3,\"2\":0,\"3\":3,\"4\":3,\"5\":45}",
+      "latitude": "14.600610",
+      "longitude": "120.985282",
+      "cid": "1398972823596140346",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7X-9SIeO0sdpM4ArqHcQMM7PpXzWYGXu7_XsIagu7AXUjLds0yuyqj9Ljc7HKhrMjOzNM_OJyvd-6Lv3jh3Epjd_nZLQPnJbc7Ihhu-jFBLqKpxuFz3qSv_nin9WoUXkhODtr=w408-h725-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397cb00691e7c8d:0x136a265ef8df873a",
+      "street_view_url": "",
+      "place_id": "ChIJjXweaQDLlzMROoff-F4mahM",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"107502933753192052834\",\"name\":\"Premium Smile Dental Clinic (Owner)\",\"link\":\"https://www.google.com/maps/contrib/107502933753192052834\"}",
+      "complete_address": "{\"borough\":\"Quiapo\",\"street\":\"826 Gonzalo Puyat St\",\"city\":\"Manila\",\"postal_code\":\"\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"Ortega, Carl Lester D.\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXUKxVCyKHIm5YDe6foQV1FBZziU1PezULQWwVOpfsIJxR3_LM=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"All of the staff is very comfortable and easy to talk with all of the concerns and questions that I’ve been asked.\\n\\nI’ve been experiencing insecurities for the past years of my life, and I must say that premium smile helped me accomplish this achievement.\\n\\nEsp Doc Terrence is very accommodating and professional, friendly, and bubbly.\\n\\nI highly recommended this dental clinic.\",\"Images\":null,\"When\":\"6 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xFeFRuVXhRbXMxU3pST2EwMWFWVVZIV2tORlNtYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/112030367609259143337/reviews?hl=en-US\",\"posted_at_unix_micros\":1774856593123795,\"updated_at_unix_micros\":1774856593123795,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"All of the staff is very comfortable and easy to talk with all of the concerns and questions that I’ve been asked.\\n\\nI’ve been experiencing insecurities for the past years of my life, and I must say that premium smile helped me accomplish this achievement.\\n\\nEsp Doc Terrence is very accommodating and professional, friendly, and bubbly.\\n\\nI highly recommended this dental clinic.\",\"text_translated\":\"\",\"published_at\":\"2026-03-30T07:43:13.123795Z\"},{\"Name\":\"Rham Calma\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjWcXq4hPFC5huM390kVkn2KlBJ6JHGOaCvv-SDf2I_Wq1K8UX3z=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"The experience here in Premium Smile Dental Clinic is Amazing! Staff are very accomodating, well informed and good customer service. Worth the wait and worth the time.💯♥️\",\"Images\":null,\"When\":\"7 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21Sb2IxcDRTSEp3Y1ZwRFZrWXpNa3R5Um1aM01sRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/106262458991639326498/reviews?hl=en-US\",\"posted_at_unix_micros\":1774409514726671,\"updated_at_unix_micros\":1774409514726671,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"The experience here in Premium Smile Dental Clinic is Amazing! Staff are very accomodating, well informed and good customer service. Worth the wait and worth the time.💯♥️\",\"text_translated\":\"\",\"reply_text_original\":\"Thank you for your kind feedback! We’re happy to know you had a good experience with our clinic. Your support means a lot to our team, and we look forward to serving you again.\\n\",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1774562031000000,\"reply_updated_at_unix_micros\":1774562031000000,\"published_at\":\"2026-03-25T03:31:54.726671Z\"},{\"Name\":\"Xy Alejandro\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJwFWPwVr53-YZsb9fxCiUhfq5KJi1dx2rt-FZ63kInfjgGAN0=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I’m very satisfied with my teeth and the overall service. At nung naiask konsila na need ko only till 30th due to my flight at nasunod naman and all the staff and si doc ay very approachable and they give us good service. 😁\",\"Images\":null,\"When\":\"7 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xOeFduUXdkRXRPU1dSVVYyOU5jbm8zYWtsVWVXYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/106941213642898426539/reviews?hl=en-US\",\"posted_at_unix_micros\":1774693186484129,\"updated_at_unix_micros\":1774693186484129,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I’m very satisfied with my teeth and the overall service. At nung naiask konsila na need ko only till 30th due to my flight at nasunod naman and all the staff and si doc ay very approachable and they give us good service. 😁\",\"text_translated\":\"\",\"published_at\":\"2026-03-28T10:19:46.484129Z\"},{\"Name\":\"Azenith Molas\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjWt-9e2RdUHyJgHrxgi4tUN7LjwocgZ9iLBD2RDboZVbh_bTFWR=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Doc wilson is very great! Wish i could return for the next zirconia crown plan. Bery satisfied. Thanks 😊\",\"Images\":null,\"When\":\"4 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2sxSmRFRnJkVWhtVHpVNWFIVjFNV1kwYlVGcGFtYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/116429769899144414323/reviews?hl=en-US\",\"posted_at_unix_micros\":1780394180760475,\"updated_at_unix_micros\":1780394180760475,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Doc wilson is very great! Wish i could return for the next zirconia crown plan. Bery satisfied. Thanks 😊\",\"text_translated\":\"\",\"published_at\":\"2026-06-02T09:56:20.760475Z\"},{\"Name\":\"Fudalan, Mike Vincent R.\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXzvxQkOJxJOkRBKuI_wbbhp9hOlEoC10qg-jxPaFoKT5Oi2QzF=s120-c-rp-mo-br100\",\"Rating\":3,\"Description\":\"Is it normal to be charged 2k for 1 tooth removal? I was confused after the check up the doctor didn't discuss price or anything i felt like i was left in the dark on purpose. Other than that the procedure was ok.\",\"Images\":null,\"When\":\"4 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2pkVllXeHROM1JDTVZKME1tSm1OWEZwVG5FMlRsRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":3,\"author_url\":\"https://www.google.com/maps/contrib/107874111884097430287/reviews?hl=en-US\",\"posted_at_unix_micros\":1781271968200521,\"updated_at_unix_micros\":1781271968200521,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Is it normal to be charged 2k for 1 tooth removal? I was confused after the check up the doctor didn't discuss price or anything i felt like i was left in the dark on purpose. Other than that the procedure was ok.\",\"text_translated\":\"\",\"published_at\":\"2026-06-12T13:46:08.200521Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [],
+      "audit": {
+        "problems": [
+          {
+            "issue": "Using a generic social media platform login wall (Facebook) as a primary landing page or business link.",
+            "impact": "Fails to establish independent brand identity, lacks professional credibility, and confuses potential customers expecting a dedicated business website.",
+            "severity": "high"
+          },
+          {
+            "issue": "Absence of structured business metadata, SEO tags, or custom domain branding.",
+            "impact": "Severely harms search engine visibility and prevents the business from capturing organic search traffic.",
+            "severity": "high"
+          },
+          {
+            "issue": "Content is gated behind a login wall, forcing visitors to have a Facebook account just to view basic information.",
+            "impact": "Creates high friction and immediate bounce rates, leading to lost leads and sales.",
+            "severity": "high"
+          }
+        ],
+        "opportunities": [
+          "Develop a dedicated, mobile-responsive business website with a custom domain to establish true brand ownership and professional authority.",
+          "Implement clear calls-to-action (CTAs), contact forms, and product/service listings directly on a owned web property.",
+          "Optimize on-page SEO and integrate analytics to track visitor behavior and generate qualified leads."
+        ],
+        "summary": "The current link redirects to a Facebook login page rather than a dedicated business website, creating significant user friction, hurting brand credibility, and eliminating organic search visibility.",
+        "url": "https://www.facebook.com/share/1BAXv8qV47/?mibextid=wwXIfr",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick thought on Premium Smile Dental Clinic's online presence",
+        "body": "Hi there,\n\nI was looking up Premium Smile Dental Clinic and noticed your main link currently points to a Facebook page, which unfortunately puts up a login wall for visitors trying to learn about your practice.\n\nWithout a dedicated website, new patients hitting that wall might bounce before seeing your services, and you're missing out on local search traffic entirely.\n\nWe actually put together a quick, clean draft of what a proper site for the clinic could look like.\n\nWould it be useful if I sent it over?\n\nBest,\nRahul\n\n---\nIf you'd prefer not to hear from me again, just reply 'unsubscribe' and I'll remove you right away.",
+        "provider": "gemini"
+      }
+    },
+    {
+      "input_id": "002f1672-549c-4f3d-82b5-09bce081b6d3",
+      "link": "https://www.google.com/maps/place/Uy+Dental+Clinic+%28UDC%29+Dapitan/data=!4m7!3m6!1s0x3397b7114d3c9dc9:0x216a13307294a1ec!8m2!3d14.6135147!4d120.9903213!16s%2Fg%2F11j340kdzc!19sChIJyZ08TRG3lzMR7KGUcjATaiE?authuser=0&hl=en&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+      "title": "Uy Dental Clinic (UDC) Dapitan",
+      "category": "Dental clinic",
+      "address": "Dapitan, cor Dos Castillas St, Sampaloc, Manila, 1008 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"9 AM–4:30 PM\"],\"Monday\":[\"9 AM–4:30 PM\"],\"Saturday\":[\"9 AM–4:30 PM\"],\"Sunday\":[\"9 AM–4:30 PM\"],\"Thursday\":[\"9 AM–4:30 PM\"],\"Tuesday\":[\"9 AM–4:30 PM\"],\"Wednesday\":[\"9 AM–4:30 PM\"]}",
+      "popular_times": "{}",
+      "website": "http://www.uydental.com/",
+      "phone": "+63 917 324 1085",
+      "plus_code": "JX7R+C4 Manila, Metro Manila, Philippines",
+      "review_count": "41",
+      "review_rating": "4.900000",
+      "reviews_per_rating": "{\"1\":1,\"2\":0,\"3\":0,\"4\":0,\"5\":40}",
+      "latitude": "14.613515",
+      "longitude": "120.990321",
+      "cid": "2407758049584652780",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrRtRlx3ZknZ2Cl9JjjC0CiubHiDVEna7odNWPFseOaf8kAfNpDbvrOCkbVhWNG1v7wCA5IaB-dQFXrefZlmIlPsWVJg6dQZr_0POr2U3kR3T6pn6uzdRzbMqUwtV4ejNgZaCc=w408-h408-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397b7114d3c9dc9:0x216a13307294a1ec",
+      "street_view_url": "",
+      "place_id": "ChIJyZ08TRG3lzMR7KGUcjATaiE",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"100880548751547656571\",\"name\":\"Uy Dental Clinic (UDC) Dapitan (Owner)\",\"link\":\"https://www.google.com/maps/contrib/100880548751547656571\"}",
+      "complete_address": "{\"borough\":\"Sampaloc\",\"street\":\"Dapitan, cor Dos Castillas St\",\"city\":\"Manila\",\"postal_code\":\"1008\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"Doreen Grace Farrales\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjW91CAAXhV9u0n7KP8nZ1tKYJ9SpzMXCDKsarFNailxOAYNr1Bm=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Dr. Gio really is the best! He is thorough, thoughtful, meticulous, and he genuinely cares about his patients in a way that I have never experienced in any other office. I would absolutely recommend him to anyone who wants a better smile.\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLeuo8AOmtaeQo__UIi5-k5nFUgQldKHc6GVtxlSYvtrMbDneQxwjbaxqEAZPpoqloFobJHCyIgROFGSF3j2o7awh1pqM8bHok7aFW2jd346Y-mivT7RyKPSrHGf6GO6Fb3iDUM=k-no\"],\"When\":\"2 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUNiNE82WE5REAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/110030706459832851579/reviews?hl=en-US\",\"posted_at_unix_micros\":1721633935518962,\"updated_at_unix_micros\":1721634523215844,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Dr. Gio really is the best! He is thorough, thoughtful, meticulous, and he genuinely cares about his patients in a way that I have never experienced in any other office. I would absolutely recommend him to anyone who wants a better smile.\",\"text_translated\":\"\",\"published_at\":\"2024-07-22T07:38:55.518962Z\"},{\"Name\":\"Gionard Josh Medina\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUlsVbNWL351BPEQzIivRjCWt7BPAgSntBb60bNio5lYIQPOdGw=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Dapitan Branch - The dental service was excellent. The dentist was very professional and gentle during the procedure. The clinic was clean and comfortable, and the staff were friendly.\",\"Images\":null,\"When\":\"a year ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2t4WVRXaFdhR2wyTjJOcGVtVm5aMkpFYUVsMVgwRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/110165086996094891456/reviews?hl=en-US\",\"posted_at_unix_micros\":1757125522600759,\"updated_at_unix_micros\":1757125522600759,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Dapitan Branch - The dental service was excellent. The dentist was very professional and gentle during the procedure. The clinic was clean and comfortable, and the staff were friendly.\",\"text_translated\":\"\",\"published_at\":\"2025-09-06T02:25:22.600759Z\"},{\"Name\":\"RHONULFO GREEKO FAMA\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXT7KiH5AUfRH7tfarLPb9tdQg5WnCg04119M43ima6cEK5_0Y=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I highly recommend UDC Dapitan Branch. They are very accommodating and very thorough in their work. Thank you so much for your service, especially for helping me understand how your services are delivered and answering all questions/concerns that came to mind.\",\"Images\":null,\"When\":\"a year ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xKcmRVaE1UMXB5YVdSa1NtOHlhalI1VUhwek5FRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/104406646165226957596/reviews?hl=en-US\",\"posted_at_unix_micros\":1751098090442755,\"updated_at_unix_micros\":1751098090442755,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I highly recommend UDC Dapitan Branch. They are very accommodating and very thorough in their work. Thank you so much for your service, especially for helping me understand how your services are delivered and answering all questions/concerns that came to mind.\",\"text_translated\":\"\",\"published_at\":\"2025-06-28T08:08:10.442755Z\"},{\"Name\":\"Jazzer Guzman\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjULC4fJZuf3Lz7gfX34e219yv4ygf8GXmxK3egzRdXNRM8RRgg=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Dapitan Branch - Dentist in duty was friendly and approachable. Other people inside the clinic were friendly and approachable too.\",\"Images\":null,\"When\":\"a year ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2tsMFJUbEVNbXcwVmtsVFZHRktiMVpqYVVSd1pGRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/111698139267332380676/reviews?hl=en-US\",\"posted_at_unix_micros\":1757059267164522,\"updated_at_unix_micros\":1757064917676114,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Dapitan Branch - Dentist in duty was friendly and approachable. Other people inside the clinic were friendly and approachable too.\",\"text_translated\":\"\",\"published_at\":\"2025-09-05T08:01:07.164522Z\"},{\"Name\":\"mikasa ackerman\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUajRtxQCF-7-beXsg1LL2Ws6jqCSbAwU0lynkFQ9Z7Jt1v9HI=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Highly recommended this Dapitan Branch, staffs and doctors are accommodating and nice! The procedure was also fast and neat lang din.\",\"Images\":null,\"When\":\"a year ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xwNFNpMTFOWEZTUnpkRlNWRk5YMk42WjFkUWFtYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/113933002230801933418/reviews?hl=en-US\",\"posted_at_unix_micros\":1757933680172337,\"updated_at_unix_micros\":1757933680172337,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Highly recommended this Dapitan Branch, staffs and doctors are accommodating and nice! The procedure was also fast and neat lang din.\",\"text_translated\":\"\",\"published_at\":\"2025-09-15T10:54:40.172337Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [
+        "office@yourwebsite.com"
+      ],
+      "audit": {},
+      "outreach": {
+        "subject": "",
+        "body": ""
+      }
+    }
+  ],
+  "store_stats": {
+    "new": 2
+  }
+}
