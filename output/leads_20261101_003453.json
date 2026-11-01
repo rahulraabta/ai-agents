@@ -1,0 +1,162 @@
+{
+  "success": true,
+  "query": "dental clinic in Manila",
+  "started": "2026-11-01T00:32:58.335154",
+  "finished": "2026-11-01T00:34:53.862487",
+  "scraped_count": 6,
+  "skipped_known": 0,
+  "enriched_count": 2,
+  "leads": [
+    {
+      "input_id": "4bd75980-fedc-4844-a32d-82bdf200fd2f",
+      "link": "https://www.google.com/maps/place/Dentacare+SM+Manila/data=!4m7!3m6!1s0x3397cbc1bc596715:0x283fd7140050d385!8m2!3d14.5901469!4d120.9830916!16s%2Fg%2F11twtvgz2f!19sChIJFWdZvMHLlzMRhdNQABTXPyg?authuser=0&hl=en&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1",
+      "title": "Dentacare SM Manila",
+      "category": "Dental clinic",
+      "address": "SM City Manila, Natividad Lopez St, Ermita, Manila, 1000 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"10 AM–9 PM\"],\"Monday\":[\"10 AM–9 PM\"],\"Saturday\":[\"10 AM–9 PM\"],\"Sunday\":[\"10 AM–9 PM\"],\"Thursday\":[\"10 AM–9 PM\"],\"Tuesday\":[\"10 AM–9 PM\"],\"Wednesday\":[\"10 AM–9 PM\"]}",
+      "popular_times": "{}",
+      "website": "http://dentacarephilippines.com.ph/",
+      "phone": "+63 998 868 9387",
+      "plus_code": "HXRM+36 Manila, Metro Manila, Philippines",
+      "review_count": "73",
+      "review_rating": "4.700000",
+      "reviews_per_rating": "{\"1\":4,\"2\":0,\"3\":1,\"4\":3,\"5\":65}",
+      "latitude": "14.590147",
+      "longitude": "120.983092",
+      "cid": "2900273165954503557",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfVEMbhPE-1HpmUwsvAeSOc6RXLs_osUN_cZTyK8SCFcnnh2KrT-_BsKNVb3BWBU1odMDlK2BB-eEqqb8XzTokgLjXtX2ZVdg4U3N6F2R1XbWKLaXbng2GvkIF-34MSI9j2E-HVSpP_ytg=w408-h544-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397cbc1bc596715:0x283fd7140050d385",
+      "street_view_url": "",
+      "place_id": "ChIJFWdZvMHLlzMRhdNQABTXPyg",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"114904716247277073984\",\"name\":\"Dentacare SM Manila (Owner)\",\"link\":\"https://www.google.com/maps/contrib/114904716247277073984\"}",
+      "complete_address": "{\"borough\":\"Ermita\",\"street\":\"SM City Manila, Natividad Lopez St\",\"city\":\"Manila\",\"postal_code\":\"1000\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"Carol ine\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJxZXyVmYU7oEc6rYmdQeQD9bVG85B63zKCN75JUxoR774n1Jc=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Very nice experience. We use our maxicare card and the doctor attended to us with care and attention. Not like other doctors who rushed with our cleaning. Dr Erica even checked my teeth for any cavities and gave me good advices on one of the molars that’s impacted\",\"Images\":null,\"When\":\"a month ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT25jdFEzbFpiMHRxYmtFMWFHOUtaR2hGWVhZNU9FRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/113574814431284328592/reviews?hl=en-US\",\"posted_at_unix_micros\":1790481494551162,\"updated_at_unix_micros\":1790481494551162,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Very nice experience. We use our maxicare card and the doctor attended to us with care and attention. Not like other doctors who rushed with our cleaning. Dr Erica even checked my teeth for any cavities and gave me good advices on one of the molars that’s impacted\",\"text_translated\":\"\",\"published_at\":\"2026-09-27T03:58:14.551162Z\"},{\"Name\":\"Nicolette Delacruz\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjV1XdnWVSfQa09QeiH0Oj5AAQN3pnDuvjQwpJy8WP_f-heZuyoP=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Clinic is clean, staffs are accommodating. Mabait rin si Doc and detailed mag explain regarding my inquiries.\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLfHfLoVyx8ubR8Q4CIR01liHIOP9DW3OuzD9sHEKPbK9XjV5YGMZMtULnPFIcVz37anoUjXh_cHLu3tffIVSH2XSGLYXTLnhwehwq4dRoUpIA7RNp29jLAWLhLofwWICmGmQLW-M7mFhfmF=k-no\"],\"When\":\"a month ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21kRFlrdzROak5IWWpsWGVHdGFaR2RyVFZwSFZHYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/109890986566099404469/reviews?hl=en-US\",\"posted_at_unix_micros\":1788678401248552,\"updated_at_unix_micros\":1788678401248552,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Clinic is clean, staffs are accommodating. Mabait rin si Doc and detailed mag explain regarding my inquiries.\",\"text_translated\":\"\",\"published_at\":\"2026-09-06T07:06:41.248552Z\"},{\"Name\":\"Priscilla Del Norte\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocIzJ7BEV04I7-UiTzNKez4pahYbuwFV1yNfKC8_IEFuqWsl8g=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I had a great experience at dentacare. The doctors and staff are very nice, and friendly, and welcoming, which made me feel more comfortable right away. They handled everything professionally n made the visit stress free. Overall, I'm satisfied with Their service n would definitely recommend dentacare to others.\",\"Images\":null,\"When\":\"6 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2pZNFJHbExUVUYxWW1GVk9VaHlRMWR6VnpWM2MwRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/106738256959443856665/reviews?hl=en-US\",\"posted_at_unix_micros\":1775639164299924,\"updated_at_unix_micros\":1775639385420619,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I had a great experience at dentacare. The doctors and staff are very nice, and friendly, and welcoming, which made me feel more comfortable right away. They handled everything professionally n made the visit stress free. Overall, I'm satisfied with Their service n would definitely recommend dentacare to others.\",\"text_translated\":\"\",\"reply_text_original\":\"Thank you for choosing Dentacare for your oral health needs! We truly appreciate your trust and are committed to providing you with the best care possible. Your message means a lot to us, and we look forward to seeing you again at our clinic. For all your oral health needs, i-Dentacare Mo Na Yan! 🦷💙\",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1785485296000000,\"reply_updated_at_unix_micros\":1785485296000000,\"published_at\":\"2026-04-08T09:06:04.299924Z\"},{\"Name\":\"alkiere mhiel fabro\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocK8I1L5YP2P372oANmPAEn9Bd0jObJwV82a5ZTI3sNBiF74Gw=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"The doctor will provide what is good for the teeth\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLdmADT3-llNiGxxM5gyWfRE3YYY0xA73vSDRqHpA35sZHOdZrJ76QKoWHGZILLJ1RBBK0Jg0tJXNHLePZboFRzUCl5GsajaEzh35Fq7IGVw_n73dsdGkMlc281F2kBNgc8YOzGQ7IsGYSr9=k-no\"],\"When\":\"2 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21oVGRWb3dVR0ZCZHpkTWRFSk9SM1puVUhkdVpFRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/111938774750654489491/reviews?hl=en-US\",\"posted_at_unix_micros\":1788081088815202,\"updated_at_unix_micros\":1788081088815202,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"The doctor will provide what is good for the teeth\",\"text_translated\":\"\",\"published_at\":\"2026-08-30T09:11:28.815202Z\"},{\"Name\":\"Alexander Villalino\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXLavjF0uec6DfwkNs0Luco-ms-N_WPeVQU8FLKzBJGrIQbTs8p=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"it was very good experience especially if you are first timer having braces. the staff was kind and nice service.\",\"Images\":null,\"When\":\"6 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21WcGNrTTJjVk54VkRVMFMwY3RSelF6ZWtVeVNWRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/105902030201922656744/reviews?hl=en-US\",\"posted_at_unix_micros\":1775633285023772,\"updated_at_unix_micros\":1775633285023772,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"it was very good experience especially if you are first timer having braces. the staff was kind and nice service.\",\"text_translated\":\"\",\"reply_text_original\":\"Thank you for choosing Dentacare for your oral health needs! We truly appreciate your trust and are committed to providing you with the best care possible. Your message means a lot to us, and we look forward to seeing you again at our clinic. For all your oral health needs, i-Dentacare Mo Na Yan! 🦷💙\",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1785485299000000,\"reply_updated_at_unix_micros\":1785485299000000,\"published_at\":\"2026-04-08T07:28:05.023772Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [
+        "admin@dentacarephilippines.com.ph",
+        "marketing@dentacarephilippines.com.ph"
+      ],
+      "audit": {
+        "problems": [
+          {
+            "issue": "Truncated article excerpt on the homepage ('Looki...') indicating potential frontend rendering or database truncation bugs.",
+            "impact": "Damages professional credibility and user trust by presenting broken content above the fold.",
+            "severity": "medium"
+          },
+          {
+            "issue": "Missing structured data (Schema.org Dentist / LocalBusiness markup) in the HTML head.",
+            "impact": "Reduces local SEO visibility and rich snippet potential in Google Search results for dental services in the Philippines.",
+            "severity": "high"
+          },
+          {
+            "issue": "Absence of clear NAP (Name, Address, Phone) details in the visible header or immediate hero section.",
+            "impact": "Friction for prospective patients wanting immediate contact or emergency dental services, lowering conversion rates.",
+            "severity": "high"
+          }
+        ],
+        "opportunities": [
+          "Implement LocalBusiness schema markup to boost local search rankings across multiple branch locations.",
+          "Add click-to-call phone numbers and physical branch locations directly into the header or navigation bar.",
+          "Enhance the booking flow by showcasing social proof, trust badges, or specific dentist credentials near the CTA."
+        ],
+        "summary": "Dentacare Philippines has a clean, modern design with a clear call-to-action, but suffers from minor content truncation bugs and lacks critical local SEO optimization elements such as schema markup and prominent NAP information.",
+        "url": "http://dentacarephilippines.com.ph/",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick note on Dentacare SM Manila's site",
+        "body": "Hi there,\n\nI was looking over the Dentacare SM Manila site and noticed a few small things worth tightening up. Right on the homepage, there's a bit of text truncation ('Looki...') that catches the eye for the wrong reasons, and the missing local business schema means you're likely losing out on some easy Google visibility for patients searching nearby.\n\nWe actually put together a quick, live demo showing how these look fixed up. \n\nWould it be useful if I sent it over?\n\nBest,\nRahul\n\n---\nIf you'd prefer not to hear from me again, just reply 'unsubscribe' and I'll remove you right away.",
+        "provider": "gemini"
+      }
+    },
+    {
+      "input_id": "4bd75980-fedc-4844-a32d-82bdf200fd2f",
+      "link": "https://www.google.com/maps/place/SFP+Dental+Clinic/data=!4m7!3m6!1s0x3397b603b3da6d11:0x60096d1208f74fb2!8m2!3d14.6112495!4d120.9954507!16s%2Fg%2F11bc7pf698!19sChIJEW3aswO2lzMRsk_3CBJtCWA?authuser=0&hl=en&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1",
+      "title": "SFP Dental Clinic",
+      "category": "Dental clinic",
+      "address": "Zone 45, SFP Dental Clinic, 861-A Vicente Cruz St, Sampaloc, Manila, 1008 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"9 AM–8 PM\"],\"Monday\":[\"9 AM–8 PM\"],\"Saturday\":[\"9 AM–8 PM\"],\"Sunday\":[\"8 AM–4 PM\"],\"Thursday\":[\"9 AM–8 PM\"],\"Tuesday\":[\"9 AM–8 PM\"],\"Wednesday\":[\"9 AM–8 PM\"]}",
+      "popular_times": "{}",
+      "website": "https://cebudentalimplants.com/content/sfp-dental-clinic-sonia-fiedalan-pare%C3%B1o",
+      "phone": "+63 2 3493 4331",
+      "plus_code": "JX6W+F5 Manila, Metro Manila, Philippines",
+      "review_count": "41",
+      "review_rating": "4.900000",
+      "reviews_per_rating": "{\"1\":1,\"2\":0,\"3\":0,\"4\":2,\"5\":38}",
+      "latitude": "14.611249",
+      "longitude": "120.995451",
+      "cid": "6920182226658742194",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfw2XtBdMgw1QmnRJDIKGY_mrGvKG-KI2hFH3jY-aIv92aukZctl0g62Jum2Ff9Rt0_MDdzsGaUHX29K5AJQqrJLgteE8aFTR24TJ0m7OOmVnMUQau6c0GLlznx2kAuJRZvW941vA=w408-h306-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397b603b3da6d11:0x60096d1208f74fb2",
+      "street_view_url": "",
+      "place_id": "ChIJEW3aswO2lzMRsk_3CBJtCWA",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"\",\"name\":\"SFP Dental Clinic (Owner)\",\"link\":\"\"}",
+      "complete_address": "{\"borough\":\"Sampaloc\",\"street\":\"Zone 45, 861-A Vicente Cruz St\",\"city\":\"Manila\",\"postal_code\":\"1008\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"Melody Valdepeña\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjX3-GjC9Kb74GX_joJh4sSTEjA3wQiWh3ZnD7qrr35PN4KcQBvb=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"Wow. No wonder why there are so many patients willing to wait. They offer high quality dental services for affordable price. I just walk-in today. Choose this clinic based off google reviews and oh boy they did not lie. I got my 2 lower molars restored here (pasta filling) for only P1,300 in total. Their pasta restoration starts from P500. I was surprised how affordable it was considering they did a really great job in my case.\\n\\nI hope they never change in terms of quality of service. The only downside is you have to wait for a longggg time. This clinic looks like its always jam packed. Its worth the wait though. Thank you!\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLdrcJ9iGmXLJ5UrV32WRyi6jrqPGNkYWByYotVbySIQQEEI5K-AL1bNpTne9T2uIkXkPDdKT9xAbmfi6AVWO3yFPMxaCtIDbVmOOZ7jBfWbMUY2fEHUZUUHS_KWP057xAKERXN7BNLj927Z=k-no\",\"https://lh3.googleusercontent.com/grass-cs/AABkmLdxPLSiaNLkkQ5czzOe_odEGmpIvj9Lz_rLxvNI-GGnlHnHU1vA_K15FXJtDT71q0Zi3CC8dcjkyJ9gX-DFzUq1tx6tfIYvdIPYRTl7mhIiaoDkzhhbo6L4zPP6-zXi_Iez05YN5Py5CP0=k-no\"],\"When\":\"7 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21jd1YxSmFSbkZxWDFkQmExRTVOME5oZUdsb1QwRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/102999992560129677659/reviews?hl=en-US\",\"posted_at_unix_micros\":1774159638930804,\"updated_at_unix_micros\":1774159638930804,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Wow. No wonder why there are so many patients willing to wait. They offer high quality dental services for affordable price. I just walk-in today. Choose this clinic based off google reviews and oh boy they did not lie. I got my 2 lower molars restored here (pasta filling) for only P1,300 in total. Their pasta restoration starts from P500. I was surprised how affordable it was considering they did a really great job in my case.\\n\\nI hope they never change in terms of quality of service. The only downside is you have to wait for a longggg time. This clinic looks like its always jam packed. Its worth the wait though. Thank you!\",\"text_translated\":\"\",\"published_at\":\"2026-03-22T06:07:18.930804Z\"},{\"Name\":\"ELY JUDILLA\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVVC7XXXYwWz7-VJRVjyr-9X52CqDEaZZTQHKjAApWZStOe3e4=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"Very comfortable and highly accommodating service. The prices are reasonable and well worth the quality of care they provide. Their staff is skilled, professional, and friendly. That's why whenever I need dental treatment in Manila, SFP Dental Clinic is always one of my top choices.\",\"Images\":null,\"When\":\"3 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21waGFFc3hWVkptWWtOVGNtSlFjRXRVVlhSMldVRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/110914195439539974187/reviews?hl=en-US\",\"posted_at_unix_micros\":1783828626594344,\"updated_at_unix_micros\":1783828626594344,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Very comfortable and highly accommodating service. The prices are reasonable and well worth the quality of care they provide. Their staff is skilled, professional, and friendly. That's why whenever I need dental treatment in Manila, SFP Dental Clinic is always one of my top choices.\",\"text_translated\":\"\",\"published_at\":\"2026-07-12T03:57:06.594344Z\"},{\"Name\":\"Caibio, Joselito Ceasar F.\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXeGbBqdBQWa-EW_ketmTUNUwq7Qz4GTvRCQytofewwlNf3oZc=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Very friendly and approachable clinic. I don't feel any pain during my surgery. The after service is also good. Very affordable and budget friendly clinic ❤️ 8 tooth restoration and 2 extraction for only 4k ❤️  they will take a picture first of your damage tooth and after the process they will take a picture again for you to compare and see the difference 👏 HIGHLY RECOMMENDED!\",\"Images\":null,\"When\":\"Edited 8 months ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNudzV1aHJBRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/114668269444207892754/reviews?hl=en-US\",\"posted_at_unix_micros\":1727596231758869,\"updated_at_unix_micros\":1771444879863894,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Very friendly and approachable clinic. I don't feel any pain during my surgery. The after service is also good. Very affordable and budget friendly clinic ❤️ 8 tooth restoration and 2 extraction for only 4k ❤️  they will take a picture first of your damage tooth and after the process they will take a picture again for you to compare and see the difference 👏 HIGHLY RECOMMENDED!\",\"text_translated\":\"\",\"published_at\":\"2024-09-29T07:50:31.758869Z\"},{\"Name\":\"Reyth DG\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVFINBeOLJaXlR4anpJpbzXcPV2uRxiUnM9JApIORlNnKWXzFvk=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"Highly recommended! Got tooth extraction in no time and no pain, Doctors are all friendly and will give the details before any recommended procedures. Machines are modern and it will show the whole view of your teeth. This is our family dental clinic.\",\"Images\":null,\"When\":\"Edited 2 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUN6MUtDSXF3RRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/117957629337465659305/reviews?hl=en-US\",\"posted_at_unix_micros\":1717133163502649,\"updated_at_unix_micros\":1724746556967037,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Highly recommended! Got tooth extraction in no time and no pain, Doctors are all friendly and will give the details before any recommended procedures. Machines are modern and it will show the whole view of your teeth. This is our family dental clinic.\",\"text_translated\":\"\",\"published_at\":\"2024-05-31T05:26:03.502649Z\"},{\"Name\":\"Theresa Adora\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjW9sr6T74W6oWfcx1kYvRhrosfI7wy23hiXESncz2S6KrWxstg=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"Cleaning here is very affordable. But they are not welcoming, since I booked 6pm, maybe they are already tired for the day. Understandable\",\"Images\":null,\"When\":\"2 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUN6MHQ2WlFBEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/116916016404565489714/reviews?hl=en-US\",\"posted_at_unix_micros\":1717202774848859,\"updated_at_unix_micros\":1717202842598257,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Cleaning here is very affordable. But they are not welcoming, since I booked 6pm, maybe they are already tired for the day. Understandable\",\"text_translated\":\"\",\"published_at\":\"2024-06-01T00:46:14.848859Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [
+        "admin@apostoldental.com",
+        "dental.talks@yahoo.com",
+        "familytreedentaldgte@gmail.com",
+        "marcnmark2@yahoo.com"
+      ],
+      "audit": {
+        "problems": [
+          {
+            "issue": "Content is truncated in the HTML head and body description, which may impact SEO snippet rendering and readability.",
+            "impact": "Prospective patients searching on Google might see cut-off meta descriptions, lowering click-through rates.",
+            "severity": "medium"
+          },
+          {
+            "issue": "Reliance on Drupal 7 (which has reached end-of-life) poses significant security vulnerabilities.",
+            "impact": "Risk of site compromise, data breaches, and potential loss of patient trust or regulatory compliance issues.",
+            "severity": "high"
+          },
+          {
+            "issue": "Inline and external CSS stylesheets are heavy and numerous for a simple clinic page, potentially slowing down mobile load times.",
+            "impact": "Higher bounce rates from mobile users seeking quick dental appointment info.",
+            "severity": "medium"
+          }
+        ],
+        "opportunities": [
+          "Upgrade the CMS from Drupal 7 to a modern, secure platform or Drupal 10 to ensure long-term stability and security.",
+          "Integrate a clear, prominent online appointment booking widget directly on the clinic page to convert visitors into patients.",
+          "Add structured data (Schema.org DentalClinic markup) to improve local SEO visibility and Google Maps integration."
+        ],
+        "summary": "The SFP Dental Clinic web page provides essential information about Dr. Sonia Fiedalan Pareño and her services, but runs on an outdated Drupal 7 backend. Modernizing the tech stack, enhancing mobile performance, and adding direct conversion tools like online booking will significantly improve patient acquisition.",
+        "url": "https://cebudentalimplants.com/content/sfp-dental-clinic-sonia-fiedalan-pare%C3%B1o",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick thought on the SFP Dental Clinic site",
+        "body": "Hi there,\n\nI was looking at the SFP Dental Clinic page while researching local practices and noticed Dr. Sonia Fiedalan Pareño's site is currently running on Drupal 7, which reached its end-of-life some time ago. \n\nBecause of that, plus some heavy stylesheets slowing down mobile load times, local patients searching on their phones might run into security warnings or slow pages before they even see your services.\n\nWe put together a quick, modern demo showing how this could be streamlined for mobile patients. Would it be useful if I sent it over?\n\nBest,\nRahul\n\n---\nIf you'd prefer not to hear from me again, just reply 'unsubscribe' and I'll remove you right away.",
+        "provider": "gemini"
+      }
+    }
+  ],
+  "store_stats": {
+    "new": 2
+  }
+}
