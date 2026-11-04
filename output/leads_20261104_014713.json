@@ -1,0 +1,123 @@
+{
+  "success": true,
+  "query": "dental clinic in Manila",
+  "started": "2026-11-04T01:45:19.845417",
+  "finished": "2026-11-04T01:47:13.188767",
+  "scraped_count": 6,
+  "skipped_known": 0,
+  "enriched_count": 2,
+  "leads": [
+    {
+      "input_id": "6674cee7-aa52-473b-862e-7cfc510e4204",
+      "link": "https://www.google.com/maps/place/Uy+Dental+Clinic+%28UDC%29+Dapitan/data=!4m7!3m6!1s0x3397b7114d3c9dc9:0x216a13307294a1ec!8m2!3d14.6135147!4d120.9903213!16s%2Fg%2F11j340kdzc!19sChIJyZ08TRG3lzMR7KGUcjATaiE?authuser=0&hl=en&g_ep=EgoyMDI2MTEwMS4wIJJjKgBIAVAD&rclk=1",
+      "title": "Uy Dental Clinic (UDC) Dapitan",
+      "category": "Dental clinic",
+      "address": "Dapitan, cor Dos Castillas St, Sampaloc, Manila, 1008 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"9 AM–4:30 PM\"],\"Monday\":[\"9 AM–4:30 PM\"],\"Saturday\":[\"9 AM–4:30 PM\"],\"Sunday\":[\"9 AM–4:30 PM\"],\"Thursday\":[\"9 AM–4:30 PM\"],\"Tuesday\":[\"9 AM–4:30 PM\"],\"Wednesday\":[\"9 AM–4:30 PM\"]}",
+      "popular_times": "{}",
+      "website": "http://www.uydental.com/",
+      "phone": "+63 917 324 1085",
+      "plus_code": "JX7R+C4 Manila, Metro Manila, Philippines",
+      "review_count": "41",
+      "review_rating": "4.900000",
+      "reviews_per_rating": "{\"1\":1,\"2\":0,\"3\":0,\"4\":0,\"5\":40}",
+      "latitude": "14.613515",
+      "longitude": "120.990321",
+      "cid": "2407758049584652780",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfHsOL-B-45kUhlANR0VukW9B_HArV1m4THvFHp3BZfYNIN2hmz7EjX7aJlt2OPmEkrORgxnRPQqEq8vFRymvckr24QYMMWtTC-BdDyJYnrkgVhBTT4Wd10ZNUZv1IGvKoeWBzv=w408-h408-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397b7114d3c9dc9:0x216a13307294a1ec",
+      "street_view_url": "",
+      "place_id": "ChIJyZ08TRG3lzMR7KGUcjATaiE",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"100880548751547656571\",\"name\":\"Uy Dental Clinic (UDC) Dapitan (Owner)\",\"link\":\"https://www.google.com/maps/contrib/100880548751547656571\"}",
+      "complete_address": "{\"borough\":\"Sampaloc\",\"street\":\"Dapitan, cor Dos Castillas St\",\"city\":\"Manila\",\"postal_code\":\"1008\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"Doreen Grace Farrales\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjW91CAAXhV9u0n7KP8nZ1tKYJ9SpzMXCDKsarFNailxOAYNr1Bm=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Dr. Gio really is the best! He is thorough, thoughtful, meticulous, and he genuinely cares about his patients in a way that I have never experienced in any other office. I would absolutely recommend him to anyone who wants a better smile.\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLe1nTIbewPsrd_qYY8fDVPKNiN5alHdLNFoSgDr_TVmI7QrwPUr5-dbqbRQToYq3RUg7VeHlA-8rsvUxAkaYG3izxoWQ1w5wTEYSAZ3pahaNNwAFmKRzXFEsJwVeCpEBQZqVoU=k-no\"],\"When\":\"2 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUNiNE82WE5REAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/110030706459832851579/reviews?hl=en-US\",\"posted_at_unix_micros\":1721633935518962,\"updated_at_unix_micros\":1721634523215844,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Dr. Gio really is the best! He is thorough, thoughtful, meticulous, and he genuinely cares about his patients in a way that I have never experienced in any other office. I would absolutely recommend him to anyone who wants a better smile.\",\"text_translated\":\"\",\"published_at\":\"2024-07-22T07:38:55.518962Z\"},{\"Name\":\"Gionard Josh Medina\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUlsVbNWL351BPEQzIivRjCWt7BPAgSntBb60bNio5lYIQPOdGw=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Dapitan Branch - The dental service was excellent. The dentist was very professional and gentle during the procedure. The clinic was clean and comfortable, and the staff were friendly.\",\"Images\":null,\"When\":\"a year ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2t4WVRXaFdhR2wyTjJOcGVtVm5aMkpFYUVsMVgwRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/110165086996094891456/reviews?hl=en-US\",\"posted_at_unix_micros\":1757125522600759,\"updated_at_unix_micros\":1757125522600759,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Dapitan Branch - The dental service was excellent. The dentist was very professional and gentle during the procedure. The clinic was clean and comfortable, and the staff were friendly.\",\"text_translated\":\"\",\"published_at\":\"2025-09-06T02:25:22.600759Z\"},{\"Name\":\"RHONULFO GREEKO FAMA\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXT7KiH5AUfRH7tfarLPb9tdQg5WnCg04119M43ima6cEK5_0Y=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I highly recommend UDC Dapitan Branch. They are very accommodating and very thorough in their work. Thank you so much for your service, especially for helping me understand how your services are delivered and answering all questions/concerns that came to mind.\",\"Images\":null,\"When\":\"a year ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xKcmRVaE1UMXB5YVdSa1NtOHlhalI1VUhwek5FRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/104406646165226957596/reviews?hl=en-US\",\"posted_at_unix_micros\":1751098090442755,\"updated_at_unix_micros\":1751098090442755,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I highly recommend UDC Dapitan Branch. They are very accommodating and very thorough in their work. Thank you so much for your service, especially for helping me understand how your services are delivered and answering all questions/concerns that came to mind.\",\"text_translated\":\"\",\"published_at\":\"2025-06-28T08:08:10.442755Z\"},{\"Name\":\"Jazzer Guzman\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjULC4fJZuf3Lz7gfX34e219yv4ygf8GXmxK3egzRdXNRM8RRgg=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Dapitan Branch - Dentist in duty was friendly and approachable. Other people inside the clinic were friendly and approachable too.\",\"Images\":null,\"When\":\"a year ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2tsMFJUbEVNbXcwVmtsVFZHRktiMVpqYVVSd1pGRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/111698139267332380676/reviews?hl=en-US\",\"posted_at_unix_micros\":1757059267164522,\"updated_at_unix_micros\":1757064917676114,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Dapitan Branch - Dentist in duty was friendly and approachable. Other people inside the clinic were friendly and approachable too.\",\"text_translated\":\"\",\"published_at\":\"2025-09-05T08:01:07.164522Z\"},{\"Name\":\"mikasa ackerman\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUajRtxQCF-7-beXsg1LL2Ws6jqCSbAwU0lynkFQ9Z7Jt1v9HI=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Highly recommended this Dapitan Branch, staffs and doctors are accommodating and nice! The procedure was also fast and neat lang din.\",\"Images\":null,\"When\":\"a year ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xwNFNpMTFOWEZTUnpkRlNWRk5YMk42WjFkUWFtYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/113933002230801933418/reviews?hl=en-US\",\"posted_at_unix_micros\":1757933680172337,\"updated_at_unix_micros\":1757933680172337,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Highly recommended this Dapitan Branch, staffs and doctors are accommodating and nice! The procedure was also fast and neat lang din.\",\"text_translated\":\"\",\"published_at\":\"2025-09-15T10:54:40.172337Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [
+        "office@yourwebsite.com"
+      ],
+      "audit": {},
+      "outreach": {
+        "subject": "",
+        "body": ""
+      }
+    },
+    {
+      "input_id": "6674cee7-aa52-473b-862e-7cfc510e4204",
+      "link": "https://www.google.com/maps/place/DR+Smile+Dental+Clinic+-+Manila+Branch/data=!4m7!3m6!1s0x3397b7476110dcc9:0x1f8c79d1bcb3a5c5!8m2!3d14.6132441!4d121.0010529!16s%2Fg%2F11f7f933n_!19sChIJydwQYUe3lzMRxaWzvNF5jB8?authuser=0&hl=en&g_ep=EgoyMDI2MTEwMS4wIJJjKgBIAVAD&rclk=1",
+      "title": "DR Smile Dental Clinic - Manila Branch",
+      "category": "Dental clinic",
+      "address": "734 T. Anzures St, Sampaloc, Manila, 1008 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"9 AM–7 PM\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"9 AM–7 PM\"],\"Sunday\":[\"9 AM–7 PM\"],\"Thursday\":[\"9 AM–7 PM\"],\"Tuesday\":[\"9 AM–7 PM\"],\"Wednesday\":[\"9 AM–7 PM\"]}",
+      "popular_times": "{}",
+      "website": "https://px.molarsoft.com/_/drsmile?b=1218",
+      "phone": "+63 915 915 7285",
+      "plus_code": "J272+7C Manila, Metro Manila, Philippines",
+      "review_count": "94",
+      "review_rating": "4.400000",
+      "reviews_per_rating": "{\"1\":11,\"2\":3,\"3\":0,\"4\":1,\"5\":79}",
+      "latitude": "14.613244",
+      "longitude": "121.001053",
+      "cid": "2273325853636273605",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfWI396zoBd1o5I8Q0xTqiUUbE0em8cUg8VqqV__EWO3lMRo_O79-sv-5YQXnKKwePZ-_C3TyeADLkc1A-JLs002JeGaculznqkYGYywO3Spsf358ZUw2lf7PUmHumwV8ewRYXu=w408-h544-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397b7476110dcc9:0x1f8c79d1bcb3a5c5",
+      "street_view_url": "",
+      "place_id": "ChIJydwQYUe3lzMRxaWzvNF5jB8",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"106127776789624546423\",\"name\":\"DR Smile Dental Clinic - Manila Branch (Owner)\",\"link\":\"https://www.google.com/maps/contrib/106127776789624546423\"}",
+      "complete_address": "{\"borough\":\"Sampaloc\",\"street\":\"734 T. Anzures St\",\"city\":\"Manila\",\"postal_code\":\"1008\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"Laurence Mark Manatad\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjWaDBjMw7JMjgWA0Sgjy2OPnqo_lrBfNcJdvoYsB2qERy8UPMkX=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I had a fantastic experience at this dental office! From the moment I walked in, the staff was incredibly welcoming and professional. The dentist took the time to explain every step of the procedure, which really helped put my mind at ease. The office is modern, clean, and uses the latest technology. I’m so happy with the results and will definitely be recommending them to all my friends and family!\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLeJKUd2nN2HOsN0HHkrShuza78zs_XvIP64v0PSMMEVi6jLUtbcBMDQDxdPU7ondV_7S3H4GOIIGEYXDAksHnDfd_VGt4y24XGVdcOUIT7sS8xtUjU_4b7kdy61xapXYwp7CyaR4CDYd23F=k-no\"],\"When\":\"9 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xkSVgwcG9VVVI2WDNKaFkwRXdjMWxGVFVsQ2RXYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/105499704181150129115/reviews?hl=en-US\",\"posted_at_unix_micros\":1768722358676273,\"updated_at_unix_micros\":1768722358676273,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I had a fantastic experience at this dental office! From the moment I walked in, the staff was incredibly welcoming and professional. The dentist took the time to explain every step of the procedure, which really helped put my mind at ease. The office is modern, clean, and uses the latest technology. I’m so happy with the results and will definitely be recommending them to all my friends and family!\",\"text_translated\":\"\",\"published_at\":\"2026-01-18T07:45:58.676273Z\"},{\"Name\":\"Netflix Account\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocIcC9MjU_9I7AU7l4w69qJLLKNm1vJ-GE4Z4LniT8qkoSn8dw=s120-c-rp-mo-br100\",\"Rating\":1,\"Description\":\"Complete waste of time and utterly unprofessional\\n\\nWe secured an appointment a full week in advance and received confirmation, yet there was zero coordination from this clinic. No reminders, no updates, no proactive communication. We even had to call them ourselves just to confirm, which should have already been a red flag.\\n\\nWhen we arrived for our confirmed appointment, we were not accommodated at all because they suddenly required us to contact our HMO provider first. This is unacceptable, especially since we specifically asked about this during our confirmation call and were told they would take care of it.\\n\\nAs a result, we wasted time, money, and energy traveling to their run-down clinic, only to be turned away due to their lack of coordination and internal clarity.\\n\\nThis clinic clearly does not respect patients’ time. If you value professionalism, proper communication, and basic appointment management, look elsewhere. I deeply regret giving this clinic a chance\\n\\nİt was also sooooo difficult to contact the numbers they have posted. We had to call a different branch just to ask help so they serve as a bridge to help us contact their Manila Branch.\\n\\nI find it hard to believe that the reviews  here are legitimate so be wary of that too.\",\"Images\":null,\"When\":\"9 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT25Cb2EwVnpNbEo0WlZOeVUxTlVOVk13Um1JdFdFRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":1,\"author_url\":\"https://www.google.com/maps/contrib/110187902962879919616/reviews?hl=en-US\",\"posted_at_unix_micros\":1769927060012438,\"updated_at_unix_micros\":1769927060012438,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Complete waste of time and utterly unprofessional\\n\\nWe secured an appointment a full week in advance and received confirmation, yet there was zero coordination from this clinic. No reminders, no updates, no proactive communication. We even had to call them ourselves just to confirm, which should have already been a red flag.\\n\\nWhen we arrived for our confirmed appointment, we were not accommodated at all because they suddenly required us to contact our HMO provider first. This is unacceptable, especially since we specifically asked about this during our confirmation call and were told they would take care of it.\\n\\nAs a result, we wasted time, money, and energy traveling to their run-down clinic, only to be turned away due to their lack of coordination and internal clarity.\\n\\nThis clinic clearly does not respect patients’ time. If you value professionalism, proper communication, and basic appointment management, look elsewhere. I deeply regret giving this clinic a chance\\n\\nİt was also sooooo difficult to contact the numbers they have posted. We had to call a different branch just to ask help so they serve as a bridge to help us contact their Manila Branch.\\n\\nI find it hard to believe that the reviews  here are legitimate so be wary of that too.\",\"text_translated\":\"\",\"published_at\":\"2026-02-01T06:24:20.012438Z\"},{\"Name\":\"Tatzkie.F\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJYIOXFOysvBuS33ObO4eIGlvyRKJIss18snv1c85RQrp5XIg=s120-c-rp-mo-ba12-br100\",\"Rating\":2,\"Description\":\"I've been to this clinic last year and my experience was great, with a friendly staff and quality of service. However, recently I have oral prophylaxis even though the staffs are as friendly as before, and booking for an appointment is somewhat convenient. I am very disappointed with the quality of their service.\\nI think it is because I am a patient with HMO, it is a different dentist from before and upon her checking there are a few buildups on my lower teeth (very minimal on my perspective and based on their chart) and they says it does not covered by HMO since it requires deep cleaning. With a few questions on my end, I still agree with what should be done and expect also for a better way of how this cleaning should be done. But, halfway through upon spitting out excess water there no any debris or plaque buildup that comes out. And yet I still paid for the said deep cleaning fee.\\nWith comparing to what I have been way way back before with other clinics this is the worst quality of service  considering with an addtl payment \\u0026 HMO avail that I have experienced.\\nFrom there, I said to my mind, I am never going back to this Clinic/branch again.\",\"Images\":null,\"When\":\"4 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2kxSFgyUndTM0EyWm1OUFozQmFlRmg2TURodkxVRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":2,\"author_url\":\"https://www.google.com/maps/contrib/118098080704970597597/reviews?hl=en-US\",\"posted_at_unix_micros\":1781166341990286,\"updated_at_unix_micros\":1781166341990286,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I've been to this clinic last year and my experience was great, with a friendly staff and quality of service. However, recently I have oral prophylaxis even though the staffs are as friendly as before, and booking for an appointment is somewhat convenient. I am very disappointed with the quality of their service.\\nI think it is because I am a patient with HMO, it is a different dentist from before and upon her checking there are a few buildups on my lower teeth (very minimal on my perspective and based on their chart) and they says it does not covered by HMO since it requires deep cleaning. With a few questions on my end, I still agree with what should be done and expect also for a better way of how this cleaning should be done. But, halfway through upon spitting out excess water there no any debris or plaque buildup that comes out. And yet I still paid for the said deep cleaning fee.\\nWith comparing to what I have been way way back before with other clinics this is the worst quality of service  considering with an addtl payment \\u0026 HMO avail that I have experienced.\\nFrom there, I said to my mind, I am never going back to this Clinic/branch again.\",\"text_translated\":\"\",\"published_at\":\"2026-06-11T08:25:41.990286Z\"},{\"Name\":\"Franz Lowell Lim\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXLW6DF3mTcZOIkKlVrA7ppPm_D3kfPKhxbWnM0egWOBlCuWophgg=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Booking a schedule was a bit tricky but they tried their very best to accommodate our preferred schedule. Service was excellent, Doc JP was extra patient with us while performing our cleaning. Will definitely be back for future appointments. Thanks a lot!\",\"Images\":null,\"When\":\"9 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT25oWVowaHpWMFJYTkdSME55MHROelozVEd4ellrRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/103637720089938723126/reviews?hl=en-US\",\"posted_at_unix_micros\":1768555801178755,\"updated_at_unix_micros\":1768555801178755,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Booking a schedule was a bit tricky but they tried their very best to accommodate our preferred schedule. Service was excellent, Doc JP was extra patient with us while performing our cleaning. Will definitely be back for future appointments. Thanks a lot!\",\"text_translated\":\"\",\"published_at\":\"2026-01-16T09:30:01.178755Z\"},{\"Name\":\"claudia rosa\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocI6vmD6-576y9FPXFbzYcFuFWXDcuJlYFdmT1nxUTHAwxOxBw=s120-c-rp-mo-br100\",\"Rating\":1,\"Description\":\"I’m very disappointed with this clinic. They repeatedly canceled appointments at the last minute, even after my daughter had already taken time off from school. We were also asked to pay nearly 10,000 pesos for five different X-rays, yet we received no clear explanation or useful results from them.\\nWhen I reached out to request the results especially since the situation felt urgent they only sent the X-ray images, as if patients are expected to interpret them on their own. I followed up to ask for a proper report or to schedule another appointment, but they stopped responding altogether and didn’t even read my messages.\\nThis experience felt like a complete waste of time and money. The lack of communication and professionalism is extremely frustrating. Sarap ipa Tulfo nito!!!\",\"Images\":null,\"When\":\"6 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2tjeE5WUnBhVGd4WDJoa1pIQnVZWFZrUkhRNGQxRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":1,\"author_url\":\"https://www.google.com/maps/contrib/112681688110026666961/reviews?hl=en-US\",\"posted_at_unix_micros\":1776958216816578,\"updated_at_unix_micros\":1776958328212551,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I’m very disappointed with this clinic. They repeatedly canceled appointments at the last minute, even after my daughter had already taken time off from school. We were also asked to pay nearly 10,000 pesos for five different X-rays, yet we received no clear explanation or useful results from them.\\nWhen I reached out to request the results especially since the situation felt urgent they only sent the X-ray images, as if patients are expected to interpret them on their own. I followed up to ask for a proper report or to schedule another appointment, but they stopped responding altogether and didn’t even read my messages.\\nThis experience felt like a complete waste of time and money. The lack of communication and professionalism is extremely frustrating. Sarap ipa Tulfo nito!!!\",\"text_translated\":\"\",\"published_at\":\"2026-04-23T15:30:16.816578Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [],
+      "audit": {
+        "problems": [
+          {
+            "issue": "The page uses a 'noindex' meta robot tag, preventing search engines from indexing the clinic's landing page.",
+            "impact": "Severely limits organic visibility and local SEO acquisition for the Manila branch.",
+            "severity": "high"
+          },
+          {
+            "issue": "Google Maps directions link points to a lengthy search query URL rather than a direct place/coordinates link.",
+            "impact": "Increases friction for patients trying to navigate to the clinic location.",
+            "severity": "medium"
+          }
+        ],
+        "opportunities": [
+          "Implement structured data (LocalBusiness schema) to enhance local search snippets and map integration.",
+          "Add direct click-to-call functionality on the mobile number element for better mobile user experience."
+        ],
+        "summary": "The DR Smile Dental Clinic landing page on Molarsoft functions adequately as a mobile-first booking portal for existing traffic, but is heavily restricted in organic reach due to a 'noindex' directive and lacks optimized local SEO markup.",
+        "url": "https://px.molarsoft.com/_/drsmile?b=1218",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick note on DR Smile's Manila page",
+        "body": "Hi there,\n\nI was looking at the DR Smile Manila booking page and noticed a quick technical fix that might be holding back new patients. Right now, there's a 'noindex' tag on the page, which means Google isn't showing it in search results. I also noticed the Google Maps directions link takes visitors through a messy search URL instead of dropping them right at your door.\n\nWe put together a quick, clean demo fixing these exact friction points. Would it be useful if I sent it over?\n\nBest,\nRahul\n\n---\nIf you'd prefer not to hear from me again, just reply 'unsubscribe' and I'll remove you right away.",
+        "provider": "gemini"
+      }
+    }
+  ],
+  "store_stats": {
+    "new": 2
+  }
+}
