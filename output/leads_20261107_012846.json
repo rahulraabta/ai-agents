@@ -1,0 +1,125 @@
+{
+  "success": true,
+  "query": "dental clinic in Manila",
+  "started": "2026-11-07T01:25:41.258494",
+  "finished": "2026-11-07T01:28:46.402932",
+  "scraped_count": 6,
+  "skipped_known": 0,
+  "enriched_count": 2,
+  "leads": [
+    {
+      "input_id": "397508f9-7448-4a6a-bff2-80146f27dcdf",
+      "link": "https://www.google.com/maps/place/ConfidentSmile+Dental+Clinic/data=!4m7!3m6!1s0x3397c907fc867209:0xbe3b1292d1baea37!8m2!3d14.6009447!4d120.9917588!16s%2Fg%2F11xmr4ch40!19sChIJCXKG_AfJlzMRN-q60ZISO74?authuser=0&hl=en&g_ep=EgoyMDI2MTEwMy4wIJJjKgBIAVAD&rclk=1",
+      "title": "ConfidentSmile Dental Clinic",
+      "category": "Dental clinic",
+      "address": "Legarda St, Sampaloc, Manila, 1008 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"9 AM–7 PM\"],\"Monday\":[\"9 AM–7 PM\"],\"Saturday\":[\"9 AM–7 PM\"],\"Sunday\":[\"9 AM–7 PM\"],\"Thursday\":[\"9 AM–7 PM\"],\"Tuesday\":[\"9 AM–7 PM\"],\"Wednesday\":[\"9 AM–7 PM\"]}",
+      "popular_times": "{}",
+      "website": "",
+      "phone": "+63 967 197 4078",
+      "plus_code": "JX2R+9P Manila, Metro Manila, Philippines",
+      "review_count": "47",
+      "review_rating": "4.800000",
+      "reviews_per_rating": "{\"1\":2,\"2\":0,\"3\":0,\"4\":1,\"5\":44}",
+      "latitude": "14.600945",
+      "longitude": "120.991759",
+      "cid": "13707570312625449527",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcIiqiZm6yXDUgan4nwIQAch0y_GzGVHLkJLmeFc9h7tIZtFYykRRxQTz8fNlQrWQlP4lCsY4OX-_Q9eD2Cq-CNqGe2s7bE5wHhWcY9V3TCGCKbr3ex2S4wWBgQGa-7-_6Lenew3V5pgMj7=w408-h456-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397c907fc867209:0xbe3b1292d1baea37",
+      "street_view_url": "",
+      "place_id": "ChIJCXKG_AfJlzMRN-q60ZISO74",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"115630771026044779403\",\"name\":\"ConfidentSmile Dental Clinic (Owner)\",\"link\":\"https://www.google.com/maps/contrib/115630771026044779403\"}",
+      "complete_address": "{\"borough\":\"Sampaloc\",\"street\":\"Legarda St\",\"city\":\"Manila\",\"postal_code\":\"1008\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"Clarence\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVTxjGtOuCROpS_0qY5oI7rltNNLIofd3gyvhqLENbMpOzq11M=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I highly recommend this ConfidentSmile Dental Clinic! First, the staffs were accommodating and friendly too even in their Facebook page. Next, the clinic itself were clean, simple, and elegant inside! I asked them to create me a 4 front teeth dentures and in just 3 hours it's already prepared and ready to wear. Even though I didn't had a chance to have operation with the doctor, the clinicians were very helpful because they guided me through adjusting my dentures and looked into the issue for me.\\n\\nOverall, 10/10 for this clinic! Thank you so much for bringing back my smile and confidence!🤍🤍\",\"Images\":null,\"When\":\"3 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xWWE4yZHBjR0Z2UkhWSGMyVmxOWEpWWm5WVlZrRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/109170469494274806392/reviews?hl=en-US\",\"posted_at_unix_micros\":1785757693009380,\"updated_at_unix_micros\":1785757752974281,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I highly recommend this ConfidentSmile Dental Clinic! First, the staffs were accommodating and friendly too even in their Facebook page. Next, the clinic itself were clean, simple, and elegant inside! I asked them to create me a 4 front teeth dentures and in just 3 hours it's already prepared and ready to wear. Even though I didn't had a chance to have operation with the doctor, the clinicians were very helpful because they guided me through adjusting my dentures and looked into the issue for me.\\n\\nOverall, 10/10 for this clinic! Thank you so much for bringing back my smile and confidence!🤍🤍\",\"text_translated\":\"\",\"reply_text_original\":\"Thank you so much for your wonderful review! Your kind words motivate us to continue delivering high-quality and compassionate dental care. We look forward to serving you again!💜🧡\",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1785806979000000,\"reply_updated_at_unix_micros\":1785806979000000,\"published_at\":\"2026-08-03T11:48:13.00938Z\"},{\"Name\":\"Abood Alsam\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJycY_Gr7W-fYUMUlIBdIkCN8gIbDGgt4mjaw81ccf6vhQykg=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"An outstanding experience from start to finish. The entire team was incredibly professional, attentive, and precise. Their expertise, attention to detail, and genuine care for patients truly stood out.\\nHighly recommended to anyone looking for exceptional dental care and professionalism. Definitely one of the best dental clinics I’ve experienced ❤️, I came from china, and now I’m sure that I did best thing to visit this clinic\",\"Images\":null,\"When\":\"2 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2tsMmNXRjZkVVI1ZERkMWNFZHNSVGhIWXpOTFdtYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/113611127633660583325/reviews?hl=en-US\",\"posted_at_unix_micros\":1786359693548915,\"updated_at_unix_micros\":1786359693548915,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"An outstanding experience from start to finish. The entire team was incredibly professional, attentive, and precise. Their expertise, attention to detail, and genuine care for patients truly stood out.\\nHighly recommended to anyone looking for exceptional dental care and professionalism. Definitely one of the best dental clinics I’ve experienced ❤️, I came from china, and now I’m sure that I did best thing to visit this clinic\",\"text_translated\":\"\",\"reply_text_original\":\"Thank you so much for your wonderful review! 💕 We truly appreciate you choosing ConfidentSmile Dental Clinic, especially traveling all the way from China to visit us. It means so much to our entire team to know that you were happy with our service, care, and attention to detail. 🦷✨ It was a pleasure taking care of you, and we’re grateful for your trust and kind words. Wishing you a beautiful and confident smile always! We hope to see you again in the future. ❤️\",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1786360934000000,\"reply_updated_at_unix_micros\":1786360934000000,\"published_at\":\"2026-08-10T11:01:33.548915Z\"},{\"Name\":\"Jarrah\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocIB4vHBAQh0-ATMPMRQcF1vKo0Ou9CNUsCMXL1gh4sy8yR7hg=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Kudos to the admin of Confident Smile Care who guided me from Cavite to their clinic and until natapos ako nangumusta pa din. Appreciate the gesture 🥰\",\"Images\":null,\"When\":\"3 weeks ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT25oNGFrVlJja3RxVWpKM2JsQldVVGN5WkVKbVowRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/110308126997040149757/reviews?hl=en-US\",\"posted_at_unix_micros\":1792141013236130,\"updated_at_unix_micros\":1792141207123421,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Kudos to the admin of Confident Smile Care who guided me from Cavite to their clinic and until natapos ako nangumusta pa din. Appreciate the gesture 🥰\",\"text_translated\":\"\",\"published_at\":\"2026-10-16T08:56:53.23613Z\"},{\"Name\":\"Harlee Ivette Brosas\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUx26OLvvPkWlvs5eGJHYN6KwqroxdwuBVijUsRUOFwffvSPAvX=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Will rate this clinic 5 star! Very satisfied customer here🙋‍♀️ Been bullied because of my old teeth but they made my confident smile back🫶 So happy for my 6 unit pmf, worth the price!🩷\",\"Images\":null,\"When\":\"5 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT25kbk5XNVFZVUpHTnpaQmFGOVlNRFZwTm05Vk9FRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/113386169886824634492/reviews?hl=en-US\",\"posted_at_unix_micros\":1779450085945010,\"updated_at_unix_micros\":1779450085945010,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Will rate this clinic 5 star! Very satisfied customer here🙋‍♀️ Been bullied because of my old teeth but they made my confident smile back🫶 So happy for my 6 unit pmf, worth the price!🩷\",\"text_translated\":\"\",\"reply_text_original\":\"Thank you so much for your wonderful review! Your kind words motivate us to continue delivering high-quality and compassionate dental care. We look forward to serving you again!💜🧡\",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1785807026000000,\"reply_updated_at_unix_micros\":1785807026000000,\"published_at\":\"2026-05-22T11:41:25.94501Z\"},{\"Name\":\"amelie\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocLNLjB9PvMCSBSPq3u6G9jbOvBS-9lprFC72TKcN-xD9r1WMQ=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"at first my inquiries where answered properly, prices are very affordable, staff are very accomodating specifically si doc , had a few chats with her while waiting, so i would highly recommend this dental clinic to others and lastly i must say it's 10/10 🥰🥰🥰🥰🥰\",\"Images\":null,\"When\":\"5 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2sxS01WQlRaMUl3T1UxTk4yeFdSREpUTUhGSlZYYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/100380257915725260896/reviews?hl=en-US\",\"posted_at_unix_micros\":1780379876293276,\"updated_at_unix_micros\":1780379876293276,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"at first my inquiries where answered properly, prices are very affordable, staff are very accomodating specifically si doc , had a few chats with her while waiting, so i would highly recommend this dental clinic to others and lastly i must say it's 10/10 🥰🥰🥰🥰🥰\",\"text_translated\":\"\",\"reply_text_original\":\"Thank you so much for your wonderful review! Your kind words motivate us to continue delivering high-quality and compassionate dental care. We look forward to serving you again!💜🧡\",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1785807013000000,\"reply_updated_at_unix_micros\":1785807013000000,\"published_at\":\"2026-06-02T05:57:56.293276Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [],
+      "audit": {
+        "problems": [],
+        "summary": "No website"
+      },
+      "outreach": {
+        "subject": "",
+        "body": ""
+      }
+    },
+    {
+      "input_id": "397508f9-7448-4a6a-bff2-80146f27dcdf",
+      "link": "https://www.google.com/maps/place/Manila+Dental+Care+Center/data=!4m7!3m6!1s0x3397cbc5e45a7fa5:0x65213b00e0339424!8m2!3d14.5899872!4d120.9775551!16s%2Fg%2F11kj6pg9kh!19sChIJpX9a5MXLlzMRJJQz4AA7IWU?authuser=0&hl=en&g_ep=EgoyMDI2MTEwMy4wIJJjKgBIAVAD&rclk=1",
+      "title": "Manila Dental Care Center",
+      "category": "Dental clinic",
+      "address": "Unit 2, Manila Dental Care Center, 613 Solana St, Barangay 658, Intramuros, Manila, 1002 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"9 AM–7 PM\"],\"Monday\":[\"9 AM–7 PM\"],\"Saturday\":[\"9 AM–7 PM\"],\"Sunday\":[\"12–6 PM\"],\"Thursday\":[\"9 AM–7 PM\"],\"Tuesday\":[\"9 AM–7 PM\"],\"Wednesday\":[\"9 AM–7 PM\"]}",
+      "popular_times": "{}",
+      "website": "https://facebook.com/ManilaDentalCareCenter",
+      "phone": "+63 906 569 5786",
+      "plus_code": "HXQH+X2 Manila, Metro Manila, Philippines",
+      "review_count": "16",
+      "review_rating": "4.000000",
+      "reviews_per_rating": "{\"1\":4,\"2\":0,\"3\":0,\"4\":0,\"5\":12}",
+      "latitude": "14.589987",
+      "longitude": "120.977555",
+      "cid": "7287170547009688612",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeABAcKchcf8AmYrUG4M_qWwm6-hJW3VyWL8Aw1idp01Z9D4lVbkcIWccyHVe7YTo9wvLiBen1SpOyY9X5uBNJcmlo__jGHkn_IldnRRbHys_FmvYbfhH8qzdmqAy0NrdQyJLZlKpaDxXk=w408-h544-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397cbc5e45a7fa5:0x65213b00e0339424",
+      "street_view_url": "",
+      "place_id": "ChIJpX9a5MXLlzMRJJQz4AA7IWU",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"117219901928819954223\",\"name\":\"Manila Dental Care Center (Owner)\",\"link\":\"https://www.google.com/maps/contrib/117219901928819954223\"}",
+      "complete_address": "{\"borough\":\"Barangay 658, Intramuros\",\"street\":\"Unit 2, 613 Solana St\",\"city\":\"Manila\",\"postal_code\":\"1002\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"k Fm\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUXqJ5TGE8lrzKWmztqNbFUyk54sSHS-nkeua-fSEXZu_w4RZ1a2g=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I had a really great experience here. The dentist incredibly professional and friendly.  I highly recommended for family and friends.\",\"Images\":null,\"When\":\"a month ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21aV1oxSkZkbmRsYjFaMGJ6RkJOamhQVUdsWGJHYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/107587681910639531165/reviews?hl=en-US\",\"posted_at_unix_micros\":1791097026155910,\"updated_at_unix_micros\":1791097026155910,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I had a really great experience here. The dentist incredibly professional and friendly.  I highly recommended for family and friends.\",\"text_translated\":\"\",\"published_at\":\"2026-10-04T06:57:06.15591Z\"},{\"Name\":\"winter\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJglGu736W_vVL5MkrJazxtGsMG09HghQD2bJ71u4EbllnMkA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Quality dental service so far yet so affordable. Dentists and staff are so accommodating and very approachable 🫶 will visit againn\",\"Images\":null,\"When\":\"a month ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2pscVozZHRkVGR4UXpoa1lsbGtUVzFRUkRWYVVFRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/114206021225762555950/reviews?hl=en-US\",\"posted_at_unix_micros\":1790923692194858,\"updated_at_unix_micros\":1790923692194858,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Quality dental service so far yet so affordable. Dentists and staff are so accommodating and very approachable 🫶 will visit againn\",\"text_translated\":\"\",\"published_at\":\"2026-10-02T06:48:12.194858Z\"},{\"Name\":\"LJGonz\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocKpxhZ5w0kSASXUe8DC4KFrQklU4enrrHB-HuROTKBz33Txqw=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"The best dental clinic so far I been. Very accommodating, approachable dentists. Highly recommended clinic, price wise and quality.\",\"Images\":null,\"When\":\"6 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2sxWVNtZG9NMnd5YmxBMFdtRnpXa3d0VWw5Q2VXYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/105776284915820559216/reviews?hl=en-US\",\"posted_at_unix_micros\":1776406790607088,\"updated_at_unix_micros\":1776406790607088,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"The best dental clinic so far I been. Very accommodating, approachable dentists. Highly recommended clinic, price wise and quality.\",\"text_translated\":\"\",\"published_at\":\"2026-04-17T06:19:50.607088Z\"},{\"Name\":\"jhunmore\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJkqq9hU9GLKF4W9jS3Lhv-KSPuBjvp1qVC1G0YzqWXxRa9fA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Highly Recommended Dental Clinic Specially For Fellow Seafarers .\\nFrom staff to dentists 5star.\\nCompetitive price and Quality Service.\",\"Images\":null,\"When\":\"11 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT25NeVRFRjVRblJvY0hRM1JETjJRVnBTUjFkVk5tYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/108388934742163275995/reviews?hl=en-US\",\"posted_at_unix_micros\":1764310426474752,\"updated_at_unix_micros\":1764310426474752,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Highly Recommended Dental Clinic Specially For Fellow Seafarers .\\nFrom staff to dentists 5star.\\nCompetitive price and Quality Service.\",\"text_translated\":\"\",\"published_at\":\"2025-11-28T06:13:46.474752Z\"},{\"Name\":\"Jay Limon\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJ3oph1kLh7-V9MY7wDNuy6LukVOq38XYVZOUdcJdnj_T08zw=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Very affordable, excellent facility and very professional.\",\"Images\":null,\"When\":\"2 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT201RFkxOVNUR1pJV1hsWVYxOXNlbDh0WlZwblZFRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/100928562224451503911/reviews?hl=en-US\",\"posted_at_unix_micros\":1786252755042210,\"updated_at_unix_micros\":1786252755042210,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Very affordable, excellent facility and very professional.\",\"text_translated\":\"\",\"published_at\":\"2026-08-09T05:19:15.04221Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [],
+      "audit": {
+        "problems": [
+          {
+            "issue": "Relying solely on a third-party social media platform (Facebook) as the primary web presence lacks a dedicated professional website, potentially limiting credibility and advanced search engine optimization (SEO).",
+            "impact": "Prospective dental patients searching for comprehensive clinical information or online booking may find limited details compared to a dedicated practice website.",
+            "severity": "high"
+          },
+          {
+            "issue": "Incomplete contact details, business hours, and service menus are immediately apparent in the primary metadata without deep scrolling or navigating the platform.",
+            "impact": "Reduces conversion rates as patients cannot quickly verify clinic hours, exact location, or contact numbers.",
+            "severity": "medium"
+          }
+        ],
+        "opportunities": [
+          "Launch a dedicated, mobile-responsive website integrated with an online appointment scheduling system to streamline patient acquisition.",
+          "Implement local SEO strategies (Google Business Profile and structured data) to capture high-intent local search traffic for dental services in Manila.",
+          "Publish patient testimonials and detailed procedure guides on a structured platform to build trust and authority."
+        ],
+        "summary": "The Manila Dental Care Center relies entirely on a Facebook page for its web presence. While useful for social engagement, the lack of an independent website limits search engine visibility, professional branding, and automated booking capabilities, representing a significant missed opportunity for patient acquisition.",
+        "url": "https://facebook.com/ManilaDentalCareCenter",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick thought on Manila Dental Care Center's online presence",
+        "body": "Hi there,\n\nI was looking at Manila Dental Care Center's Facebook page and noticed how active your community is there. \n\nHowever, relying solely on social media means prospective patients searching on Google might miss you, and it's tougher for them to quickly check your clinic hours or book an appointment without scrolling through posts. \n\nWe put together a quick, lightweight live demo of what a dedicated website could look like for your practice to fix this. Would it be useful if I sent it over?\n\nBest,\nRahul\n\n---\nIf you'd prefer not to hear from me again, just reply 'unsubscribe' and I'll remove you right away.",
+        "provider": "gemini"
+      }
+    }
+  ],
+  "store_stats": {
+    "new": 1
+  }
+}
