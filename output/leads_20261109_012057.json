@@ -1,0 +1,154 @@
+{
+  "success": true,
+  "query": "dental clinic in Manila",
+  "started": "2026-11-09T01:17:56.167212",
+  "finished": "2026-11-09T01:20:57.651125",
+  "scraped_count": 6,
+  "skipped_known": 0,
+  "enriched_count": 2,
+  "leads": [
+    {
+      "input_id": "55d8709f-0283-443e-9b0a-5835ea07b52a",
+      "link": "https://www.google.com/maps/place/Manila+Dental+Care+Center/data=!4m7!3m6!1s0x3397cbc5e45a7fa5:0x65213b00e0339424!8m2!3d14.5899872!4d120.9775551!16s%2Fg%2F11kj6pg9kh!19sChIJpX9a5MXLlzMRJJQz4AA7IWU?authuser=0&hl=en&g_ep=EgoyMDI2MTEwMy4wIJJjKgBIAVAD&rclk=1",
+      "title": "Manila Dental Care Center",
+      "category": "Dental clinic",
+      "address": "Unit 2, Manila Dental Care Center, 613 Solana St, Barangay 658, Intramuros, Manila, 1002 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"9 AM–7 PM\"],\"Monday\":[\"9 AM–7 PM\"],\"Saturday\":[\"9 AM–7 PM\"],\"Sunday\":[\"12–6 PM\"],\"Thursday\":[\"9 AM–7 PM\"],\"Tuesday\":[\"9 AM–7 PM\"],\"Wednesday\":[\"9 AM–7 PM\"]}",
+      "popular_times": "{}",
+      "website": "https://facebook.com/ManilaDentalCareCenter",
+      "phone": "+63 906 569 5786",
+      "plus_code": "HXQH+X2 Manila, Metro Manila, Philippines",
+      "review_count": "16",
+      "review_rating": "4.000000",
+      "reviews_per_rating": "{\"1\":4,\"2\":0,\"3\":0,\"4\":0,\"5\":12}",
+      "latitude": "14.589987",
+      "longitude": "120.977555",
+      "cid": "7287170547009688612",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeR3jkyuiCs9OnP5XzXXODJBJyy5bJLP8AaLQyeGzyD3v_HO2Uxe7H1B0vq4niuZnyNrtdT109OcG21M5gOzi3XcivoHNTIFSlsMv92WgRTnZ-zpafhaEY8osYr8OzM6Od5pf7auEyKinQ=w408-h544-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397cbc5e45a7fa5:0x65213b00e0339424",
+      "street_view_url": "",
+      "place_id": "ChIJpX9a5MXLlzMRJJQz4AA7IWU",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"117219901928819954223\",\"name\":\"Manila Dental Care Center (Owner)\",\"link\":\"https://www.google.com/maps/contrib/117219901928819954223\"}",
+      "complete_address": "{\"borough\":\"Barangay 658, Intramuros\",\"street\":\"Unit 2, 613 Solana St\",\"city\":\"Manila\",\"postal_code\":\"1002\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"k Fm\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUXqJ5TGE8lrzKWmztqNbFUyk54sSHS-nkeua-fSEXZu_w4RZ1a2g=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I had a really great experience here. The dentist incredibly professional and friendly.  I highly recommended for family and friends.\",\"Images\":null,\"When\":\"a month ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21aV1oxSkZkbmRsYjFaMGJ6RkJOamhQVUdsWGJHYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/107587681910639531165/reviews?hl=en-US\",\"posted_at_unix_micros\":1791097026155910,\"updated_at_unix_micros\":1791097026155910,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I had a really great experience here. The dentist incredibly professional and friendly.  I highly recommended for family and friends.\",\"text_translated\":\"\",\"published_at\":\"2026-10-04T06:57:06.15591Z\"},{\"Name\":\"winter\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJglGu736W_vVL5MkrJazxtGsMG09HghQD2bJ71u4EbllnMkA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Quality dental service so far yet so affordable. Dentists and staff are so accommodating and very approachable 🫶 will visit againn\",\"Images\":null,\"When\":\"a month ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2pscVozZHRkVGR4UXpoa1lsbGtUVzFRUkRWYVVFRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/114206021225762555950/reviews?hl=en-US\",\"posted_at_unix_micros\":1790923692194858,\"updated_at_unix_micros\":1790923692194858,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Quality dental service so far yet so affordable. Dentists and staff are so accommodating and very approachable 🫶 will visit againn\",\"text_translated\":\"\",\"published_at\":\"2026-10-02T06:48:12.194858Z\"},{\"Name\":\"LJGonz\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocKpxhZ5w0kSASXUe8DC4KFrQklU4enrrHB-HuROTKBz33Txqw=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"The best dental clinic so far I been. Very accommodating, approachable dentists. Highly recommended clinic, price wise and quality.\",\"Images\":null,\"When\":\"6 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2sxWVNtZG9NMnd5YmxBMFdtRnpXa3d0VWw5Q2VXYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/105776284915820559216/reviews?hl=en-US\",\"posted_at_unix_micros\":1776406790607088,\"updated_at_unix_micros\":1776406790607088,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"The best dental clinic so far I been. Very accommodating, approachable dentists. Highly recommended clinic, price wise and quality.\",\"text_translated\":\"\",\"published_at\":\"2026-04-17T06:19:50.607088Z\"},{\"Name\":\"jhunmore\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJkqq9hU9GLKF4W9jS3Lhv-KSPuBjvp1qVC1G0YzqWXxRa9fA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Highly Recommended Dental Clinic Specially For Fellow Seafarers .\\nFrom staff to dentists 5star.\\nCompetitive price and Quality Service.\",\"Images\":null,\"When\":\"11 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT25NeVRFRjVRblJvY0hRM1JETjJRVnBTUjFkVk5tYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/108388934742163275995/reviews?hl=en-US\",\"posted_at_unix_micros\":1764310426474752,\"updated_at_unix_micros\":1764310426474752,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Highly Recommended Dental Clinic Specially For Fellow Seafarers .\\nFrom staff to dentists 5star.\\nCompetitive price and Quality Service.\",\"text_translated\":\"\",\"published_at\":\"2025-11-28T06:13:46.474752Z\"},{\"Name\":\"Jay Limon\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJ3oph1kLh7-V9MY7wDNuy6LukVOq38XYVZOUdcJdnj_T08zw=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Very affordable, excellent facility and very professional.\",\"Images\":null,\"When\":\"2 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT201RFkxOVNUR1pJV1hsWVYxOXNlbDh0WlZwblZFRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/100928562224451503911/reviews?hl=en-US\",\"posted_at_unix_micros\":1786252755042210,\"updated_at_unix_micros\":1786252755042210,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Very affordable, excellent facility and very professional.\",\"text_translated\":\"\",\"published_at\":\"2026-08-09T05:19:15.04221Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [],
+      "audit": {
+        "problems": [
+          {
+            "issue": "Relying solely on a social media profile (Facebook) instead of a dedicated business website limits brand authority and advanced online booking features.",
+            "impact": "Prospective dental patients may perceive the practice as less established or professional compared to competitors with custom websites.",
+            "severity": "high"
+          },
+          {
+            "issue": "Lack of structured schema markup for local businesses on a standalone domain prevents optimal local search engine optimization (SEO) performance.",
+            "impact": "Misses high-intent local traffic searching for dental care services in Manila on search engines like Google.",
+            "severity": "medium"
+          },
+          {
+            "issue": "Limited conversion pathways beyond standard social media messaging hinder frictionless appointment scheduling.",
+            "impact": "Friction in booking appointments can lead to lost patient leads who prefer instant online scheduling.",
+            "severity": "medium"
+          }
+        ],
+        "opportunities": [
+          "Develop a dedicated, mobile-responsive website featuring an integrated online appointment booking system and patient intake forms.",
+          "Implement comprehensive local SEO and Google Business Profile optimization to capture high-intent local search traffic in Manila.",
+          "Display patient testimonials, before-and-after case galleries, and clear service pricing or insurance details to build trust and drive conversions."
+        ],
+        "summary": "Manila Dental Care Center currently relies entirely on a Facebook page for its online presence. While social media is useful for engagement, the lack of a dedicated business website and structured local SEO restricts its ability to capture high-intent search traffic, establish professional authority, and provide a streamlined patient booking experience.",
+        "url": "https://facebook.com/ManilaDentalCareCenter",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick thought on Manila Dental Care Center's online booking",
+        "body": "Hi there,\n\nI was looking at Manila Dental Care Center's Facebook page and appreciate the community engagement you've built there. \n\nHowever, relying solely on social media means prospective patients searching Google for local dental care might miss you, and booking appointments currently takes a bit more back-and-forth than it should.\n\nWe put together a quick live demo of what a dedicated site with instant online booking and local search optimization could look like for your practice. \n\nWould it be useful if I sent it over?\n\nBest,\nRahul\n\n---\nIf you'd prefer not to hear from me again, just reply 'unsubscribe' and I'll remove you right away.",
+        "provider": "gemini"
+      }
+    },
+    {
+      "input_id": "55d8709f-0283-443e-9b0a-5835ea07b52a",
+      "link": "https://www.google.com/maps/place/Fab+Smiles+Dental+Clinic+Manila/data=!4m7!3m6!1s0x3397c9ee1a7848c9:0x2d0543f4317b8c1b!8m2!3d14.6007843!4d120.9905242!16s%2Fg%2F11j4pjxg_5!19sChIJyUh4Gu7JlzMRG4x7MfRDBS0?authuser=0&hl=en&g_ep=EgoyMDI2MTEwMy4wIJJjKgBIAVAD&rclk=1",
+      "title": "Fab Smiles Dental Clinic Manila",
+      "category": "Cosmetic dentist",
+      "address": "Unit i, Fab Smiles Dental Clinic Manila, 2141 Recto Ave, Sampaloc, Manila, 1008 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"9 AM–6 PM\"],\"Monday\":[\"9 AM–6 PM\"],\"Saturday\":[\"9 AM–6 PM\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"9 AM–6 PM\"],\"Tuesday\":[\"9 AM–6 PM\"],\"Wednesday\":[\"9 AM–6 PM\"]}",
+      "popular_times": "{}",
+      "website": "http://www.fabsmiles.weebly.com/",
+      "phone": "+63 945 367 6046",
+      "plus_code": "JX2R+86 Manila, Metro Manila, Philippines",
+      "review_count": "3",
+      "review_rating": "5.000000",
+      "reviews_per_rating": "{\"1\":0,\"2\":0,\"3\":0,\"4\":0,\"5\":3}",
+      "latitude": "14.600784",
+      "longitude": "120.990524",
+      "cid": "3244073822671571995",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfO8fO6Uh1KYW2ENOCYNa4_g_EpXVA5AVkHvMehfZiGtJq_XAkNbHB5tcRfZv-1KI0Qy8APJ_Mx1HLlSDkC7GI1Z24Z_8W5cJkxHTURAoafzpcOOA41fq2DtpN-pzPPY_bofp07=w408-h280-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397c9ee1a7848c9:0x2d0543f4317b8c1b",
+      "street_view_url": "",
+      "place_id": "ChIJyUh4Gu7JlzMRG4x7MfRDBS0",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"107852593926537588030\",\"name\":\"Fab Smiles Dental Clinic Manila (Owner)\",\"link\":\"https://www.google.com/maps/contrib/107852593926537588030\"}",
+      "complete_address": "{\"borough\":\"Sampaloc\",\"street\":\"Unit i, 2141 Recto Ave\",\"city\":\"Manila\",\"postal_code\":\"1008\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"Al-Bazin Elias Taleon\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXoQlKachgnyeQP5xs1G9h8wi3k6479Vh5xAtYkLFJih1cDGaqq=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Doc.Faribah,the lightest hand that I deserve during my cleaning and tooth extraction. Her expressiveness is very helpful to alleviate their clients felt of anxiousness during the procedure also the clinic ambiance is good and clean, I can say that it follows the standard protocol when it come to a healthcare facility GOOD JOB! 😊\",\"Images\":null,\"When\":\"a year ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnTURJcnZMR0RBEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/116525031137110901048/reviews?hl=en-US\",\"posted_at_unix_micros\":1744240276165921,\"updated_at_unix_micros\":1744240276165921,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Doc.Faribah,the lightest hand that I deserve during my cleaning and tooth extraction. Her expressiveness is very helpful to alleviate their clients felt of anxiousness during the procedure also the clinic ambiance is good and clean, I can say that it follows the standard protocol when it come to a healthcare facility GOOD JOB! 😊\",\"text_translated\":\"\",\"published_at\":\"2025-04-09T23:11:16.165921Z\"},{\"Name\":\"John Rei Villadiego\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVeIqrN4y_xPGoScnN-7vVMxM9ivYhvtluVaZeTIOJ6mxFoIQ=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Very accommodating and kind\",\"Images\":null,\"When\":\"2 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2sxT2RFUk9WR2xPVGxoRFIxUXdhVkpJWTJwMmNHYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/113967315445480443051/reviews?hl=en-US\",\"posted_at_unix_micros\":1787985497930352,\"updated_at_unix_micros\":1787985497930352,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Very accommodating and kind\",\"text_translated\":\"\",\"published_at\":\"2026-08-29T06:38:17.930352Z\"},{\"Name\":\"Christian Isip\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXQkQB36GRdt_vPSGNj_FCX8YgwU0zVgJkK98ZZqD2X3XCMldgO=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"good service and best experience\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLd7kPqHGsy6XSZAB6a73iRkRsG0JhL5QuR80VXT3hQxukxpVt9Q74PIpWAV90W5Z-hNX2Rq7xxeq5K2sHJpzKxGLBfu9DbCnJKYYh24zc5Hr-CkE1alhimo9S6uEQTjMWlXsURHuOlYiFjL=k-no\"],\"When\":\"11 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2twMk9GZHFPVjgxUld4SmVuSndWa0ZTVkRjMGJrRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/113821868652142314621/reviews?hl=en-US\",\"posted_at_unix_micros\":1763906435573151,\"updated_at_unix_micros\":1763906435573151,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"good service and best experience\",\"text_translated\":\"\",\"published_at\":\"2025-11-23T14:00:35.573151Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [],
+      "audit": {
+        "problems": [
+          {
+            "issue": "Free Weebly subdomain usage (fabsmiles.weebly.com) instead of a professional custom domain.",
+            "impact": "Reduces brand credibility and trust for a medical/dental practice.",
+            "severity": "high"
+          },
+          {
+            "issue": "Default or missing Open Graph image placeholder (og-image-placeholder-blank.png).",
+            "impact": "Links shared on social media platforms will lack visual appeal, lowering engagement and click-through rates.",
+            "severity": "medium"
+          },
+          {
+            "issue": "Incomplete meta description and generic keyword stuffing in meta tags.",
+            "impact": "Limits local SEO performance and fails to clearly communicate unique services to prospective patients searching on Google.",
+            "severity": "medium"
+          }
+        ],
+        "opportunities": [
+          "Upgrade to a custom domain (e.g., www.fabsmilesdental.com) to enhance professional branding and patient trust.",
+          "Implement local Schema.org markup (Dentist/MedicalClinic) to improve local search visibility and map pack rankings.",
+          "Add a prominent, mobile-friendly 'Book Appointment' or 'Call Now' CTA directly in the header to increase patient conversion rates."
+        ],
+        "summary": "The website currently relies on an outdated, free Weebly template with sub-optimal branding, lack of a custom domain, and basic SEO configurations that limit patient acquisition and trust.",
+        "url": "http://www.fabsmiles.weebly.com/",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick thought on the Fab Smiles website",
+        "body": "Hi there,\n\nI was looking at the Fab Smiles Dental Clinic site and noticed it's still running on a free Weebly address. For a dental practice where trust and credibility are everything, having a custom domain makes a huge first impression.\n\nI also saw that when links are shared on Facebook or Messenger, they show a blank image placeholder right now, which misses a chance to catch patients' eyes.\n\nWe actually put together a quick, modern demo of what an updated site could look like for you.\n\nWould it be useful if I sent it over?\n\nBest,\nRahul\n\n---\nIf you'd prefer not to hear from me again, just reply 'unsubscribe' and I'll remove you right away.",
+        "provider": "gemini"
+      }
+    }
+  ],
+  "store_stats": {
+    "new": 2
+  }
+}
