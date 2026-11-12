@@ -1,0 +1,144 @@
+{
+  "success": true,
+  "query": "dental clinic in Manila",
+  "started": "2026-11-12T02:36:00.137467",
+  "finished": "2026-11-12T02:38:40.335583",
+  "scraped_count": 6,
+  "skipped_known": 0,
+  "enriched_count": 2,
+  "leads": [
+    {
+      "input_id": "1f382640-1dc1-4516-8609-73b0c570c210",
+      "link": "https://www.google.com/maps/place/MaxSmile+Dental+Clinic+-+Manila+Main/data=!4m7!3m6!1s0x3397c9b93a9b5a3b:0x281be1309a897b1f!8m2!3d14.5618091!4d120.9968415!16s%2Fg%2F11nwwpyxfd!19sChIJO1qbOrnJlzMRH3uJmjDhGyg?authuser=0&hl=en&g_ep=EgoyMDI2MTEwOS4wIJJjKgBIAVAD&rclk=1",
+      "title": "MaxSmile Dental Clinic - Manila Main",
+      "category": "Dental clinic",
+      "address": "Dolores Corner, 2670 Dominga Street, Malate, Manila, 1004 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"10 AM–6 PM\"],\"Monday\":[\"10 AM–6 PM\"],\"Saturday\":[\"10 AM–6 PM\"],\"Sunday\":[\"10 AM–6 PM\"],\"Thursday\":[\"10 AM–5 PM\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"10 AM–6 PM\"]}",
+      "popular_times": "{}",
+      "website": "https://www.facebook.com/JCOrtega.fbpage/",
+      "phone": "+63 956 895 4726",
+      "plus_code": "HX6W+PP Manila, Metro Manila, Philippines",
+      "review_count": "47",
+      "review_rating": "4.500000",
+      "reviews_per_rating": "{\"1\":6,\"2\":0,\"3\":0,\"4\":1,\"5\":40}",
+      "latitude": "14.561809",
+      "longitude": "120.996841",
+      "cid": "2890151184755686175",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfDB9XtN2_Cs_sWDW2IXVP0siaQ-vNU9mKZCp_kfjpyCtnA3Dv2CwN2E35F1LfMi8bweM9D6rsfdL6ygZECxH1QkwmCby0G1VkjIWWVZvtfoXC0jAYm4MUMsmVBylhBudrZtyQ=w408-h544-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397c9b93a9b5a3b:0x281be1309a897b1f",
+      "street_view_url": "",
+      "place_id": "ChIJO1qbOrnJlzMRH3uJmjDhGyg",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"116955390006534636387\",\"name\":\"MaxSmile Dental Clinic - Manila Main (Owner)\",\"link\":\"https://www.google.com/maps/contrib/116955390006534636387\"}",
+      "complete_address": "{\"borough\":\"Malate\",\"street\":\"Dolores Corner, 2670 Dominga Street\",\"city\":\"Manila\",\"postal_code\":\"1004\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"Fiona Nicdao\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocLXQEvQiEym6gFf4pV6vfoHGoBFRPd52Xtbkq4A3StdOeC_smg=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I usually get super anxious about going to the dentist, but Max Smile changed that completely. The staff is so reassuring, and Dentist has a incredibly gentle touch. They took the time to answer all my questions and made sure I was completely comfortable throughout the whole appointment. Excellent service!\",\"Images\":null,\"When\":\"3 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2tneFVtNUtSREJsWjBKbWVFMUxiV3BEY0dWTE9XYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/117883263718425358559/reviews?hl=en-US\",\"posted_at_unix_micros\":1785713785400672,\"updated_at_unix_micros\":1785713785400672,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I usually get super anxious about going to the dentist, but Max Smile changed that completely. The staff is so reassuring, and Dentist has a incredibly gentle touch. They took the time to answer all my questions and made sure I was completely comfortable throughout the whole appointment. Excellent service!\",\"text_translated\":\"\",\"published_at\":\"2026-08-02T23:36:25.400672Z\"},{\"Name\":\"Dennie John Beso\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVSk7_V0zyCbG3SovGHKFQOE110QNMZcORoQo21sbefXFOzX_8=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I had an excellent experience at this dental clinic. The staff were welcoming and professional from the moment I walked in. The dentist was very gentle, explained everything clearly, and made sure I was comfortable throughout the procedure. The clinic is clean, modern, and well-organized. I highly recommend this place to anyone looking for quality dental care!\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLdA2OiOSIrW-Jnlwmy1uHKav-x2b9b-q4yarocXWa86-jx5f4pVBxVeFWOE6gTcaxb-m6C-9yhGTKQrb8PbLIGDQ4GRgfTRxHJqeemeG4dKd4NqUUhu8wg5M9a35QGB9daa9n8J-8LyoQJO=k-no\"],\"When\":\"8 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21waVYzRnNaSGhDTFZaWVYyRlNkbTQxTVhKTVZYYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/117851640122354664337/reviews?hl=en-US\",\"posted_at_unix_micros\":1772245889556398,\"updated_at_unix_micros\":1772245889556398,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I had an excellent experience at this dental clinic. The staff were welcoming and professional from the moment I walked in. The dentist was very gentle, explained everything clearly, and made sure I was comfortable throughout the procedure. The clinic is clean, modern, and well-organized. I highly recommend this place to anyone looking for quality dental care!\",\"text_translated\":\"\",\"published_at\":\"2026-02-28T02:31:29.556398Z\"},{\"Name\":\"Jean Rose Diego\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocKEXE2DhmBE_zx8m3bVfdVIZYXL1Xp8wklL88mDbrdvrWCUJc8f=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"This dental clinic was recommended with my co-worker. The root canal procedure was done and good for now, cause I have follow check up soon. Doc was so helpful and knowledgeable with my concerns.\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLe7Tk-Mzla1n_g1eWJ51MZUKUaOZ9tsTEcvi-9sbf9ELizpqjoKsE0B9KNuItUvUJGSUNqyO43mfbuspAsSPmhoK68CwvN-rZrjxtpJsSbBamKtJ6EJQKPa6ihPrN9PayOwGbfMR9nVXLME=k-no\"],\"When\":\"10 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT205QmVDMW9lbHBPTkc5RWVFMXFkVTk1VFRsMlptYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/102699305476152763321/reviews?hl=en-US\",\"posted_at_unix_micros\":1766153550119121,\"updated_at_unix_micros\":1766153550119121,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"This dental clinic was recommended with my co-worker. The root canal procedure was done and good for now, cause I have follow check up soon. Doc was so helpful and knowledgeable with my concerns.\",\"text_translated\":\"\",\"published_at\":\"2025-12-19T14:12:30.119121Z\"},{\"Name\":\"Jessa Alvarez\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUOapjs9vgjVV37c6x4jxCg-QJe4t7SDs7iaUNqEYcbzIM63Sk=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"MaxSmile Dental Clinic is clean and ensures proper sanitation before accepting clients. The space is a bit small and can only accommodate a few patients at a time, but the quality of service more than makes up for it. The receptionist is also very friendly and easy to talk to.\\n\\nAs for the service, I had an excellent experience. I underwent an RCT and had veneers done, and I can now smile with confidence without hiding it. Special thanks to Dr. Janelle for her skillful and careful work, everything was done neatly and professionally.\\n\\nHighly recommended!\",\"Images\":null,\"When\":\"7 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2toTWVqWnZaRWxJY2psUExXeGFWVEF5YW5KbFlVRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/112461957861177811958/reviews?hl=en-US\",\"posted_at_unix_micros\":1775691105394128,\"updated_at_unix_micros\":1775691105394128,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"MaxSmile Dental Clinic is clean and ensures proper sanitation before accepting clients. The space is a bit small and can only accommodate a few patients at a time, but the quality of service more than makes up for it. The receptionist is also very friendly and easy to talk to.\\n\\nAs for the service, I had an excellent experience. I underwent an RCT and had veneers done, and I can now smile with confidence without hiding it. Special thanks to Dr. Janelle for her skillful and careful work, everything was done neatly and professionally.\\n\\nHighly recommended!\",\"text_translated\":\"\",\"published_at\":\"2026-04-08T23:31:45.394128Z\"},{\"Name\":\"Jovie\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjU0vNyg5_zRqT3ce19agdRpMColyAoYMyjRL5WywEibyOVj2x_d=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I recently underwent a tooth extraction at this dental clinic, and I’m very satisfied with the service. The dentist ensured I was comfortable throughout the procedure. The clinic was clean, well-organized, and the staff were professional. Recovery has been going well so far. I would definitely come back for future dental care.”\",\"Images\":null,\"When\":\"6 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2pkVmNqTlNVR3RHVTFoWFEycGpURFY2VW5sQlJtYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/111054480101918858216/reviews?hl=en-US\",\"posted_at_unix_micros\":1776409588721912,\"updated_at_unix_micros\":1776409588721912,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I recently underwent a tooth extraction at this dental clinic, and I’m very satisfied with the service. The dentist ensured I was comfortable throughout the procedure. The clinic was clean, well-organized, and the staff were professional. Recovery has been going well so far. I would definitely come back for future dental care.”\",\"text_translated\":\"\",\"published_at\":\"2026-04-17T07:06:28.721912Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [],
+      "audit": {
+        "problems": [
+          {
+            "issue": "Reliance on a third-party social media platform (Facebook) as the primary business web presence instead of an owned domain.",
+            "impact": "Limits brand control, search engine optimization (SEO) potential, custom functionality, and professional credibility.",
+            "severity": "high"
+          },
+          {
+            "issue": "Authentication wall (login redirect) restricts public access and search engine indexing of business content.",
+            "impact": "Potential customers without a Facebook account cannot view business information, services, or contact details, severely reducing conversion opportunities.",
+            "severity": "high"
+          }
+        ],
+        "opportunities": [
+          "Develop a dedicated, SEO-optimized business website to serve as the central hub for conversions and lead generation.",
+          "Integrate a clear call-to-action (CTA) strategy on landing pages to capture customer inquiries directly.",
+          "Use social media platforms like Facebook strictly as top-of-funnel marketing channels to drive traffic back to the official website."
+        ],
+        "summary": "The business currently relies solely on a Facebook page, which restricts public accessibility via login walls and limits SEO and brand autonomy. Establishing a dedicated website is critical for maximizing customer reach and conversion potential.",
+        "url": "https://www.facebook.com/JCOrtega.fbpage/",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick thought on MaxSmile Dental Clinic's online reach",
+        "body": "Hi there,\n\nI was looking at MaxSmile Dental Clinic's Facebook page and noticed that visitors without an account hit a login wall. That means potential patients searching for your Manila clinic are missing out on your services and contact details.\n\nDepending entirely on social media also limits your Google search visibility and brand control.\n\nWe put together a quick, dedicated website demo for you that fixes this completely and makes it easy for new patients to find you.\n\nWould it be useful if I sent it over?\n\nBest,\nRahul\n\n---\nIf you'd prefer not to hear from me again, just reply 'unsubscribe' and I'll remove you right away.",
+        "provider": "gemini"
+      }
+    },
+    {
+      "input_id": "1f382640-1dc1-4516-8609-73b0c570c210",
+      "link": "https://www.google.com/maps/place/Premium+Smile+Dental+Clinic/data=!4m7!3m6!1s0x3397cb00691e7c8d:0x136a265ef8df873a!8m2!3d14.6006104!4d120.9852816!16s%2Fg%2F11yc5606qn!19sChIJjXweaQDLlzMROoff-F4mahM?authuser=0&hl=en&g_ep=EgoyMDI2MTEwOS4wIJJjKgBIAVAD&rclk=1",
+      "title": "Premium Smile Dental Clinic",
+      "category": "Dental clinic",
+      "address": "826 Gonzalo Puyat St, Quiapo, Manila, 1001 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"9 AM–5 PM\"],\"Monday\":[\"9 AM–5 PM\"],\"Saturday\":[\"9 AM–5 PM\"],\"Sunday\":[\"9 AM–5 PM\"],\"Thursday\":[\"9 AM–5 PM\"],\"Tuesday\":[\"9 AM–5 PM\"],\"Wednesday\":[\"9 AM–5 PM\"]}",
+      "popular_times": "{}",
+      "website": "https://www.facebook.com/share/1BAXv8qV47/?mibextid=wwXIfr",
+      "phone": "",
+      "plus_code": "JX2P+64 Manila, Metro Manila, Philippines",
+      "review_count": "53",
+      "review_rating": "4.700000",
+      "reviews_per_rating": "{\"1\":2,\"2\":0,\"3\":3,\"4\":3,\"5\":45}",
+      "latitude": "14.600610",
+      "longitude": "120.985282",
+      "cid": "1398972823596140346",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcuBmrSTN8ZiGkt1Fs8FdebL4k4yWvJFBS4E8lZRZH2XwpskFB__W8KXPCNuIQssZSrwMg3LPCV2XkbijOV9s1fIunIAgBEHpU-5WcgJhtZKK_URQqq16NjireAQ6hiuewwgtQ8=w408-h725-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397cb00691e7c8d:0x136a265ef8df873a",
+      "street_view_url": "",
+      "place_id": "ChIJjXweaQDLlzMROoff-F4mahM",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"107502933753192052834\",\"name\":\"Premium Smile Dental Clinic (Owner)\",\"link\":\"https://www.google.com/maps/contrib/107502933753192052834\"}",
+      "complete_address": "{\"borough\":\"Quiapo\",\"street\":\"826 Gonzalo Puyat St\",\"city\":\"Manila\",\"postal_code\":\"\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"Ortega, Carl Lester D.\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXUKxVCyKHIm5YDe6foQV1FBZziU1PezULQWwVOpfsIJxR3_LM=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"All of the staff is very comfortable and easy to talk with all of the concerns and questions that I’ve been asked.\\n\\nI’ve been experiencing insecurities for the past years of my life, and I must say that premium smile helped me accomplish this achievement.\\n\\nEsp Doc Terrence is very accommodating and professional, friendly, and bubbly.\\n\\nI highly recommended this dental clinic.\",\"Images\":null,\"When\":\"7 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xFeFRuVXhRbXMxU3pST2EwMWFWVVZIV2tORlNtYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/112030367609259143337/reviews?hl=en-US\",\"posted_at_unix_micros\":1774856593123795,\"updated_at_unix_micros\":1774856593123795,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"All of the staff is very comfortable and easy to talk with all of the concerns and questions that I’ve been asked.\\n\\nI’ve been experiencing insecurities for the past years of my life, and I must say that premium smile helped me accomplish this achievement.\\n\\nEsp Doc Terrence is very accommodating and professional, friendly, and bubbly.\\n\\nI highly recommended this dental clinic.\",\"text_translated\":\"\",\"published_at\":\"2026-03-30T07:43:13.123795Z\"},{\"Name\":\"Xy Alejandro\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJwFWPwVr53-YZsb9fxCiUhfq5KJi1dx2rt-FZ63kInfjgGAN0=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I’m very satisfied with my teeth and the overall service. At nung naiask konsila na need ko only till 30th due to my flight at nasunod naman and all the staff and si doc ay very approachable and they give us good service. 😁\",\"Images\":null,\"When\":\"7 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xOeFduUXdkRXRPU1dSVVYyOU5jbm8zYWtsVWVXYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/106941213642898426539/reviews?hl=en-US\",\"posted_at_unix_micros\":1774693186484129,\"updated_at_unix_micros\":1774693186484129,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I’m very satisfied with my teeth and the overall service. At nung naiask konsila na need ko only till 30th due to my flight at nasunod naman and all the staff and si doc ay very approachable and they give us good service. 😁\",\"text_translated\":\"\",\"published_at\":\"2026-03-28T10:19:46.484129Z\"},{\"Name\":\"Azenith Molas\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjWt-9e2RdUHyJgHrxgi4tUN7LjwocgZ9iLBD2RDboZVbh_bTFWR=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Doc wilson is very great! Wish i could return for the next zirconia crown plan. Bery satisfied. Thanks 😊\",\"Images\":null,\"When\":\"5 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2sxSmRFRnJkVWhtVHpVNWFIVjFNV1kwYlVGcGFtYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/116429769899144414323/reviews?hl=en-US\",\"posted_at_unix_micros\":1780394180760475,\"updated_at_unix_micros\":1780394180760475,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Doc wilson is very great! Wish i could return for the next zirconia crown plan. Bery satisfied. Thanks 😊\",\"text_translated\":\"\",\"published_at\":\"2026-06-02T09:56:20.760475Z\"},{\"Name\":\"Fudalan, Mike Vincent R.\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXzvxQkOJxJOkRBKuI_wbbhp9hOlEoC10qg-jxPaFoKT5Oi2QzF=s120-c-rp-mo-br100\",\"Rating\":3,\"Description\":\"Is it normal to be charged 2k for 1 tooth removal? I was confused after the check up the doctor didn't discuss price or anything i felt like i was left in the dark on purpose. Other than that the procedure was ok.\",\"Images\":null,\"When\":\"4 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2pkVllXeHROM1JDTVZKME1tSm1OWEZwVG5FMlRsRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":3,\"author_url\":\"https://www.google.com/maps/contrib/107874111884097430287/reviews?hl=en-US\",\"posted_at_unix_micros\":1781271968200521,\"updated_at_unix_micros\":1781271968200521,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Is it normal to be charged 2k for 1 tooth removal? I was confused after the check up the doctor didn't discuss price or anything i felt like i was left in the dark on purpose. Other than that the procedure was ok.\",\"text_translated\":\"\",\"published_at\":\"2026-06-12T13:46:08.200521Z\"},{\"Name\":\"Rham Calma\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjWcXq4hPFC5huM390kVkn2KlBJ6JHGOaCvv-SDf2I_Wq1K8UX3z=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"The experience here in Premium Smile Dental Clinic is Amazing! Staff are very accomodating, well informed and good customer service. Worth the wait and worth the time.💯♥️\",\"Images\":null,\"When\":\"7 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21Sb2IxcDRTSEp3Y1ZwRFZrWXpNa3R5Um1aM01sRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/106262458991639326498/reviews?hl=en-US\",\"posted_at_unix_micros\":1774409514726671,\"updated_at_unix_micros\":1774409514726671,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"The experience here in Premium Smile Dental Clinic is Amazing! Staff are very accomodating, well informed and good customer service. Worth the wait and worth the time.💯♥️\",\"text_translated\":\"\",\"reply_text_original\":\"Thank you for your kind feedback! We’re happy to know you had a good experience with our clinic. Your support means a lot to our team, and we look forward to serving you again.\\n\",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1774562031000000,\"reply_updated_at_unix_micros\":1774562031000000,\"published_at\":\"2026-03-25T03:31:54.726671Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [],
+      "audit": {
+        "problems": [
+          {
+            "issue": "Using a social media login/redirect page instead of a dedicated business website.",
+            "impact": "Reduces brand credibility, limits conversion tracking, and restricts SEO visibility.",
+            "severity": "high"
+          },
+          {
+            "issue": "Lack of direct e-commerce or lead capture capabilities on the landing URL.",
+            "impact": "Potential customers face friction when trying to purchase products or services directly.",
+            "severity": "high"
+          }
+        ],
+        "opportunities": [
+          "Develop a fully owned, responsive business website with integrated SEO and analytics.",
+          "Implement clear calls-to-action (CTAs) directing traffic from social media to dedicated conversion landing pages.",
+          "Utilize structured data to improve search engine indexing and local business discovery."
+        ],
+        "summary": "The provided URL redirects to a generic social media login page rather than an optimized, dedicated business website. This severely limits professional credibility, user experience, and conversion opportunities. Investing in a standalone web presence is strongly recommended.",
+        "url": "https://www.facebook.com/share/1BAXv8qV47/?mibextid=wwXIfr",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick thought on Premium Smile Dental Clinic's online presence",
+        "body": "Hi there,\n\nI was looking up Premium Smile Dental Clinic today and noticed your main link currently routes visitors straight to a social media login page rather than a dedicated website. \n\nThat creates a bit of friction for new patients trying to learn about your services or book an appointment, and it makes it tough to track new inquiries.\n\nWe actually put together a quick, clean prototype of what a dedicated site could look like for you.\n\nWould it be useful if I sent it over?\n\nBest,\nRahul\n\n---\nIf you'd prefer not to hear from me again, just reply 'unsubscribe' and I'll remove you right away.",
+        "provider": "gemini"
+      }
+    }
+  ],
+  "store_stats": {
+    "new": 1
+  }
+}
