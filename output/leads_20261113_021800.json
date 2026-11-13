@@ -1,0 +1,150 @@
+{
+  "success": true,
+  "query": "dental clinic in Manila",
+  "started": "2026-11-13T02:16:02.353139",
+  "finished": "2026-11-13T02:18:00.424702",
+  "scraped_count": 6,
+  "skipped_known": 0,
+  "enriched_count": 2,
+  "leads": [
+    {
+      "input_id": "15bfc1c4-7aa1-4bba-b73c-0d5b66a001c3",
+      "link": "https://www.google.com/maps/place/MaxSmile+Dental+Clinic+-+Manila+Main/data=!4m7!3m6!1s0x3397c9b93a9b5a3b:0x281be1309a897b1f!8m2!3d14.5618091!4d120.9968415!16s%2Fg%2F11nwwpyxfd!19sChIJO1qbOrnJlzMRH3uJmjDhGyg?authuser=0&hl=en&g_ep=EgoyMDI2MTExMC4wIJJjKgBIAVAD&rclk=1",
+      "title": "MaxSmile Dental Clinic - Manila Main",
+      "category": "Dental clinic",
+      "address": "Dolores Corner, 2670 Dominga Street, Malate, Manila, 1004 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"10 AM–6 PM\"],\"Monday\":[\"10 AM–6 PM\"],\"Saturday\":[\"10 AM–6 PM\"],\"Sunday\":[\"10 AM–6 PM\"],\"Thursday\":[\"10 AM–5 PM\"],\"Tuesday\":[\"Closed\"],\"Wednesday\":[\"10 AM–6 PM\"]}",
+      "popular_times": "{}",
+      "website": "https://www.facebook.com/JCOrtega.fbpage/",
+      "phone": "+63 956 895 4726",
+      "plus_code": "HX6W+PP Manila, Metro Manila, Philippines",
+      "review_count": "47",
+      "review_rating": "4.500000",
+      "reviews_per_rating": "{\"1\":6,\"2\":0,\"3\":0,\"4\":1,\"5\":40}",
+      "latitude": "14.561809",
+      "longitude": "120.996841",
+      "cid": "2890151184755686175",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfDB9XtN2_Cs_sWDW2IXVP0siaQ-vNU9mKZCp_kfjpyCtnA3Dv2CwN2E35F1LfMi8bweM9D6rsfdL6ygZECxH1QkwmCby0G1VkjIWWVZvtfoXC0jAYm4MUMsmVBylhBudrZtyQ=w408-h544-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397c9b93a9b5a3b:0x281be1309a897b1f",
+      "street_view_url": "",
+      "place_id": "ChIJO1qbOrnJlzMRH3uJmjDhGyg",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"116955390006534636387\",\"name\":\"MaxSmile Dental Clinic - Manila Main (Owner)\",\"link\":\"https://www.google.com/maps/contrib/116955390006534636387\"}",
+      "complete_address": "{\"borough\":\"Malate\",\"street\":\"Dolores Corner, 2670 Dominga Street\",\"city\":\"Manila\",\"postal_code\":\"1004\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"Fiona Nicdao\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocLXQEvQiEym6gFf4pV6vfoHGoBFRPd52Xtbkq4A3StdOeC_smg=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I usually get super anxious about going to the dentist, but Max Smile changed that completely. The staff is so reassuring, and Dentist has a incredibly gentle touch. They took the time to answer all my questions and made sure I was completely comfortable throughout the whole appointment. Excellent service!\",\"Images\":null,\"When\":\"3 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2tneFVtNUtSREJsWjBKbWVFMUxiV3BEY0dWTE9XYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/117883263718425358559/reviews?hl=en-US\",\"posted_at_unix_micros\":1785713785400672,\"updated_at_unix_micros\":1785713785400672,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I usually get super anxious about going to the dentist, but Max Smile changed that completely. The staff is so reassuring, and Dentist has a incredibly gentle touch. They took the time to answer all my questions and made sure I was completely comfortable throughout the whole appointment. Excellent service!\",\"text_translated\":\"\",\"published_at\":\"2026-08-02T23:36:25.400672Z\"},{\"Name\":\"Dennie John Beso\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVSk7_V0zyCbG3SovGHKFQOE110QNMZcORoQo21sbefXFOzX_8=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I had an excellent experience at this dental clinic. The staff were welcoming and professional from the moment I walked in. The dentist was very gentle, explained everything clearly, and made sure I was comfortable throughout the procedure. The clinic is clean, modern, and well-organized. I highly recommend this place to anyone looking for quality dental care!\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLfnTKd9zJjbdtLLL3gfKrVG5zWj3eCFcVHpsZFIaD7-vZRlHxgZqWSgnYgLzNcJcUZ4Mklbmuo2aMwfSUlq3v-7ik7CiY44S1zvlY-hacHFuZR5Re4a-v-cnpreImcZ0QJDX-Gvla9T3Z3q=k-no\"],\"When\":\"8 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21waVYzRnNaSGhDTFZaWVYyRlNkbTQxTVhKTVZYYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/117851640122354664337/reviews?hl=en-US\",\"posted_at_unix_micros\":1772245889556398,\"updated_at_unix_micros\":1772245889556398,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I had an excellent experience at this dental clinic. The staff were welcoming and professional from the moment I walked in. The dentist was very gentle, explained everything clearly, and made sure I was comfortable throughout the procedure. The clinic is clean, modern, and well-organized. I highly recommend this place to anyone looking for quality dental care!\",\"text_translated\":\"\",\"published_at\":\"2026-02-28T02:31:29.556398Z\"},{\"Name\":\"Jean Rose Diego\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocKEXE2DhmBE_zx8m3bVfdVIZYXL1Xp8wklL88mDbrdvrWCUJc8f=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"This dental clinic was recommended with my co-worker. The root canal procedure was done and good for now, cause I have follow check up soon. Doc was so helpful and knowledgeable with my concerns.\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLe7Tk-Mzla1n_g1eWJ51MZUKUaOZ9tsTEcvi-9sbf9ELizpqjoKsE0B9KNuItUvUJGSUNqyO43mfbuspAsSPmhoK68CwvN-rZrjxtpJsSbBamKtJ6EJQKPa6ihPrN9PayOwGbfMR9nVXLME=k-no\"],\"When\":\"10 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT205QmVDMW9lbHBPTkc5RWVFMXFkVTk1VFRsMlptYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/102699305476152763321/reviews?hl=en-US\",\"posted_at_unix_micros\":1766153550119121,\"updated_at_unix_micros\":1766153550119121,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"This dental clinic was recommended with my co-worker. The root canal procedure was done and good for now, cause I have follow check up soon. Doc was so helpful and knowledgeable with my concerns.\",\"text_translated\":\"\",\"published_at\":\"2025-12-19T14:12:30.119121Z\"},{\"Name\":\"Jessa Alvarez\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUOapjs9vgjVV37c6x4jxCg-QJe4t7SDs7iaUNqEYcbzIM63Sk=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"MaxSmile Dental Clinic is clean and ensures proper sanitation before accepting clients. The space is a bit small and can only accommodate a few patients at a time, but the quality of service more than makes up for it. The receptionist is also very friendly and easy to talk to.\\n\\nAs for the service, I had an excellent experience. I underwent an RCT and had veneers done, and I can now smile with confidence without hiding it. Special thanks to Dr. Janelle for her skillful and careful work, everything was done neatly and professionally.\\n\\nHighly recommended!\",\"Images\":null,\"When\":\"7 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2toTWVqWnZaRWxJY2psUExXeGFWVEF5YW5KbFlVRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/112461957861177811958/reviews?hl=en-US\",\"posted_at_unix_micros\":1775691105394128,\"updated_at_unix_micros\":1775691105394128,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"MaxSmile Dental Clinic is clean and ensures proper sanitation before accepting clients. The space is a bit small and can only accommodate a few patients at a time, but the quality of service more than makes up for it. The receptionist is also very friendly and easy to talk to.\\n\\nAs for the service, I had an excellent experience. I underwent an RCT and had veneers done, and I can now smile with confidence without hiding it. Special thanks to Dr. Janelle for her skillful and careful work, everything was done neatly and professionally.\\n\\nHighly recommended!\",\"text_translated\":\"\",\"published_at\":\"2026-04-08T23:31:45.394128Z\"},{\"Name\":\"Jovie\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjU0vNyg5_zRqT3ce19agdRpMColyAoYMyjRL5WywEibyOVj2x_d=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I recently underwent a tooth extraction at this dental clinic, and I’m very satisfied with the service. The dentist ensured I was comfortable throughout the procedure. The clinic was clean, well-organized, and the staff were professional. Recovery has been going well so far. I would definitely come back for future dental care.”\",\"Images\":null,\"When\":\"6 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2pkVmNqTlNVR3RHVTFoWFEycGpURFY2VW5sQlJtYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/111054480101918858216/reviews?hl=en-US\",\"posted_at_unix_micros\":1776409588721912,\"updated_at_unix_micros\":1776409588721912,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I recently underwent a tooth extraction at this dental clinic, and I’m very satisfied with the service. The dentist ensured I was comfortable throughout the procedure. The clinic was clean, well-organized, and the staff were professional. Recovery has been going well so far. I would definitely come back for future dental care.”\",\"text_translated\":\"\",\"published_at\":\"2026-04-17T07:06:28.721912Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [],
+      "audit": {
+        "problems": [
+          {
+            "issue": "Heavy dependency on social media (Facebook) rather than a dedicated, business-owned website.",
+            "impact": "Limits brand control, advanced SEO capabilities, custom integrations, and data ownership.",
+            "severity": "high"
+          },
+          {
+            "issue": "Content is gated behind login prompts and platform-specific constraints for non-authenticated users.",
+            "impact": "Increases bounce rate and friction for potential customers trying to view business information.",
+            "severity": "medium"
+          }
+        ],
+        "opportunities": [
+          "Develop an independent, mobile-responsive business website to improve search engine visibility and direct lead generation.",
+          "Implement clear calls-to-action (CTAs) linking external web properties directly to contact or conversion funnels."
+        ],
+        "summary": "The business currently relies entirely on a Facebook page, which restricts complete brand control, advanced web analytics, and seamless customer acquisition outside of the social platform ecosystem.",
+        "url": "https://www.facebook.com/JCOrtega.fbpage/",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick thought on MaxSmile Dental's online setup",
+        "body": "Hi there,\n\nI was looking at MaxSmile Dental's Facebook page and noticed you rely entirely on social media for your online presence. \n\nWhile it's a great community hub, it means patients without a Facebook account hit login walls trying to find you, and your valuable content is gated behind the platform.\n\nWe built a quick, dedicated web prototype for MaxSmile that gives you full brand control and makes it frictionless for new patients to book.\n\nWould it be useful if I sent it over?\n\nBest,\nRahul\n\n---\nIf you'd prefer not to hear from me again, just reply 'unsubscribe' and I'll remove you right away.",
+        "provider": "gemini"
+      }
+    },
+    {
+      "input_id": "15bfc1c4-7aa1-4bba-b73c-0d5b66a001c3",
+      "link": "https://www.google.com/maps/place/Delia+Dental+Clinic/data=!4m7!3m6!1s0x3397c997ecbd31a5:0xe7bc83f196f5049a!8m2!3d14.5805212!4d121.0083345!16s%2Fg%2F11x15_rljm!19sChIJpTG97JfJlzMRmgT1lvGDvOc?authuser=0&hl=en&g_ep=EgoyMDI2MTExMC4wIJJjKgBIAVAD&rclk=1",
+      "title": "Delia Dental Clinic",
+      "category": "Dental clinic",
+      "address": "2091 Pedro Gil St, Santa Ana, Manila, 1009 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"9 AM–8 PM\"],\"Monday\":[\"9 AM–8 PM\"],\"Saturday\":[\"9 AM–8 PM\"],\"Sunday\":[\"9 AM–8 PM\"],\"Thursday\":[\"9 AM–8 PM\"],\"Tuesday\":[\"9 AM–8 PM\"],\"Wednesday\":[\"9 AM–8 PM\"]}",
+      "popular_times": "{}",
+      "website": "https://deliadentalclinic.com/",
+      "phone": "+63 928 517 1947",
+      "plus_code": "H2J5+68 Manila, Metro Manila, Philippines",
+      "review_count": "426",
+      "review_rating": "4.900000",
+      "reviews_per_rating": "{\"1\":12,\"2\":1,\"3\":1,\"4\":9,\"5\":403}",
+      "latitude": "14.580521",
+      "longitude": "121.008334",
+      "cid": "16698366592025953434",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdcyjdMQj2i1Tt9EAOJu3-BzV5mNPXZLOw6xkaeejfALvNak2ogzc-UL1HPT07-NEuva4hZdAENkqk9Sidg_dXvz9zD8qGLLq0Ka9LLqhtncnUl3ohjP3LK26WW2OHgGQS1E2lW24IBeZfC=w408-h560-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397c997ecbd31a5:0xe7bc83f196f5049a",
+      "street_view_url": "",
+      "place_id": "ChIJpTG97JfJlzMRmgT1lvGDvOc",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"101898695840313427305\",\"name\":\"Delia Dental Clinic (Owner)\",\"link\":\"https://www.google.com/maps/contrib/101898695840313427305\"}",
+      "complete_address": "{\"borough\":\"Santa Ana\",\"street\":\"2091 Pedro Gil St\",\"city\":\"Manila\",\"postal_code\":\"1009\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"Quincy Montiza\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjU2uP9E2QZ1TvgRb0FwpjIvejjsJoFF15ysIqrha87H0cnoxYI=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"I had a great experience at Delia Dental Clinic! From the moment I arrived, the staff were welcoming, accommodating, and professional. Shoutout to Ma’am Esther, Ms. Cath and Sir Sonrey 💛\\n\\nThe clinic is clean, comfortable, and has a pleasant atmosphere, which made me feel at ease throughout my visit.\\n\\nMy hands on dentist, Doc Jo (hello po and Kudos to you) you were very patient and thorough and a bit OC (which is commendable ☺️) explaining the procedure clearly and making sure I was comfortable every step of the way. I really appreciated the care and attention given.\\nOverall, I’m very happy with the service and the quality of care I received. You can really feel that they value their patients and take their work seriously. Highly recommended for anyone looking for a reliable, professional, and caring dental clinic!\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLdXOHO8aO3-hJAyMFH6sK01TDhOZX-74T6y9kTX_dgb88n3QtbQJA3rb4TmuMAZrtaZqaTWfptog0qeCZHrrzweJspIvIbtdeLsYKjNG7uDpTH37rm8F7vbvp0DrfZRXGOZO1RmRidVHU-C=k-no\",\"https://lh3.googleusercontent.com/grass-cs/AABkmLeqlpL_-vf7Ryur5WAsfLT9-zGK6mGnPkTQzsq_C34jgjXG2PjVAKGozJ9VDaLmsA43CckTlx3jYVddYGcwMa1BHV2lCPZIXOWj5vBkfYbEAWjFYXAZVUqlLql9hcQLHPjxzxe3TjjzrSg=k-no\",\"https://lh3.googleusercontent.com/grass-cs/AABkmLfpGxcm4GHysU7x_98m-B3Qf0Gj9lgCNDKthtemQD0Vxby5HJqV_GGheijINNxCtjGtuA9lqccCPFpl_LxSRtZNO3MzdOx9waOu5kC9qbHX0O5K8O2Mw68eF-tqQ8yU-waL7krCFcplFQGA=k-no\",\"https://lh3.googleusercontent.com/grass-cs/AABkmLcazDVEPbns1ZSs0p2RwLsEtKSFBFknYs9MviYbK8ObEDZfWftmFiKPlmTaFYH6VoIQ8824XtGibaYdWPs3CHYoJzgfCR8XFnJn3KqbWTObJmc6wOhW6X8feONDUTyo-tya3fUqyaA2-bUD=k-no\",\"https://lh3.googleusercontent.com/grass-cs/AABkmLfjqxJRXT3wmiJQjJCE8cCGeZ8M_GFGEGgvKPByWvd5s2SD6frcRBdUqp5v-eIcuqH69MEeBrqtth5hq6RJUenoK12LKf837dOdJH5h4jTd4VbhhsGh8ckLIrRCPYHmKf5CaEGpgbL_Dwg=k-no\",\"https://lh3.googleusercontent.com/grass-cs/AABkmLc9FFw1UY_1XdKnx1rWSN3ynnFHRw5YI8B9iCBAtElbqs68S4svUoSWDUAsFPzm_VDn4-aW3wPVes0ihvdDC_pXFeX70oQouDCZROsycomvcoOEkWbSnYPSnCSaUlgTx0bqpSYxV0t2FN3N=k-no\",\"https://lh3.googleusercontent.com/grass-cs/AABkmLeoDtqRHl_PSDA08Fb0yusvXG_r1nqcR1OG9QB_JRRCUCqZOYYlizQyV9j-J2OdkOOxG1J8NTJXbrLBjGiYpQFPoxLCrdhFFi1Gd-o3r1yJU6VEvGYRYOI-wJ6g-LyBsOr4NTuXpABM708H=k-no\"],\"When\":\"a month ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2pkek4zRXhMVUZqT0doUGJGRm5OQzFFVEZsRFgzYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/102905885187708871452/reviews?hl=en-US\",\"posted_at_unix_micros\":1790045686867396,\"updated_at_unix_micros\":1790045686867396,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I had a great experience at Delia Dental Clinic! From the moment I arrived, the staff were welcoming, accommodating, and professional. Shoutout to Ma’am Esther, Ms. Cath and Sir Sonrey 💛\\n\\nThe clinic is clean, comfortable, and has a pleasant atmosphere, which made me feel at ease throughout my visit.\\n\\nMy hands on dentist, Doc Jo (hello po and Kudos to you) you were very patient and thorough and a bit OC (which is commendable ☺️) explaining the procedure clearly and making sure I was comfortable every step of the way. I really appreciated the care and attention given.\\nOverall, I’m very happy with the service and the quality of care I received. You can really feel that they value their patients and take their work seriously. Highly recommended for anyone looking for a reliable, professional, and caring dental clinic!\",\"text_translated\":\"\",\"published_at\":\"2026-09-22T02:54:46.867396Z\"},{\"Name\":\"Ma Chan\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXr6w4xhqHXkGOuCTZFozH1v8fbbQSxyF096YT6rYCfcVVodUU=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"My root canal and wisdom tooth extraction was done smoothly. Dr. Gozum was very careful and professional, he explained all the procedures very well. I didn't have any issues with the process. The root canal has 3 procedures for me, first they will do the root canal to kill the tooth, next it will be prepared for the fitting of zirconia crown and last the crown will be installed. Dr. Hero was also very nice and accomodating he cleaned my tooth first before he installed my crown. Overall i had an amazing experience with Delia dental clinic. Will definitely be back for my other tooth issues. 😊\",\"Images\":null,\"When\":\"5 days ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2pRemVYaG5SbWRWTFVseVQxbHFVMHRqWWpWRWFIYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/117887826582556122206/reviews?hl=en-US\",\"posted_at_unix_micros\":1794027317035533,\"updated_at_unix_micros\":1794027317035533,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"My root canal and wisdom tooth extraction was done smoothly. Dr. Gozum was very careful and professional, he explained all the procedures very well. I didn't have any issues with the process. The root canal has 3 procedures for me, first they will do the root canal to kill the tooth, next it will be prepared for the fitting of zirconia crown and last the crown will be installed. Dr. Hero was also very nice and accomodating he cleaned my tooth first before he installed my crown. Overall i had an amazing experience with Delia dental clinic. Will definitely be back for my other tooth issues. 😊\",\"text_translated\":\"\",\"published_at\":\"2026-11-07T04:55:17.035533Z\"},{\"Name\":\"Ladroma, Aina Rose\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUkjf9ZLiH30Sqfo9NvCSPFT_v7Tajkk5BkVjd4jD88ZqZ8LmBE=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Removing my wisdom tooth by Doc Heiro. Tho ang tanggal ng process because may tooth is super closed beside the tooth abd the root is naka bend. But thanks to God that Doc Heiro is super patient and in the end he got it, worth it yung sakit. And also the staff or assistant here in clinic are very approachable and kind.\\nThank you Delia Dental Clinic.\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLdhnHMVwVNa2zHGTQkmh2cnR-zJK_YsAs7dacN8S-ByAl6a5UasLEpVLF7rhYlZKs5Qxx_AQrJlqnpi7Bd24WQVogsV9QT4cYMTgw5iCpLtuLovLCCRbfr_Q5sq9GHAfdUA7m0ECC_yUFFv=k-no\"],\"When\":\"6 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xBMFUyMUJkbkYzVDNKV2FuTkNhMlZ6YkZCRVgxRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/103960370218253866098/reviews?hl=en-US\",\"posted_at_unix_micros\":1777099873353100,\"updated_at_unix_micros\":1777099969975871,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Removing my wisdom tooth by Doc Heiro. Tho ang tanggal ng process because may tooth is super closed beside the tooth abd the root is naka bend. But thanks to God that Doc Heiro is super patient and in the end he got it, worth it yung sakit. And also the staff or assistant here in clinic are very approachable and kind.\\nThank you Delia Dental Clinic.\",\"text_translated\":\"\",\"published_at\":\"2026-04-25T06:51:13.3531Z\"},{\"Name\":\"Patricia De Leon\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjU9Tdpc27BAuJm9u2_fGh1PUbBhQwJyIbFO3G-6UHiQHlQsImk=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I had a great experience getting my zirconia crown at Delia Clinic. The staff start on the front desk were professional, friendly, and made me feel at ease by explaining the whole process. Specially sir Dan for assisting me every time I have a question and also Doc Gozun, he has a very gentle technique and prioritizes patient comfort to ensure a pain-free experience.\\n\\n​The Zirconia crown looks natural, fits perfectly, and feels very comfortable.\\n\\nThe clinic was clean and welcoming, and I highly recommend them for anyone needing quality dental care!\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLdKjNB_7vJacpzU_Bn-XidErvXPR1zmoN6VjIiC6IMigqHPJS17HUz71St01Hn1Wwil6igi4_vux9DyaJdfdgaDmMW0v5fT2sHQAhfSWh4MV82JsEJhApRhMGHpysbQ2AD4-qBl7vQyQYMl=k-no\"],\"When\":\"6 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2tsMGFHZzRiRE14Y1hGNmEzazJZVWQzT1daV1ZIYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/108580024426820505006/reviews?hl=en-US\",\"posted_at_unix_micros\":1778236483555346,\"updated_at_unix_micros\":1778236483555346,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I had a great experience getting my zirconia crown at Delia Clinic. The staff start on the front desk were professional, friendly, and made me feel at ease by explaining the whole process. Specially sir Dan for assisting me every time I have a question and also Doc Gozun, he has a very gentle technique and prioritizes patient comfort to ensure a pain-free experience.\\n\\n​The Zirconia crown looks natural, fits perfectly, and feels very comfortable.\\n\\nThe clinic was clean and welcoming, and I highly recommend them for anyone needing quality dental care!\",\"text_translated\":\"\",\"published_at\":\"2026-05-08T10:34:43.555346Z\"},{\"Name\":\"Jiyu\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjV6WyD_I6a4rEraO7XmYLFgSSARwbc9hpIAmeDem3vfUZmI7A17=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I am extremely satisfied with the care I received from Dr. Heiro. He is thorough, knowledgeable, and very patient. He takes time to explain procedures and options, making sure I felt safe and informed. The treatment was painless and well done. Truly a wonderful dentist!\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLcA4GvuUhsFueoS1BBmyYmYYNDft5mZKJbleiPNHOe_0hTJX762379dhbxM70bUkE5xQr9_ysTlqop4LsfngpnTQJl-zbCf6rQ5FNkcoI2rgvXGYKs9TxJMxsqP13Piqzc_nMjyUVcYO8E=k-no\"],\"When\":\"4 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2pnME1WWXhSMjltV2xOSVJHZEtlRlZFZEZBeGVsRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/100052737644505023686/reviews?hl=en-US\",\"posted_at_unix_micros\":1782643399727732,\"updated_at_unix_micros\":1782643399727732,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I am extremely satisfied with the care I received from Dr. Heiro. He is thorough, knowledgeable, and very patient. He takes time to explain procedures and options, making sure I felt safe and informed. The treatment was painless and well done. Truly a wonderful dentist!\",\"text_translated\":\"\",\"published_at\":\"2026-06-28T10:43:19.727732Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [
+        "deliadentalclinic@gmail.com"
+      ],
+      "audit": {
+        "problems": [
+          {
+            "issue": "Broken HTML structure in mobile menu navigation causing potential rendering issues for mobile users.",
+            "impact": "Can lead to a broken user experience on smartphones, decreasing mobile conversion rates and appointment bookings.",
+            "severity": "high"
+          },
+          {
+            "issue": "Logo image uses an absolute URL in the 'alt' attribute instead of descriptive alternative text ('alt=\"http://deliadentalclinic.com/...\"').",
+            "impact": "Negatively impacts SEO performance and accessibility for visually impaired users relying on screen readers.",
+            "severity": "medium"
+          },
+          {
+            "issue": "Submenu items and placeholder links use '#' or empty anchors instead of valid routing URLs (e.g., 'Invisalign braces' lacks a hyperlink).",
+            "impact": "Frustrates users attempting to navigate key service pages, increasing bounce rates.",
+            "severity": "medium"
+          }
+        ],
+        "opportunities": [
+          "Implement structured data (Schema.org DentalClinic markup) to enhance local SEO visibility in Google Maps and search snippets.",
+          "Add prominent Call-to-Action (CTA) buttons above the fold specifically optimized for mobile users to drive instant phone inquiries or WhatsApp chats.",
+          "Streamline the information architecture in the 'Services' dropdown to provide direct, frictionless paths to high-value service pages like Dental Implants and Braces."
+        ],
+        "summary": "The Delia Dental Clinic website has a strong foundation with clear contact details and social integration, but suffers from mobile menu truncation issues, suboptimal SEO alt tags, and incomplete internal linking that hinder conversion and search performance.",
+        "url": "https://deliadentalclinic.com/",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick note on the Delia Dental Clinic mobile menu",
+        "body": "Hi there,\n\nI was looking over the Delia Dental Clinic site and noticed the mobile menu has a few HTML structural issues that can cause rendering problems on smartphones, making it tricky for patients trying to book on their phones.\n\nI also spotted that the Invisalign page link is currently using a placeholder, which can frustrate folks trying to find your services.\n\nWe put together a quick live demo showing how these small fixes can smooth out the mobile experience. Would it be useful if I sent it over?\n\nBest,\nRahul\n\n---\nIf you'd prefer not to hear from me again, just reply 'unsubscribe' and I'll remove you right away.",
+        "provider": "gemini"
+      }
+    }
+  ],
+  "store_stats": {
+    "new": 2
+  }
+}
