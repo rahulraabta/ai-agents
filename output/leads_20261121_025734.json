@@ -1,0 +1,151 @@
+{
+  "success": true,
+  "query": "dental clinic in Manila",
+  "started": "2026-11-21T02:54:50.663429",
+  "finished": "2026-11-21T02:57:34.616949",
+  "scraped_count": 6,
+  "skipped_known": 0,
+  "enriched_count": 2,
+  "leads": [
+    {
+      "input_id": "708eef3a-e48b-4c08-987c-a4cb2747bd8f",
+      "link": "https://www.google.com/maps/place/TwinkleSmile+Dental+Clinic+-+Manila/data=!4m7!3m6!1s0x3397c98f231d118b:0x8c8b17e4aa4c4cb2!8m2!3d14.563151!4d120.994398!16s%2Fg%2F11g4cv7rzq!19sChIJixEdI4_JlzMRskxMquQXi4w?authuser=0&hl=en&g_ep=EgoyMDI2MTExOC4xIJJjKgBIAVAD&rclk=1",
+      "title": "TwinkleSmile Dental Clinic - Manila",
+      "category": "Dental clinic",
+      "address": "Malate, Manila, 1004 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"10 AM–3:30 PM\"],\"Monday\":[\"10 AM–5:30 PM\"],\"Saturday\":[\"10 AM–5:30 PM\"],\"Sunday\":[\"10 AM–5:30 PM\"],\"Thursday\":[\"10 AM–5:30 PM\"],\"Tuesday\":[\"10 AM–3:30 PM\"],\"Wednesday\":[\"10 AM–5:30 PM\"]}",
+      "popular_times": "{}",
+      "website": "https://m.facebook.com/twinklesmiledentalclinic/",
+      "phone": "+63 916 165 0212",
+      "plus_code": "HX7V+7Q Manila, Metro Manila, Philippines",
+      "review_count": "18",
+      "review_rating": "4.300000",
+      "reviews_per_rating": "{\"1\":3,\"2\":0,\"3\":0,\"4\":0,\"5\":15}",
+      "latitude": "14.563151",
+      "longitude": "120.994398",
+      "cid": "10127214457949801650",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLf04L8r37kFJSB1rSoEGbZL9Ml_40_UP4mrCYNvOamcfJU_Iu62-YmWeR8rSzjXmY0F7ETvaHQ9kJt6BJhczwOfYkAjr9A4XMSVkdDwj4zearGVHl5ZX4vzTGDawypqKUUff04=w408-h544-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397c98f231d118b:0x8c8b17e4aa4c4cb2",
+      "street_view_url": "",
+      "place_id": "ChIJixEdI4_JlzMRskxMquQXi4w",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"107163049898224385636\",\"name\":\"TwinkleSmile Dental Clinic - Manila (Owner)\",\"link\":\"https://www.google.com/maps/contrib/107163049898224385636\"}",
+      "complete_address": "{\"borough\":\"Malate\",\"street\":\"\",\"city\":\"Manila\",\"postal_code\":\"1004\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"Owen Tan\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXQ87rFoqOUKtjfMBkbcOE9tCilCsBefq_ePI93mSkYJGl_T2O5=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Highly recommended! 🦷✨ TwinkleSmile Dental Clinic has friendly and accommodating staff, gentle dentists, and excellent service. They make you feel comfortable and well taken care of. Definitely one of the dental clinics I would recommend to anyone! 💯❤️\",\"Images\":null,\"When\":\"2 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21aMFJXUXllblJIVEdvd016RlpVMUZrYm5KdVRVRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/118317595352759555377/reviews?hl=en-US\",\"posted_at_unix_micros\":1788841174342549,\"updated_at_unix_micros\":1788841174342549,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Highly recommended! 🦷✨ TwinkleSmile Dental Clinic has friendly and accommodating staff, gentle dentists, and excellent service. They make you feel comfortable and well taken care of. Definitely one of the dental clinics I would recommend to anyone! 💯❤️\",\"text_translated\":\"\",\"published_at\":\"2026-09-08T04:19:34.342549Z\"},{\"Name\":\"Kristiana Phoebe Boquiren\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXpc6wmMcSe8KEJNRIiyO7dsB5VZhACgvV9QHSRrjVNtGudF4ZH=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I highly recommend this dental clinic! 🦷✨\\nAffordable yet high-quality services. Kudos to the assistant for being very approachable. The doctor has a light hand and is kind, friendly, and professional. The clinic is also neat and safe. I am very satisfied with their service. ⭐️⭐️⭐️⭐️⭐️\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLerCfVLcbf5gbA5H0unic3qCYOlmC7A1Tsv1L597n2jnv2OchyY3cNksRQrGiKeCZHtJunNv9c_r_ccFLJfzOjsgdUM32eSlIfBisLgjXbCK3Q1lAWdcXkDV987qu_u8GeCyuXRJJHg1Zo=k-no\",\"https://lh3.googleusercontent.com/grass-cs/AABkmLdCKL1P2cuGYeh1fM4LSwccC9FIVHFA6S8aqXVVdz3sdcsBkf9jIZcUuJyTrGxOwOWH_OAmogc7srrHxJdn_-K5RQiuvKSB5I3KsOXgXWUAZLo4PPioMp2iMZj0HZf6oQuQZytmgg06M8nE=k-no\"],\"When\":\"11 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21GSldITm9kWHB5WWw5TE5uSm9VM1JST0ZwS1RGRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/107837842504729637954/reviews?hl=en-US\",\"posted_at_unix_micros\":1765354397632520,\"updated_at_unix_micros\":1765354397632520,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I highly recommend this dental clinic! 🦷✨\\nAffordable yet high-quality services. Kudos to the assistant for being very approachable. The doctor has a light hand and is kind, friendly, and professional. The clinic is also neat and safe. I am very satisfied with their service. ⭐️⭐️⭐️⭐️⭐️\",\"text_translated\":\"\",\"published_at\":\"2025-12-10T08:13:17.63252Z\"},{\"Name\":\"Adrian Dela Cruz\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocLlMJ5RouiVe2U5IHOmo44ejh1sc11FALb7v9IjYmy63yJPTw=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I had a great experience at this dental clinic. The services are very affordable, yet the quality of care is excellent. From the assistants to the doctors, everyone is approachable, kind, and professional, which made me feel comfortable throughout my visit. They really take the time to attend to patients properly and ensure a positive experience. I highly recommend this clinic to anyone looking for quality dental care at a reasonable price.\",\"Images\":null,\"When\":\"7 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2tGSVptZFlTRk5WTWw5RWVqVklZbGN6V1dWUWJVRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/102218901425019485905/reviews?hl=en-US\",\"posted_at_unix_micros\":1774255034244538,\"updated_at_unix_micros\":1774255034244538,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I had a great experience at this dental clinic. The services are very affordable, yet the quality of care is excellent. From the assistants to the doctors, everyone is approachable, kind, and professional, which made me feel comfortable throughout my visit. They really take the time to attend to patients properly and ensure a positive experience. I highly recommend this clinic to anyone looking for quality dental care at a reasonable price.\",\"text_translated\":\"\",\"published_at\":\"2026-03-23T08:37:14.244538Z\"},{\"Name\":\"nicka bautista\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUvsLhPldC9Q-eClOxzY5SlubPO0soc-1rR4nlm0mcVev-7HPE=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Dr. Lheanne is the best! Super gentle, kind staff, and great service. Highly recommend this dental clinic!\",\"Images\":null,\"When\":\"a month ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT25WRmNXaHRUR3gwVW5OeGFIaHJWRTQxVjBWd1ZrRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/107174382167482193039/reviews?hl=en-US\",\"posted_at_unix_micros\":1792065585828860,\"updated_at_unix_micros\":1792065585828860,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Dr. Lheanne is the best! Super gentle, kind staff, and great service. Highly recommend this dental clinic!\",\"text_translated\":\"\",\"published_at\":\"2026-10-15T11:59:45.82886Z\"},{\"Name\":\"regina macanilao\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXj7DC_zUXBQNuI4veCJdthfKsVG-93GeaQ28u4HOCcsdhv5tBvow=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Highly recommended dental clinic!\\nI’m from Pampanga, but I still travel to Manila because I can really see the improvements in my teeth. The dentist is very skilled, and all the staff are very accommodating and friendly. You truly feel well taken care of. Definitely worth the trip, and I will keep coming back. 😊\",\"Images\":null,\"When\":\"11 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2t0alEydzNZVjlpU1hKbVJWQktjM1p5YlZKSlluYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/105735336889507662910/reviews?hl=en-US\",\"posted_at_unix_micros\":1765686665028673,\"updated_at_unix_micros\":1765686665028673,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Highly recommended dental clinic!\\nI’m from Pampanga, but I still travel to Manila because I can really see the improvements in my teeth. The dentist is very skilled, and all the staff are very accommodating and friendly. You truly feel well taken care of. Definitely worth the trip, and I will keep coming back. 😊\",\"text_translated\":\"\",\"published_at\":\"2025-12-14T04:31:05.028673Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [],
+      "review_collection": "null",
+      "audit": {
+        "problems": [
+          {
+            "issue": "The business profile URL redirects to a Facebook login wall and browser incompatibility error page.",
+            "impact": "Potential patients cannot view clinic information, hours, reviews, or contact details via this link, leading to immediate drop-off and lost appointments.",
+            "severity": "high"
+          },
+          {
+            "issue": "Reliance on a social media platform as a primary web presence rather than an independent business website.",
+            "impact": "Vulnerability to platform outages, login walls, algorithm changes, and restricted access for users not logged into Facebook.",
+            "severity": "high"
+          }
+        ],
+        "opportunities": [
+          "Develop a dedicated, mobile-responsive independent website for Twinkle Smile Dental Clinic with built-in online booking.",
+          "Implement local SEO (Google Business Profile) to capture high-intent local dental search traffic directly.",
+          "Ensure clear, public-facing contact information and services are accessible without requiring user authentication."
+        ],
+        "summary": "The provided URL for Twinkle Smile Dental Clinic currently fails to load the business profile, presenting users with a Facebook login and browser error wall instead. This severely obstructs patient acquisition and highlights the risk of relying solely on social media platforms for web presence.",
+        "url": "https://m.facebook.com/twinklesmiledentalclinic/",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick thought on TwinkleSmile Dental's online page",
+        "body": "Hi there,\n\nI was looking into TwinkleSmile Dental Clinic in Manila today and tried checking your online page, but the link currently leads straight to a Facebook login wall and browser error. \n\nFor potential patients trying to find your hours or reviews on their phones, this creates an instant roadblock and lost appointments. Relying entirely on social media also means visitors without an account get locked out completely.\n\nWe put together a quick, clean live demo showing what an independent site could look like for you. Would it be useful if I sent it over?\n\nBest,\nRahul\n\n---\nIf you'd prefer not to hear from me again, just reply 'unsubscribe' and I'll remove you right away.",
+        "provider": "gemini"
+      }
+    },
+    {
+      "input_id": "708eef3a-e48b-4c08-987c-a4cb2747bd8f",
+      "link": "https://www.google.com/maps/place/Premium+Smile+Dental+Clinic/data=!4m7!3m6!1s0x3397cb00691e7c8d:0x136a265ef8df873a!8m2!3d14.6006104!4d120.9852816!16s%2Fg%2F11yc5606qn!19sChIJjXweaQDLlzMROoff-F4mahM?authuser=0&hl=en&g_ep=EgoyMDI2MTExOC4xIJJjKgBIAVAD&rclk=1",
+      "title": "Premium Smile Dental Clinic",
+      "category": "Dental clinic",
+      "address": "826 Gonzalo Puyat St, Quiapo, Manila, 1001 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"9 AM–5 PM\"],\"Monday\":[\"9 AM–5 PM\"],\"Saturday\":[\"9 AM–5 PM\"],\"Sunday\":[\"9 AM–5 PM\"],\"Thursday\":[\"9 AM–5 PM\"],\"Tuesday\":[\"9 AM–5 PM\"],\"Wednesday\":[\"9 AM–5 PM\"]}",
+      "popular_times": "{}",
+      "website": "https://www.facebook.com/share/1BAXv8qV47/?mibextid=wwXIfr",
+      "phone": "",
+      "plus_code": "JX2P+64 Manila, Metro Manila, Philippines",
+      "review_count": "53",
+      "review_rating": "4.700000",
+      "reviews_per_rating": "{\"1\":2,\"2\":0,\"3\":3,\"4\":3,\"5\":45}",
+      "latitude": "14.600610",
+      "longitude": "120.985282",
+      "cid": "1398972823596140346",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcmJt-gr8StRaJ8q-hrHwIBhUayPyJsV41h124hupKl3yvSkoBy6fDC8Q87ou0ru6DPzw-0g5iaNL9U9YYhbfoeGznqYUxwhwWzFKp3oZkVEH6EObCJe94a1rWxzvrc2g4GHmQ0=w408-h725-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397cb00691e7c8d:0x136a265ef8df873a",
+      "street_view_url": "",
+      "place_id": "ChIJjXweaQDLlzMROoff-F4mahM",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"107502933753192052834\",\"name\":\"Premium Smile Dental Clinic (Owner)\",\"link\":\"https://www.google.com/maps/contrib/107502933753192052834\"}",
+      "complete_address": "{\"borough\":\"Quiapo\",\"street\":\"826 Gonzalo Puyat St\",\"city\":\"Manila\",\"postal_code\":\"\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"Xy Alejandro\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJwFWPwVr53-YZsb9fxCiUhfq5KJi1dx2rt-FZ63kInfjgGAN0=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I’m very satisfied with my teeth and the overall service. At nung naiask konsila na need ko only till 30th due to my flight at nasunod naman and all the staff and si doc ay very approachable and they give us good service. 😁\",\"Images\":null,\"When\":\"7 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xOeFduUXdkRXRPU1dSVVYyOU5jbm8zYWtsVWVXYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/106941213642898426539/reviews?hl=en-US\",\"posted_at_unix_micros\":1774693186484129,\"updated_at_unix_micros\":1774693186484129,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I’m very satisfied with my teeth and the overall service. At nung naiask konsila na need ko only till 30th due to my flight at nasunod naman and all the staff and si doc ay very approachable and they give us good service. 😁\",\"text_translated\":\"\",\"published_at\":\"2026-03-28T10:19:46.484129Z\"},{\"Name\":\"Ortega, Carl Lester D.\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXUKxVCyKHIm5YDe6foQV1FBZziU1PezULQWwVOpfsIJxR3_LM=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"All of the staff is very comfortable and easy to talk with all of the concerns and questions that I’ve been asked.\\n\\nI’ve been experiencing insecurities for the past years of my life, and I must say that premium smile helped me accomplish this achievement.\\n\\nEsp Doc Terrence is very accommodating and professional, friendly, and bubbly.\\n\\nI highly recommended this dental clinic.\",\"Images\":null,\"When\":\"7 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xFeFRuVXhRbXMxU3pST2EwMWFWVVZIV2tORlNtYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/112030367609259143337/reviews?hl=en-US\",\"posted_at_unix_micros\":1774856593123795,\"updated_at_unix_micros\":1774856593123795,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"All of the staff is very comfortable and easy to talk with all of the concerns and questions that I’ve been asked.\\n\\nI’ve been experiencing insecurities for the past years of my life, and I must say that premium smile helped me accomplish this achievement.\\n\\nEsp Doc Terrence is very accommodating and professional, friendly, and bubbly.\\n\\nI highly recommended this dental clinic.\",\"text_translated\":\"\",\"published_at\":\"2026-03-30T07:43:13.123795Z\"},{\"Name\":\"Azenith Molas\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjWt-9e2RdUHyJgHrxgi4tUN7LjwocgZ9iLBD2RDboZVbh_bTFWR=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Doc wilson is very great! Wish i could return for the next zirconia crown plan. Bery satisfied. Thanks 😊\",\"Images\":null,\"When\":\"5 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2sxSmRFRnJkVWhtVHpVNWFIVjFNV1kwYlVGcGFtYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/116429769899144414323/reviews?hl=en-US\",\"posted_at_unix_micros\":1780394180760475,\"updated_at_unix_micros\":1780394180760475,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Doc wilson is very great! Wish i could return for the next zirconia crown plan. Bery satisfied. Thanks 😊\",\"text_translated\":\"\",\"published_at\":\"2026-06-02T09:56:20.760475Z\"},{\"Name\":\"Fudalan, Mike Vincent R.\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXzvxQkOJxJOkRBKuI_wbbhp9hOlEoC10qg-jxPaFoKT5Oi2QzF=s120-c-rp-mo-br100\",\"Rating\":3,\"Description\":\"Is it normal to be charged 2k for 1 tooth removal? I was confused after the check up the doctor didn't discuss price or anything i felt like i was left in the dark on purpose. Other than that the procedure was ok.\",\"Images\":null,\"When\":\"5 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2pkVllXeHROM1JDTVZKME1tSm1OWEZwVG5FMlRsRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":3,\"author_url\":\"https://www.google.com/maps/contrib/107874111884097430287/reviews?hl=en-US\",\"posted_at_unix_micros\":1781271968200521,\"updated_at_unix_micros\":1781271968200521,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Is it normal to be charged 2k for 1 tooth removal? I was confused after the check up the doctor didn't discuss price or anything i felt like i was left in the dark on purpose. Other than that the procedure was ok.\",\"text_translated\":\"\",\"published_at\":\"2026-06-12T13:46:08.200521Z\"},{\"Name\":\"Rham Calma\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjWcXq4hPFC5huM390kVkn2KlBJ6JHGOaCvv-SDf2I_Wq1K8UX3z=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"The experience here in Premium Smile Dental Clinic is Amazing! Staff are very accomodating, well informed and good customer service. Worth the wait and worth the time.💯♥️\",\"Images\":null,\"When\":\"7 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21Sb2IxcDRTSEp3Y1ZwRFZrWXpNa3R5Um1aM01sRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/106262458991639326498/reviews?hl=en-US\",\"posted_at_unix_micros\":1774409514726671,\"updated_at_unix_micros\":1774409514726671,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"The experience here in Premium Smile Dental Clinic is Amazing! Staff are very accomodating, well informed and good customer service. Worth the wait and worth the time.💯♥️\",\"text_translated\":\"\",\"reply_text_original\":\"Thank you for your kind feedback! We’re happy to know you had a good experience with our clinic. Your support means a lot to our team, and we look forward to serving you again.\\n\",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1774562031000000,\"reply_updated_at_unix_micros\":1774562031000000,\"published_at\":\"2026-03-25T03:31:54.726671Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [],
+      "review_collection": "null",
+      "audit": {
+        "problems": [
+          {
+            "issue": "Relying solely on a social media profile (Facebook) instead of a dedicated, professional business website.",
+            "impact": "Limits brand credibility, search engine visibility, and control over the user journey for potential dental patients.",
+            "severity": "high"
+          },
+          {
+            "issue": "Absence of structured schema markup for local businesses and healthcare providers in the provided HTML context.",
+            "impact": "Reduces the clinic's chances of appearing in local Google Maps and search engine rich snippets for dental services in Manila.",
+            "severity": "medium"
+          },
+          {
+            "issue": "Lack of integrated online booking or direct patient intake forms on an owned digital property.",
+            "impact": "Creates friction in the appointment booking process, potentially resulting in lost leads outside of Facebook messenger hours.",
+            "severity": "medium"
+          }
+        ],
+        "opportunities": [
+          "Develop a dedicated mobile-responsive website featuring service pages (e.g., orthodontics, cleaning, surgery), patient testimonials, and an integrated booking system.",
+          "Implement local SEO strategies optimized for 'dental clinic in Manila' or 'Quiapo dentist' to capture high-intent local search traffic.",
+          "Showcase before-and-after case studies and clear pricing guides on an owned web property to build higher trust and transparency with prospective patients."
+        ],
+        "summary": "While Premium Smile Dental Clinic maintains an active social media presence on Facebook with local engagement, the complete reliance on a third-party platform limits professional credibility, advanced SEO potential, and streamlined appointment scheduling.",
+        "url": "https://www.facebook.com/share/1BAXv8qV47/?mibextid=wwXIfr",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick thought on Premium Smile Dental Clinic's booking",
+        "body": "Hi there,\n\nI came across Premium Smile Dental Clinic on Facebook and noticed you're doing a wonderful job keeping the community engaged there. \n\nHowever, relying entirely on a social page can make it tricky for patients to book appointments outside of messenger hours, and it limits how easily folks in Manila can find you on Google Maps.\n\nWe actually put together a quick, live demo of a dedicated website with integrated booking for you. Would it be useful if I sent it over?\n\nBest,\nRahul\n\n---\nIf you'd prefer not to hear from me again, just reply 'unsubscribe' and I'll remove you right away.",
+        "provider": "gemini"
+      }
+    }
+  ],
+  "store_stats": {
+    "new": 2
+  }
+}
