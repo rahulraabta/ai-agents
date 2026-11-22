@@ -1,0 +1,133 @@
+{
+  "success": true,
+  "query": "dental clinic in Manila",
+  "started": "2026-11-22T01:45:54.845289",
+  "finished": "2026-11-22T01:48:12.974290",
+  "scraped_count": 6,
+  "skipped_known": 0,
+  "enriched_count": 2,
+  "leads": [
+    {
+      "input_id": "02cbac4f-38c6-442e-86cf-c900b9f218ec",
+      "link": "https://www.google.com/maps/place/Smile+Plus+Dental+Clinic+-Mandaluyong/data=!4m7!3m6!1s0x3397c9b5bb09caf7:0xec97413b5d17ddf3!8m2!3d14.5776328!4d121.0326663!16s%2Fg%2F11fx9bc2_k!19sChIJ98oJu7XJlzMR890XXTtBl-w?authuser=0&hl=en&g_ep=EgoyMDI2MTExOC4xIJJjKgBIAVAD&rclk=1",
+      "title": "Smile Plus Dental Clinic -Mandaluyong",
+      "category": "Dental clinic",
+      "address": "67 Maysilo Cir, Mandaluyong City, 1550 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"9 AM–5 PM\"],\"Monday\":[\"9 AM–5 PM\"],\"Saturday\":[\"9 AM–5 PM\"],\"Sunday\":[\"9 AM–5 PM\"],\"Thursday\":[\"9 AM–5 PM\"],\"Tuesday\":[\"9 AM–5 PM\"],\"Wednesday\":[\"9 AM–5 PM\"]}",
+      "popular_times": "{}",
+      "website": "http://smileplusdentalclinic.net/",
+      "phone": "+63 917 329 5176",
+      "plus_code": "H2HM+33 Mandaluyong City, Metro Manila, Philippines",
+      "review_count": "42",
+      "review_rating": "4.800000",
+      "reviews_per_rating": "{\"1\":1,\"2\":0,\"3\":1,\"4\":1,\"5\":39}",
+      "latitude": "14.577633",
+      "longitude": "121.032666",
+      "cid": "17048166637655023091",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQFH_3U8R83_CG7TX2cFJ0UovFsysKGpwg39MaudhThWwoHBhNJO4X5zhL4WlkIkKgzbfTMdZ_Qt5GTJUjADCe74CnHL3QV7MEmsdcZXx6JoWpTrOtMliBvzhV5trhQ5PaoJDFjw=w426-h240-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397c9b5bb09caf7:0xec97413b5d17ddf3",
+      "street_view_url": "",
+      "place_id": "ChIJ98oJu7XJlzMR890XXTtBl-w",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"112157277509969863415\",\"name\":\"Smile Plus Dental Clinic -Mandaluyong (Owner)\",\"link\":\"https://www.google.com/maps/contrib/112157277509969863415\"}",
+      "complete_address": "{\"borough\":\"\",\"street\":\"67 Maysilo Cir\",\"city\":\"Mandaluyong City\",\"postal_code\":\"1550\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"Chai Rivera\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUKzSsH086RmAq2Da0TO-XUSQt-Eh-MyQ2kKsZmqC47TMW7UTcW=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Highly recommend Smile Plus!\\n\\nMy family recently visited Smile Plus, and we were all very satisfied with our experience. The staff were warm and friendly from the moment we walked in. Dr. Justin took the time to explain everything about our teeth, so we always knew what was being done and why. He also has such light hands, which made every visit comfortable.\\n\\nThank you, Smile Plus! We're grateful for the great care.\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLdROjcnM3W0RVj9qmsOWvJ4qUNQQ4upRW2Eo5iRjWy7qmg1Ol-jIyhNG8RX_egYKhSlpz5sD1RcHwkcu-cDm1yS0bCfB1wQRXNgtXqgsXLiH-BPtQKXRhWWg2j9jlZ2GjhIk9QfHZ9ELug=k-no\"],\"When\":\"a month ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT25kZmVIVlFVRlJLTldoVlVrUk5OR1ZHUVZSbWNFRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/118224925343785620303/reviews?hl=en-US\",\"posted_at_unix_micros\":1791697399831637,\"updated_at_unix_micros\":1791697399831637,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Highly recommend Smile Plus!\\n\\nMy family recently visited Smile Plus, and we were all very satisfied with our experience. The staff were warm and friendly from the moment we walked in. Dr. Justin took the time to explain everything about our teeth, so we always knew what was being done and why. He also has such light hands, which made every visit comfortable.\\n\\nThank you, Smile Plus! We're grateful for the great care.\",\"text_translated\":\"\",\"published_at\":\"2026-10-11T05:43:19.831637Z\"},{\"Name\":\"Danny\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjX6sKA2RM5qqGzX5_9zzX9M-LcMQdeGb6BLJoNQvEBnYsgHM4bk=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"A clean, quick, professionally run clinic offering a myriad of services for dental work.  Impressive staff, family owned and operated it seems, I needed cleaning and have been to many dental clinics in the past in Manila and if I was staying in the area for long, I'd be a regular.  I appreciated how gentle the doctor was and how quickly I was seen.  The sign up process was quick and easy using modern technology and the price was competitive for the time period and area.  The price ranges for cleaning \\\"1200-2000PHP\\\".  Your experience/prices may vary.  I recommend this clinic if you are in the area.\",\"Images\":null,\"When\":\"a month ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xGaVRsTnRWSGRsVkZoME0wOVZSSEJuVjNwU00xRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/118053756868884515170/reviews?hl=en-US\",\"posted_at_unix_micros\":1790566229793906,\"updated_at_unix_micros\":1790566229793906,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"A clean, quick, professionally run clinic offering a myriad of services for dental work.  Impressive staff, family owned and operated it seems, I needed cleaning and have been to many dental clinics in the past in Manila and if I was staying in the area for long, I'd be a regular.  I appreciated how gentle the doctor was and how quickly I was seen.  The sign up process was quick and easy using modern technology and the price was competitive for the time period and area.  The price ranges for cleaning \\\"1200-2000PHP\\\".  Your experience/prices may vary.  I recommend this clinic if you are in the area.\",\"text_translated\":\"\",\"reply_text_original\":\"Thank you! We’re looking forward to your next visit \",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1790568673000000,\"reply_updated_at_unix_micros\":1790568673000000,\"published_at\":\"2026-09-28T03:30:29.793906Z\"},{\"Name\":\"E********S*****\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVA46Pxt19psx7NYX9Bc2a-1DdEIaVVS-76kLIS56NleUHteg=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Great experience with this clinic. They have an efficient scheduling system. The staff is welcoming, and the doctors are clearly highly experienced professionals.\",\"Images\":null,\"When\":\"8 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xad2MybGZhMGt4YUdSdVRGQnJRa3hIZFU5clZGRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/101399929990734844389/reviews?hl=en-US\",\"posted_at_unix_micros\":1772246791899419,\"updated_at_unix_micros\":1772246791899419,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Great experience with this clinic. They have an efficient scheduling system. The staff is welcoming, and the doctors are clearly highly experienced professionals.\",\"text_translated\":\"\",\"published_at\":\"2026-02-28T02:46:31.899419Z\"},{\"Name\":\"Sarah Rabby\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJeMN6gQGSqLs4JtoRmktoecLS3NAB7dR0a94QJ7zqog8au7Hw=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"This is the best dental clinic I've had my procedures done. Both dentists that did 2 of my extractions (one from Feb and one in March) are very professional and made sure I feel comfortable. The staff are also very nice. Was a patient of Metro Dental last January and definitely regret why I went to them first because they are OVERPRICED and even left a shard of broken tooth on one procedure but after switching to this clinic, I will never switch again. Definitely recommended!\",\"Images\":null,\"When\":\"3 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSURoa2NfX293RRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/115449694938753410362/reviews?hl=en-US\",\"posted_at_unix_micros\":1678510845474012,\"updated_at_unix_micros\":1678510845474012,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"This is the best dental clinic I've had my procedures done. Both dentists that did 2 of my extractions (one from Feb and one in March) are very professional and made sure I feel comfortable. The staff are also very nice. Was a patient of Metro Dental last January and definitely regret why I went to them first because they are OVERPRICED and even left a shard of broken tooth on one procedure but after switching to this clinic, I will never switch again. Definitely recommended!\",\"text_translated\":\"\",\"reply_text_original\":\"Thank you for the review we appreciate it. Godbless\\n\",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1678617047000000,\"reply_updated_at_unix_micros\":1678617047000000,\"published_at\":\"2023-03-11T05:00:45.474012Z\"},{\"Name\":\"Alexi Isabel Chingcuangco-Tan\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjV9Y6yoU8IrWKHdYuHfZFl9xxx5MPGklr3WFF2-3VGhwS-HsTziZg=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"Needed an emergency dental checkup due to a painful molar, and Smile Plus was quick to respond. I appreciated that they did a thorough look at my current dental health with x-rays first before giving me options on what to do. They also took into account my dental history from previous dentists, and problems that have persisted till today. Had a root canal done, and will most likely ask them to address my other preexisting issues as well. They are a bit on the expensive side (1500 for prophylaxis and 6500 per root canal) but the service was great and I was treated well. Felt no pain or discomfort all throughout. Definitely a good dental clinic to go to if you're looking for a place to get checked!\",\"Images\":null,\"When\":\"2 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNUOG92NXFRRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/113045513565489213781/reviews?hl=en-US\",\"posted_at_unix_micros\":1715576373635141,\"updated_at_unix_micros\":1715576373635141,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Needed an emergency dental checkup due to a painful molar, and Smile Plus was quick to respond. I appreciated that they did a thorough look at my current dental health with x-rays first before giving me options on what to do. They also took into account my dental history from previous dentists, and problems that have persisted till today. Had a root canal done, and will most likely ask them to address my other preexisting issues as well. They are a bit on the expensive side (1500 for prophylaxis and 6500 per root canal) but the service was great and I was treated well. Felt no pain or discomfort all throughout. Definitely a good dental clinic to go to if you're looking for a place to get checked!\",\"text_translated\":\"\",\"published_at\":\"2024-05-13T04:59:33.635141Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [],
+      "review_collection": "null",
+      "audit": {},
+      "outreach": {
+        "subject": "",
+        "body": ""
+      }
+    },
+    {
+      "input_id": "02cbac4f-38c6-442e-86cf-c900b9f218ec",
+      "link": "https://www.google.com/maps/place/SFP+Dental+Clinic/data=!4m7!3m6!1s0x3397b603b3da6d11:0x60096d1208f74fb2!8m2!3d14.6112495!4d120.9954507!16s%2Fg%2F11bc7pf698!19sChIJEW3aswO2lzMRsk_3CBJtCWA?authuser=0&hl=en&g_ep=EgoyMDI2MTExOC4xIJJjKgBIAVAD&rclk=1",
+      "title": "SFP Dental Clinic",
+      "category": "Dental clinic",
+      "address": "Zone 45, SFP Dental Clinic, 861-A Vicente Cruz St, Sampaloc, Manila, 1008 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"9 AM–8 PM\"],\"Monday\":[\"9 AM–8 PM\"],\"Saturday\":[\"9 AM–8 PM\"],\"Sunday\":[\"8 AM–4 PM\"],\"Thursday\":[\"9 AM–8 PM\"],\"Tuesday\":[\"9 AM–8 PM\"],\"Wednesday\":[\"9 AM–8 PM\"]}",
+      "popular_times": "{}",
+      "website": "https://cebudentalimplants.com/content/sfp-dental-clinic-sonia-fiedalan-pare%C3%B1o",
+      "phone": "+63 2 3493 4331",
+      "plus_code": "JX6W+F5 Manila, Metro Manila, Philippines",
+      "review_count": "42",
+      "review_rating": "4.900000",
+      "reviews_per_rating": "{\"1\":1,\"2\":0,\"3\":0,\"4\":2,\"5\":39}",
+      "latitude": "14.611249",
+      "longitude": "120.995451",
+      "cid": "6920182226658742194",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcMWwmUuBdz-bOc0TabFXjJ1jh7ImY-RVI8t1UBHXpTVGbt9eUAKIaLu6OTKiwzYe3luRspxx2olq36GTeyaVAQbfVFs_UqTpA7kgT3fRN6KirMfmdECWGf-DlbNyOUBaPQbGq2Bw=w408-h306-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397b603b3da6d11:0x60096d1208f74fb2",
+      "street_view_url": "",
+      "place_id": "ChIJEW3aswO2lzMRsk_3CBJtCWA",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"\",\"name\":\"SFP Dental Clinic (Owner)\",\"link\":\"\"}",
+      "complete_address": "{\"borough\":\"Sampaloc\",\"street\":\"Zone 45, 861-A Vicente Cruz St\",\"city\":\"Manila\",\"postal_code\":\"1008\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"Melody Valdepeña\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjX3-GjC9Kb74GX_joJh4sSTEjA3wQiWh3ZnD7qrr35PN4KcQBvb=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"Wow. No wonder why there are so many patients willing to wait. They offer high quality dental services for affordable price. I just walk-in today. Choose this clinic based off google reviews and oh boy they did not lie. I got my 2 lower molars restored here (pasta filling) for only P1,300 in total. Their pasta restoration starts from P500. I was surprised how affordable it was considering they did a really great job in my case.\\n\\nI hope they never change in terms of quality of service. The only downside is you have to wait for a longggg time. This clinic looks like its always jam packed. Its worth the wait though. Thank you!\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLefkExL_jGKr1oOZKGKHSDRWzF5Twjzd4gf5yPpj7Achx13dVc7gNfiEFT4n_lIgM9bi71zeIEylBkmXBlRxyPyMoI1unHbg5ZtPutdG_0QjP1xjrirdl2DvkDs8fLacC2ZPTz3Fe1D08u3=k-no\",\"https://lh3.googleusercontent.com/grass-cs/AABkmLcwJt1hfyRbrqq3wUlW4BIJK9FP3ivnRiokmhrYQoKAM-PDaxC-aP0r19XrnuvYV5BIL43rBnW1R38hYaBXPp8n50QjcdjI0bza0dS-4jS2JGYlmSDYNd-_qp4ZnhRbEwfQiDWGB9nHdtg=k-no\"],\"When\":\"7 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21jd1YxSmFSbkZxWDFkQmExRTVOME5oZUdsb1QwRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/102999992560129677659/reviews?hl=en-US\",\"posted_at_unix_micros\":1774159638930804,\"updated_at_unix_micros\":1774159638930804,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Wow. No wonder why there are so many patients willing to wait. They offer high quality dental services for affordable price. I just walk-in today. Choose this clinic based off google reviews and oh boy they did not lie. I got my 2 lower molars restored here (pasta filling) for only P1,300 in total. Their pasta restoration starts from P500. I was surprised how affordable it was considering they did a really great job in my case.\\n\\nI hope they never change in terms of quality of service. The only downside is you have to wait for a longggg time. This clinic looks like its always jam packed. Its worth the wait though. Thank you!\",\"text_translated\":\"\",\"published_at\":\"2026-03-22T06:07:18.930804Z\"},{\"Name\":\"ELY JUDILLA\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVVC7XXXYwWz7-VJRVjyr-9X52CqDEaZZTQHKjAApWZStOe3e4=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"Very comfortable and highly accommodating service. The prices are reasonable and well worth the quality of care they provide. Their staff is skilled, professional, and friendly. That's why whenever I need dental treatment in Manila, SFP Dental Clinic is always one of my top choices.\",\"Images\":null,\"When\":\"4 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21waGFFc3hWVkptWWtOVGNtSlFjRXRVVlhSMldVRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/110914195439539974187/reviews?hl=en-US\",\"posted_at_unix_micros\":1783828626594344,\"updated_at_unix_micros\":1783828626594344,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Very comfortable and highly accommodating service. The prices are reasonable and well worth the quality of care they provide. Their staff is skilled, professional, and friendly. That's why whenever I need dental treatment in Manila, SFP Dental Clinic is always one of my top choices.\",\"text_translated\":\"\",\"published_at\":\"2026-07-12T03:57:06.594344Z\"},{\"Name\":\"Caibio, Joselito Ceasar F.\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXeGbBqdBQWa-EW_ketmTUNUwq7Qz4GTvRCQytofewwlNf3oZc=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Very friendly and approachable clinic. I don't feel any pain during my surgery. The after service is also good. Very affordable and budget friendly clinic ❤️ 8 tooth restoration and 2 extraction for only 4k ❤️  they will take a picture first of your damage tooth and after the process they will take a picture again for you to compare and see the difference 👏 HIGHLY RECOMMENDED!\",\"Images\":null,\"When\":\"Edited 9 months ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUNudzV1aHJBRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/114668269444207892754/reviews?hl=en-US\",\"posted_at_unix_micros\":1727596231758869,\"updated_at_unix_micros\":1771444879863894,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Very friendly and approachable clinic. I don't feel any pain during my surgery. The after service is also good. Very affordable and budget friendly clinic ❤️ 8 tooth restoration and 2 extraction for only 4k ❤️  they will take a picture first of your damage tooth and after the process they will take a picture again for you to compare and see the difference 👏 HIGHLY RECOMMENDED!\",\"text_translated\":\"\",\"published_at\":\"2024-09-29T07:50:31.758869Z\"},{\"Name\":\"Reyth DG\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVFINBeOLJaXlR4anpJpbzXcPV2uRxiUnM9JApIORlNnKWXzFvk=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"Highly recommended! Got tooth extraction in no time and no pain, Doctors are all friendly and will give the details before any recommended procedures. Machines are modern and it will show the whole view of your teeth. This is our family dental clinic.\",\"Images\":null,\"When\":\"Edited 2 years ago\",\"review_id\":\"ChdDSUhNMG9nS0VJQ0FnSUN6MUtDSXF3RRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/117957629337465659305/reviews?hl=en-US\",\"posted_at_unix_micros\":1717133163502649,\"updated_at_unix_micros\":1724746556967037,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Highly recommended! Got tooth extraction in no time and no pain, Doctors are all friendly and will give the details before any recommended procedures. Machines are modern and it will show the whole view of your teeth. This is our family dental clinic.\",\"text_translated\":\"\",\"published_at\":\"2024-05-31T05:26:03.502649Z\"},{\"Name\":\"Theresa Adora\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjW9sr6T74W6oWfcx1kYvRhrosfI7wy23hiXESncz2S6KrWxstg=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"Cleaning here is very affordable. But they are not welcoming, since I booked 6pm, maybe they are already tired for the day. Understandable\",\"Images\":null,\"When\":\"2 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUN6MHQ2WlFBEAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/116916016404565489714/reviews?hl=en-US\",\"posted_at_unix_micros\":1717202774848859,\"updated_at_unix_micros\":1717202842598257,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Cleaning here is very affordable. But they are not welcoming, since I booked 6pm, maybe they are already tired for the day. Understandable\",\"text_translated\":\"\",\"published_at\":\"2024-06-01T00:46:14.848859Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [
+        "albertchestergrijalvo@gmail.com",
+        "marcnmark2@yahoo.com",
+        "rjohnblanca@gmail.com"
+      ],
+      "review_collection": "null",
+      "audit": {
+        "problems": [
+          {
+            "issue": "Truncated HTML content and CSS response indicates potential server-side rendering or output buffering cuts.",
+            "impact": "Incomplete page rendering can break layout integrity and negatively impact user experience and SEO crawling.",
+            "severity": "high"
+          },
+          {
+            "issue": "Reliance on Drupal 7, an End-of-Life (EOL) Content Management System.",
+            "impact": "Poses severe security vulnerabilities, lacks modern performance optimizations, and complicates future feature scaling.",
+            "severity": "high"
+          },
+          {
+            "issue": "Limited visible on-page conversion elements such as direct appointment booking or prominent click-to-call buttons.",
+            "impact": "Reduces patient conversion rates from organic traffic looking for immediate dental services.",
+            "severity": "medium"
+          }
+        ],
+        "opportunities": [
+          "Integrate a prominent online appointment scheduling widget to capture high-intent dental patients directly from the landing page.",
+          "Implement structured data (schema markup) for LocalBusiness and Dentist to significantly improve local search visibility in Cebu.",
+          "Upgrade the CMS platform to a modern framework or Drupal 10 to improve site security, mobile responsiveness, and load times."
+        ],
+        "summary": "The SFP Dental Clinic webpage presents a solid foundational message for patients in Cebu, but suffers from technical debt related to its legacy Drupal 7 architecture and truncated output. Strategic modernization, enhanced conversion paths (like online booking), and structured data implementation will drive higher patient acquisition and better search rankings.",
+        "url": "https://cebudentalimplants.com/content/sfp-dental-clinic-sonia-fiedalan-pare%C3%B1o",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick thought on the SFP Dental Clinic site",
+        "body": "Hi there,\n\nI was looking over cebudentalimplants.com and noticed some parts of the page layout are currently getting cut off due to a server-side rendering hiccup. Since the site is built on an older version of Drupal, it's also missing out on easy ways for patients to click-to-call or book an appointment directly from their phones.\n\nWe put together a quick, modern prototype of the SFP Dental Clinic page with a smoother mobile booking flow to see what it could look like.\n\nWould it be useful if I sent it over?\n\nBest,\nRahul\n\n---\nIf you'd prefer not to hear from me again, just reply 'unsubscribe' and I'll remove you right away.",
+        "provider": "gemini"
+      }
+    }
+  ],
+  "store_stats": {
+    "new": 2
+  }
+}
