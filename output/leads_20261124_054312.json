@@ -1,0 +1,137 @@
+{
+  "success": true,
+  "query": "dental clinic in Manila",
+  "started": "2026-11-24T05:40:28.192316",
+  "finished": "2026-11-24T05:43:12.830552",
+  "scraped_count": 6,
+  "skipped_known": 0,
+  "enriched_count": 2,
+  "leads": [
+    {
+      "input_id": "43c30afc-1016-4860-8337-5c78621b3694",
+      "link": "https://www.google.com/maps/place/Dentacare+SM+Manila/data=!4m7!3m6!1s0x3397cbc1bc596715:0x283fd7140050d385!8m2!3d14.5901469!4d120.9830916!16s%2Fg%2F11twtvgz2f!19sChIJFWdZvMHLlzMRhdNQABTXPyg?authuser=0&hl=en&g_ep=EgoyMDI2MTExOC4xIJJjKgBIAVAD&rclk=1",
+      "title": "Dentacare SM Manila",
+      "category": "Dental clinic",
+      "address": "SM City Manila, Natividad Lopez St, Ermita, Manila, 1000 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"10 AM–9 PM\"],\"Monday\":[\"10 AM–9 PM\"],\"Saturday\":[\"10 AM–9 PM\"],\"Sunday\":[\"10 AM–9 PM\"],\"Thursday\":[\"10 AM–9 PM\"],\"Tuesday\":[\"10 AM–9 PM\"],\"Wednesday\":[\"10 AM–9 PM\"]}",
+      "popular_times": "{}",
+      "website": "http://dentacarephilippines.com.ph/",
+      "phone": "+63 998 868 9387",
+      "plus_code": "HXRM+36 Manila, Metro Manila, Philippines",
+      "review_count": "73",
+      "review_rating": "4.700000",
+      "reviews_per_rating": "{\"1\":4,\"2\":0,\"3\":1,\"4\":3,\"5\":65}",
+      "latitude": "14.590147",
+      "longitude": "120.983092",
+      "cid": "2900273165954503557",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeUr18zha4z3Nzkjq8if1t86PAOsgkQrfU5lJxe5NSkXt_d6Hu0MPhtO1isrSGLvGOM0V1MJWLIqRVylCauhnDfaXqrnVFt4iHKpEkftkc688VrFit1Qrt-jCBzaiFKuXIOCpO0zD0xo2o=w408-h544-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397cbc1bc596715:0x283fd7140050d385",
+      "street_view_url": "",
+      "place_id": "ChIJFWdZvMHLlzMRhdNQABTXPyg",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"114904716247277073984\",\"name\":\"Dentacare SM Manila (Owner)\",\"link\":\"https://www.google.com/maps/contrib/114904716247277073984\"}",
+      "complete_address": "{\"borough\":\"Ermita\",\"street\":\"SM City Manila, Natividad Lopez St\",\"city\":\"Manila\",\"postal_code\":\"1000\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"Allieh Permito\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjU_V04WEWrHU9Qx21JUAM1kv0ZET4Ir6469t9K0KjZO7-n0sE8=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"ambiance is very nice and clean. all the staffs were accommodating and friendly. they even gave vouchers and discounts/offers.\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLcbymAUbPdN4XzCHE0EWsD7hD5MP50kFNJlr75FXJN1wOzfjx-WS4rLciPWyOZue9Mcn77SBiqYwDhYJQAqrUj_fBCDAqIXK4GjM-rea8jLNAF47uIdp9s26muIdVMeDDkEbLIR0ckTgHEL=k-no\"],\"When\":\"a month ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xwTlZVOW5aMjF4V0U1ZlJ6WkVVVGRJV0ZCSE5uYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/101935011539924762844/reviews?hl=en-US\",\"posted_at_unix_micros\":1790928218021917,\"updated_at_unix_micros\":1790928218021917,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"ambiance is very nice and clean. all the staffs were accommodating and friendly. they even gave vouchers and discounts/offers.\",\"text_translated\":\"\",\"published_at\":\"2026-10-02T08:03:38.021917Z\"},{\"Name\":\"Carol ine\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJxZXyVmYU7oEc6rYmdQeQD9bVG85B63zKCN75JUxoR774n1Jc=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Very nice experience. We use our maxicare card and the doctor attended to us with care and attention. Not like other doctors who rushed with our cleaning. Dr Erica even checked my teeth for any cavities and gave me good advices on one of the molars that’s impacted\",\"Images\":null,\"When\":\"a month ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT25jdFEzbFpiMHRxYmtFMWFHOUtaR2hGWVhZNU9FRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/113574814431284328592/reviews?hl=en-US\",\"posted_at_unix_micros\":1790481494551162,\"updated_at_unix_micros\":1790481494551162,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Very nice experience. We use our maxicare card and the doctor attended to us with care and attention. Not like other doctors who rushed with our cleaning. Dr Erica even checked my teeth for any cavities and gave me good advices on one of the molars that’s impacted\",\"text_translated\":\"\",\"published_at\":\"2026-09-27T03:58:14.551162Z\"},{\"Name\":\"Nicolette Delacruz\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjV1XdnWVSfQa09QeiH0Oj5AAQN3pnDuvjQwpJy8WP_f-heZuyoP=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Clinic is clean, staffs are accommodating. Mabait rin si Doc and detailed mag explain regarding my inquiries.\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLd01DA-Dj6zdau1aUxW2zoM9EKZ5rsIxFSvkt2uPjh3Ts5jWsStuXhFRMTnoBaT7flB9r6ciZI6ET5_VVkudsTR3NENTkH9lQ2hn7ZKAVpueTHCVUaQ-2_XL1XwHS5oZP0RMJZoyF8GWeq5=k-no\"],\"When\":\"2 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21kRFlrdzROak5IWWpsWGVHdGFaR2RyVFZwSFZHYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/109890986566099404469/reviews?hl=en-US\",\"posted_at_unix_micros\":1788678401248552,\"updated_at_unix_micros\":1788678401248552,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Clinic is clean, staffs are accommodating. Mabait rin si Doc and detailed mag explain regarding my inquiries.\",\"text_translated\":\"\",\"published_at\":\"2026-09-06T07:06:41.248552Z\"},{\"Name\":\"Queences Balobo\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjWZa90jZC-Q_kJ9BHZa8TswucVHsf11MMIkPlFdFuvP_xak7nq6KQ=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I had a great experience at Dentacare SM City Manila. The staff were friendly and welcoming, and the dentist explained every procedure clearly, which made me feel comfortable and at ease. The clinic was clean and well-maintained, and the treatment was done professionally with minimal discomfort. I highly recommend this clinic to anyone looking for quality dental care and excellent customer service.\",\"Images\":null,\"When\":\"3 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2tGR1JWUkZabmR1TjAxSVJGODVRVVpXUW1sdmJHYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/107140017573289342679/reviews?hl=en-US\",\"posted_at_unix_micros\":1784979881138876,\"updated_at_unix_micros\":1784979881138876,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I had a great experience at Dentacare SM City Manila. The staff were friendly and welcoming, and the dentist explained every procedure clearly, which made me feel comfortable and at ease. The clinic was clean and well-maintained, and the treatment was done professionally with minimal discomfort. I highly recommend this clinic to anyone looking for quality dental care and excellent customer service.\",\"text_translated\":\"\",\"reply_text_original\":\"Thank you for choosing Dentacare for your oral health needs! We truly appreciate your trust and are committed to providing you with the best care possible. Your message means a lot to us, and we look forward to seeing you again at our clinic. For all your oral health needs, i-Dentacare Mo Na Yan! 🦷💙\",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1785485221000000,\"reply_updated_at_unix_micros\":1785485221000000,\"published_at\":\"2026-07-25T11:44:41.138876Z\"},{\"Name\":\"Roy Gagal\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVVC4Ln0riQIH9dqyz6Is2kVuAytIuIjUT54WFMtSN9Jh1Cv-7S=s120-c-rp-mo-br100\",\"Rating\":1,\"Description\":\"Booked an appointment through their website for the SM San Lazaro branch. Got a reply the next morning asking for my personal details to process the request, then silence. No confirmation, no follow-up.\\n\\nI did a walk-in instead at their SM Manila Branch. The receptionist took my details, had me complete a survey and submit a Google review, then confirmed my appointment for Friday at 4 PM.\\n\\nCame in Friday at 4:10 PM and was told by a different receptionist that I wasn't in their schedule. He couldn't explain what happened and said he wasn't the one I spoke to, so he had nothing further to offer.\\n\\nConfirmed appointment, no record of it, no accountability when it fell apart. Also worth noting they collect Google reviews from customers before service is even delivered.\",\"Images\":null,\"When\":\"Edited 2 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2pWMGJ6STVZM0Y0UW5ORk1ITkdOblJ3YkV0UGNuYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":1,\"author_url\":\"https://www.google.com/maps/contrib/108159402164148627374/reviews?hl=en-US\",\"posted_at_unix_micros\":1789553944467001,\"updated_at_unix_micros\":1789720490895364,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Booked an appointment through their website for the SM San Lazaro branch. Got a reply the next morning asking for my personal details to process the request, then silence. No confirmation, no follow-up.\\n\\nI did a walk-in instead at their SM Manila Branch. The receptionist took my details, had me complete a survey and submit a Google review, then confirmed my appointment for Friday at 4 PM.\\n\\nCame in Friday at 4:10 PM and was told by a different receptionist that I wasn't in their schedule. He couldn't explain what happened and said he wasn't the one I spoke to, so he had nothing further to offer.\\n\\nConfirmed appointment, no record of it, no accountability when it fell apart. Also worth noting they collect Google reviews from customers before service is even delivered.\",\"text_translated\":\"\",\"published_at\":\"2026-09-16T10:19:04.467001Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [
+        "admin@dentacarephilippines.com.ph",
+        "marketing@dentacarephilippines.com.ph"
+      ],
+      "review_collection": "null",
+      "audit": {
+        "problems": [
+          {
+            "issue": "Truncated content detected in the article excerpt ('Discover how dental implants can hel').",
+            "impact": "Unfinished sentences damage brand professionalism and user trust, potentially lowering conversion rates from the blog section.",
+            "severity": "medium"
+          },
+          {
+            "issue": "Missing local business structured data (Schema.org) visible in the provided head tags for multiple branches/locations.",
+            "impact": "Reduces local SEO visibility and rich snippet potential in Google Maps and local search results in the Philippines.",
+            "severity": "high"
+          }
+        ],
+        "opportunities": [
+          "Prominently display direct phone numbers, branch addresses, or click-to-call buttons in the header to capture high-intent mobile users immediately.",
+          "Implement localized Schema.org markup (Dentist/MedicalBusiness) to improve local search rankings across different Philippine branches."
+        ],
+        "summary": "The Dentacare Philippines website features a clean, responsive design with clear calls to action for booking appointments. However, minor content truncation issues need fixing, and enhancing local SEO through structured data will help capture more regional patients.",
+        "url": "http://dentacarephilippines.com.ph/",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick thought on Dentacare SM Manila's site",
+        "body": "Hi there,\n\nI was looking over the Dentacare Philippines site and really like how easy you've made it for patients to book appointments. \n\nWhile clicking through, I noticed two quick things: a blog excerpt cuts off mid-sentence, which can slightly affect that first impression of polish, and the local Schema.org markup is missing, which makes it harder for Google to highlight your multiple branches in local search results.\n\nWe put together a quick live demo showing how both look when fixed. Would it be useful if I sent it over?\n\nBest,\nRahul\n\n---\nIf you'd prefer not to hear from me again, just reply 'unsubscribe' and I'll remove you right away.",
+        "provider": "gemini"
+      }
+    },
+    {
+      "input_id": "43c30afc-1016-4860-8337-5c78621b3694",
+      "link": "https://www.google.com/maps/place/Novodental+Adriatico+%7C+Affordable+Premium+Dental+Clinic+in+Manila/data=!4m7!3m6!1s0x3397cb3f6b287625:0xd760f2a9286f2b1f!8m2!3d14.575923!4d120.982524!16s%2Fg%2F11g4ft5rvd!19sChIJJXYoaz_LlzMRHytvKKnyYNc?authuser=0&hl=en&g_ep=EgoyMDI2MTExOC4xIJJjKgBIAVAD&rclk=1",
+      "title": "Novodental Adriatico | Affordable Premium Dental Clinic in Manila",
+      "category": "Dental clinic",
+      "address": "G/F Grand Adriatico Residences, 1415 Adriatico St, Malate, Manila City, 1004 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"8:30 AM–5:30 PM\"],\"Monday\":[\"8:30 AM–5:30 PM\"],\"Saturday\":[\"8:30 AM–5:30 PM\"],\"Sunday\":[\"Closed\"],\"Thursday\":[\"8:30 AM–5:30 PM\"],\"Tuesday\":[\"8:30 AM–5:30 PM\"],\"Wednesday\":[\"8:30 AM–5:30 PM\"]}",
+      "popular_times": "{}",
+      "website": "https://novodental.com.ph/",
+      "phone": "+63 917 597 4786",
+      "plus_code": "HXGM+92 Malate, Manila, Metro Manila, Philippines",
+      "review_count": "199",
+      "review_rating": "5.000000",
+      "reviews_per_rating": "{\"1\":1,\"2\":0,\"3\":0,\"4\":4,\"5\":194}",
+      "latitude": "14.575923",
+      "longitude": "120.982524",
+      "cid": "15519671124260498207",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdOS29k1fyHkyiRUJ1tW8mPzh-Ph7d8KUOg-Z8JvkzPdF4M0ENMP5fKJfpmXUM3QzblBXAatAmk4WG--4Flhq4gqs6I18H-EPwcWqhpEQB56Tv90BF3vT-wh8TPM8N-VJdT57E=w630-h240-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397cb3f6b287625:0xd760f2a9286f2b1f",
+      "street_view_url": "",
+      "place_id": "ChIJJXYoaz_LlzMRHytvKKnyYNc",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"112246261295909665949\",\"name\":\"Novodental Adriatico | Affordable Premium Dental Clinic in Manila (Owner)\",\"link\":\"https://www.google.com/maps/contrib/112246261295909665949\"}",
+      "complete_address": "{\"borough\":\"Malate\",\"street\":\"G/F Grand Adriatico Residences, 1415 Adriatico St\",\"city\":\"Manila City\",\"postal_code\":\"1004\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"Lene Yaniham\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXfnFvJefHetWWA9VkftQ5pVsMlXci_02jXOZ7_OS7vwvrBnCR3=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I had a wonderful experience at Nova Dental! The staff were very accommodating, friendly, and professional. They made me feel comfortable and well taken care of throughout my visit. I truly appreciate their excellent service, attention to detail, and warm hospitality. The clinic is also clean and welcoming. Thank you, Nova Dental, for making my dental experience a pleasant one! Highly recommended! ❤️\",\"Images\":null,\"When\":\"a week ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xwMVoyUkhVVUo0YzFWcWFGSTJkREprVlRkUlVrRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/102457854999552940348/reviews?hl=en-US\",\"posted_at_unix_micros\":1794306500354676,\"updated_at_unix_micros\":1794306500354676,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I had a wonderful experience at Nova Dental! The staff were very accommodating, friendly, and professional. They made me feel comfortable and well taken care of throughout my visit. I truly appreciate their excellent service, attention to detail, and warm hospitality. The clinic is also clean and welcoming. Thank you, Nova Dental, for making my dental experience a pleasant one! Highly recommended! ❤️\",\"text_translated\":\"\",\"published_at\":\"2026-11-10T10:28:20.354676Z\"},{\"Name\":\"wendell ytem\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjWigVqbnZyQ00J0QNUNQ4jvfFB_jBMD8uA48zpaLiqwiEbYUHAa=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I recently visited Novodental on September 10, and I had an excellent experience. From the moment I walked in, the staff was warm and accommodating, making me feel at ease right away. The clinic itself was clean, organised, and very comfortable.\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLfkwrwmboUadUEhFZ5VAT_Uo8fc4C4eACXWQdrJiTdm9AADYpr5R9GAJLuniz9SU2NoHai2OGFvbo0SqqlU62NmrokvfG3hgvGFv14aNYTLYMHkS8VIqtSSvcT9zffasO5XejkT9Ut1C-Y=k-no\"],\"When\":\"2 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21kclJUTklXSE16VkRadlZsSlJRV2xKUjJjd05XYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/116129303358303134353/reviews?hl=en-US\",\"posted_at_unix_micros\":1789025786921970,\"updated_at_unix_micros\":1789025786921970,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I recently visited Novodental on September 10, and I had an excellent experience. From the moment I walked in, the staff was warm and accommodating, making me feel at ease right away. The clinic itself was clean, organised, and very comfortable.\",\"text_translated\":\"\",\"published_at\":\"2026-09-10T07:36:26.92197Z\"},{\"Name\":\"Antonio Sicilia\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocIv-EgT_FDfyzZ9BL_zJFP68HFwv5FV6GbQCItOkDYS-vejrw=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"The clinic's personnel and the doctor were courteous, friendly, and absolutely professional. They deserve a salary increase effective immediately.\\nGeorge Rivera.\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLdHwLxI547poyTQT-anvqkAOuqD-Y4HlECIsFFBafgXGP81_geUb5Ur3x-uQ0a6aUJ93vQgxpr4UgTH4RJS_UFptyyr_tQ_8bSKd2DnDOdRIN-imkLeJwEREw0pNnWp-wx4DKGBMqTr3e8U=k-no\"],\"When\":\"a week ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2pCc1UySk1WVkF4V0daQ01FWk5helJmYjFoelVXYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/103014985202184107225/reviews?hl=en-US\",\"posted_at_unix_micros\":1794812959738275,\"updated_at_unix_micros\":1794812959738275,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"The clinic's personnel and the doctor were courteous, friendly, and absolutely professional. They deserve a salary increase effective immediately.\\nGeorge Rivera.\",\"text_translated\":\"\",\"published_at\":\"2026-11-16T07:09:19.738275Z\"},{\"Name\":\"Brenda Enano\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJ3Cb3aDxMZJ_NpFG-QACVi5zSx-povY7SiAjyj2pFNeIiAbA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Today was my first visit here, and I’m so glad I chose this clinic! Being a new patient can be intimidating, but the staff was super welcoming and the dentist made me feel completely at ease. Everything was explained clearly, and the whole process was gentle and stress-free. Definitely coming back!\",\"Images\":null,\"When\":\"3 days ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT20xSWQxRk1RMUpXY1VGTWVFdFJkVjl2WjNkbFZVRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/110587826942577997231/reviews?hl=en-US\",\"posted_at_unix_micros\":1795160515384393,\"updated_at_unix_micros\":1795160515384393,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Today was my first visit here, and I’m so glad I chose this clinic! Being a new patient can be intimidating, but the staff was super welcoming and the dentist made me feel completely at ease. Everything was explained clearly, and the whole process was gentle and stress-free. Definitely coming back!\",\"text_translated\":\"\",\"published_at\":\"2026-11-20T07:41:55.384393Z\"},{\"Name\":\"Joyce sota\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocL_tK8rH52O6Oj4pF0aiV8a8ObMiacg33PVKLX_-Tt_v0vd1g=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I had a great experience at this dental clinic when I came in for my panoramic dental X-ray. The staff were friendly, accommodating, and professional. The process was smooth and convenient, and I felt comfortable throughout my visit. Thank you for your excellent service! Highly recommended! 😊🦷\",\"Images\":null,\"When\":\"3 weeks ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2t4UlEzZzFNRFJOTjBaR2FreHJiMEZ1UVdoQk1VRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/104975528447293104021/reviews?hl=en-US\",\"posted_at_unix_micros\":1793175278661105,\"updated_at_unix_micros\":1793175278661105,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I had a great experience at this dental clinic when I came in for my panoramic dental X-ray. The staff were friendly, accommodating, and professional. The process was smooth and convenient, and I felt comfortable throughout my visit. Thank you for your excellent service! Highly recommended! 😊🦷\",\"text_translated\":\"\",\"published_at\":\"2026-10-28T08:14:38.661105Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [
+        "adriatico@novodental.com.ph",
+        "circuit@novodental.com.ph",
+        "info@novodental.com.ph",
+        "robmanila@novodental.com.ph",
+        "smair@novodental.com.ph",
+        "smnorthedsa@novodental.com.ph",
+        "the30th@novodental.com.ph",
+        "trinoma@novodental.com.ph",
+        "u.p.town@novodental.com.ph",
+        "uptownbgc@novodental.com.ph"
+      ],
+      "review_collection": "null",
+      "audit": {},
+      "outreach": {
+        "subject": "",
+        "body": ""
+      }
+    }
+  ],
+  "store_stats": {
+    "new": 2
+  }
+}
