@@ -1,0 +1,126 @@
+{
+  "success": true,
+  "query": "dental clinic in Manila",
+  "started": "2026-11-25T04:40:40.168074",
+  "finished": "2026-11-25T04:43:44.673463",
+  "scraped_count": 6,
+  "skipped_known": 0,
+  "enriched_count": 2,
+  "leads": [
+    {
+      "input_id": "e4aaba79-317d-44ae-969e-6d21c1a00a9f",
+      "link": "https://www.google.com/maps/place/lucky+ace+dental+clinic+and+laboratory/data=!4m7!3m6!1s0x3397cb002f96614f:0x25bf20476b4589f8!8m2!3d14.5988939!4d120.9857197!16s%2Fg%2F11nr8qtrlz!19sChIJT2GWLwDLlzMR-IlFa0cgvyU?authuser=0&hl=en&g_ep=EgoyMDI2MTEyMy4wIJJjKgBIAVAD&rclk=1",
+      "title": "lucky ace dental clinic and laboratory",
+      "category": "Dental clinic",
+      "address": "434 Z.P. De Guzman St, Quiapo, Manila, 1001 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"8 AM–5 PM\"],\"Monday\":[\"8 AM–5 PM\"],\"Saturday\":[\"8 AM–5 PM\"],\"Sunday\":[\"8 AM–5 PM\"],\"Thursday\":[\"8 AM–5 PM\"],\"Tuesday\":[\"8 AM–5 PM\"],\"Wednesday\":[\"8 AM–5 PM\"]}",
+      "popular_times": "{}",
+      "website": "",
+      "phone": "+63 950 828 5909",
+      "plus_code": "HXXP+H7 Manila, Metro Manila, Philippines",
+      "review_count": "38",
+      "review_rating": "4.800000",
+      "reviews_per_rating": "{\"1\":0,\"2\":1,\"3\":1,\"4\":2,\"5\":34}",
+      "latitude": "14.598894",
+      "longitude": "120.985720",
+      "cid": "2719928191069555192",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeoa6-XpHfI1yT5CewZ_4-i68QsCBr7tjlJlZzOiVBgZpZajPSbVwjNz0MkwaNTwAxPCoMpa1deV9So4call4wT_UfMzvvgr_y40TstZrWrLAYwAS72an4z_26mPOSyKt8cwV429ISajaad=w410-h240-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397cb002f96614f:0x25bf20476b4589f8",
+      "street_view_url": "",
+      "place_id": "ChIJT2GWLwDLlzMR-IlFa0cgvyU",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"106580929413738081652\",\"name\":\"lucky ace dental clinic and laboratory (Owner)\",\"link\":\"https://www.google.com/maps/contrib/106580929413738081652\"}",
+      "complete_address": "{\"borough\":\"Quiapo\",\"street\":\"434 Z.P. De Guzman St\",\"city\":\"Manila\",\"postal_code\":\"\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"Trixie Montano\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocLQEyIvYN79SBjs5AFKLJVCwBxxeaxOozc6mzJ1mrWnDKufTg=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I'm so much happy to my teeth very good staff . I recommend this clinic.\",\"Images\":null,\"When\":\"3 weeks ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT25KalNFWmliSEZ0V2tKQ1JEQjNjbnBUU1ZSUmRHYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/102268446143250059959/reviews?hl=en-US\",\"posted_at_unix_micros\":1793267692692995,\"updated_at_unix_micros\":1793267864502496,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I'm so much happy to my teeth very good staff . I recommend this clinic.\",\"text_translated\":\"\",\"published_at\":\"2026-10-29T09:54:52.692995Z\"},{\"Name\":\"Michelle Ancheta\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXKCCKOrXZYBfKHQBNSgdmbZmkpNEDwVuBwwLjYMcZ88HLFqUY=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"very affordable\\nclean and neat\\nverygood approachable to their client\\ncleanliness clinic\\nmore client to come ☺️\",\"Images\":null,\"When\":\"2 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2s1WFRuSktaSEl4WWxnNWJWODBha1ptWTJOS2JYYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/105697914054220236188/reviews?hl=en-US\",\"posted_at_unix_micros\":1788149642810219,\"updated_at_unix_micros\":1788149642810219,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"very affordable\\nclean and neat\\nverygood approachable to their client\\ncleanliness clinic\\nmore client to come ☺️\",\"text_translated\":\"\",\"published_at\":\"2026-08-31T04:14:02.810219Z\"},{\"Name\":\"Reymart Ramirez\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVKsNIvHqRWXw8yQXFrotmC7cYTA15f19YdVWAFf_Jax2L1SiHm=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"good quality and affordable super ganda 😊🫶\",\"Images\":null,\"When\":\"2 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xOalgwSm9URUZOY2xwSFNrTlJWMWhuVVZkaWVHYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/105754631889938395812/reviews?hl=en-US\",\"posted_at_unix_micros\":1788325785422763,\"updated_at_unix_micros\":1788325785422763,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"good quality and affordable super ganda 😊🫶\",\"text_translated\":\"\",\"published_at\":\"2026-09-02T05:09:45.422763Z\"},{\"Name\":\"GERMILINA DE VILLA\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocLiyvmVdrbPW72qLQkYaWQq_YRP4pRWZbFEF9yCT0_M6ynbig=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Great service\",\"Images\":null,\"When\":\"2 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21aZk1XcDNSMkpSWlZWTE5sVkhWak54V2xCUFNsRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/106316309328669868962/reviews?hl=en-US\",\"posted_at_unix_micros\":1788327786141310,\"updated_at_unix_micros\":1788327786141310,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Great service\",\"text_translated\":\"\",\"published_at\":\"2026-09-02T05:43:06.14131Z\"},{\"Name\":\"Mark Leonard Manuel\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjU94RAULV1Rbqa-_73Pqy4-NwaVKoywGdsWQKnHvN8yxX-agqZcyA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"how much is your rate for braces?\",\"Images\":null,\"When\":\"2 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2tsZlZIVnZVVk5mZGtFMlptUTRUbmRmY1V0SFowRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/115223390813534153395/reviews?hl=en-US\",\"posted_at_unix_micros\":1788693277545282,\"updated_at_unix_micros\":1788693277545282,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"how much is your rate for braces?\",\"text_translated\":\"\",\"published_at\":\"2026-09-06T11:14:37.545282Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [],
+      "review_collection": "null",
+      "audit": {
+        "problems": [],
+        "summary": "No website"
+      },
+      "outreach": {
+        "subject": "",
+        "body": ""
+      }
+    },
+    {
+      "input_id": "e4aaba79-317d-44ae-969e-6d21c1a00a9f",
+      "link": "https://www.google.com/maps/place/DR+Smile+Dental+Clinic+-+Manila+Branch/data=!4m7!3m6!1s0x3397b7476110dcc9:0x1f8c79d1bcb3a5c5!8m2!3d14.6132441!4d121.0010529!16s%2Fg%2F11f7f933n_!19sChIJydwQYUe3lzMRxaWzvNF5jB8?authuser=0&hl=en&g_ep=EgoyMDI2MTEyMy4wIJJjKgBIAVAD&rclk=1",
+      "title": "DR Smile Dental Clinic - Manila Branch",
+      "category": "Dental clinic",
+      "address": "734 T. Anzures St, Sampaloc, Manila, 1008 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"9 AM–7 PM\"],\"Monday\":[\"Closed\"],\"Saturday\":[\"9 AM–7 PM\"],\"Sunday\":[\"9 AM–7 PM\"],\"Thursday\":[\"9 AM–7 PM\"],\"Tuesday\":[\"9 AM–7 PM\"],\"Wednesday\":[\"9 AM–7 PM\"]}",
+      "popular_times": "{}",
+      "website": "https://px.molarsoft.com/_/drsmile?b=1218",
+      "phone": "+63 915 915 7285",
+      "plus_code": "J272+7C Manila, Metro Manila, Philippines",
+      "review_count": "114",
+      "review_rating": "4.500000",
+      "reviews_per_rating": "{\"1\":11,\"2\":3,\"3\":0,\"4\":1,\"5\":99}",
+      "latitude": "14.613244",
+      "longitude": "121.001053",
+      "cid": "2273325853636273605",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeu8Q4u2AibzzaNGqdPd-KU83HdqyO2XKvHBKFWcEyQTgdkU9IszuJuMsqJ03YDysQbJgKUgd840gOZPNOEGNRWGh3rzqTROcMQRRbWOIZPIrM134pcE8KpQwKkXdd8SxXoRg-I=w408-h544-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397b7476110dcc9:0x1f8c79d1bcb3a5c5",
+      "street_view_url": "",
+      "place_id": "ChIJydwQYUe3lzMRxaWzvNF5jB8",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"106127776789624546423\",\"name\":\"DR Smile Dental Clinic - Manila Branch (Owner)\",\"link\":\"https://www.google.com/maps/contrib/106127776789624546423\"}",
+      "complete_address": "{\"borough\":\"Sampaloc\",\"street\":\"734 T. Anzures St\",\"city\":\"Manila\",\"postal_code\":\"1008\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"Andre Philip Almeda\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXgxHWitAGf3z8B-IqsY_yRFkpSQ5lRDBWjz2RYpm9YZnceH0rZ=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Been a patient of DR Smile since 2023/2024 if I’m not mistaken and I must that their services were top tier. The staff were very accommodating when it comes to my queries, and the dentists were very knowledgeable as well. They can answer all my concerns and I can assure you that they will really take care of your teeth. Would really recommend them to my friends and family.🩵\",\"Images\":null,\"When\":\"a week ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT25KSGNreFRTMDl2UTJ4alltbFRRVE16ZW5WSVJFRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/111549456802069917453/reviews?hl=en-US\",\"posted_at_unix_micros\":1794651732586470,\"updated_at_unix_micros\":1794651732586470,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Been a patient of DR Smile since 2023/2024 if I’m not mistaken and I must that their services were top tier. The staff were very accommodating when it comes to my queries, and the dentists were very knowledgeable as well. They can answer all my concerns and I can assure you that they will really take care of your teeth. Would really recommend them to my friends and family.🩵\",\"text_translated\":\"\",\"published_at\":\"2026-11-14T10:22:12.58647Z\"},{\"Name\":\"lorelaine sanosa\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJ4zCkqgmTGQF0n4GzzxqqQ3FaPUgedJq3Og6ZMV5SnIw9DOw=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Clinic was very neat and smells really nice.  The assistant ms venice is gentle with assisting me as a patient and the front desk ms. pau was able to explain all the treatment plan and possible payment arrangements regarding braces. Dentist was very approachable too.\",\"Images\":null,\"When\":\"a month ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2twU05qbEtjRFJOVFdoV1JWZDJObXhsV0ZKeldVRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/104501630879014581985/reviews?hl=en-US\",\"posted_at_unix_micros\":1792853429259413,\"updated_at_unix_micros\":1792853578121418,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Clinic was very neat and smells really nice.  The assistant ms venice is gentle with assisting me as a patient and the front desk ms. pau was able to explain all the treatment plan and possible payment arrangements regarding braces. Dentist was very approachable too.\",\"text_translated\":\"\",\"published_at\":\"2026-10-24T14:50:29.259413Z\"},{\"Name\":\"Laurence Mark Manatad\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjWaDBjMw7JMjgWA0Sgjy2OPnqo_lrBfNcJdvoYsB2qERy8UPMkX=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I had a fantastic experience at this dental office! From the moment I walked in, the staff was incredibly welcoming and professional. The dentist took the time to explain every step of the procedure, which really helped put my mind at ease. The office is modern, clean, and uses the latest technology. I’m so happy with the results and will definitely be recommending them to all my friends and family!\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLe7bB6YllGVqf6eZL2WN7RGi9dw5oSJf0UZF9RknrGr34n57QrIXX1AmkrSI4e7u4wWA4yQQcaPqcszKPhLNcF2dwLdC5DkcTkb6TuygwH78ysSF9f8_wQZ_na-mCjXTs93m0JbQw9zevUS=k-no\"],\"When\":\"10 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xkSVgwcG9VVVI2WDNKaFkwRXdjMWxGVFVsQ2RXYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/105499704181150129115/reviews?hl=en-US\",\"posted_at_unix_micros\":1768722358676273,\"updated_at_unix_micros\":1768722358676273,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I had a fantastic experience at this dental office! From the moment I walked in, the staff was incredibly welcoming and professional. The dentist took the time to explain every step of the procedure, which really helped put my mind at ease. The office is modern, clean, and uses the latest technology. I’m so happy with the results and will definitely be recommending them to all my friends and family!\",\"text_translated\":\"\",\"published_at\":\"2026-01-18T07:45:58.676273Z\"},{\"Name\":\"Raina Bolario\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXXk_lM166c26eiZkrbUbTUmsvpnai5lFVwhOdNt7_QvlYmYCLctw=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Had a great experience with my consultation and cleaning. Doc was accommodating my questions. The receptionist was very friendly and helpful.\",\"Images\":null,\"When\":\"5 days ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2tWRFZUTnRUbkJ5TTNCc1FYUkRiak52VEdkRVNYYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/114537752208153259556/reviews?hl=en-US\",\"posted_at_unix_micros\":1795084017940277,\"updated_at_unix_micros\":1795084017940277,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Had a great experience with my consultation and cleaning. Doc was accommodating my questions. The receptionist was very friendly and helpful.\",\"text_translated\":\"\",\"published_at\":\"2026-11-19T10:26:57.940277Z\"},{\"Name\":\"Yaun Angelo\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJU5EH1UfhkgqZ1vL2lDdtOrFoptpd831mkxDWQpX5tpx7DYg=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"This dental clinic is HMO accredited. The front desk was very helpful with what coverage that I have with my HMO Insurance. The dentist was able to explain my treatment plan. Nice clinic\",\"Images\":null,\"When\":\"a month ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xWck1rOHhkRkpwYTB0YVNsOUNjVGhuVUZrd1kxRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/118021865721825740149/reviews?hl=en-US\",\"posted_at_unix_micros\":1792859014973906,\"updated_at_unix_micros\":1792859014973906,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"This dental clinic is HMO accredited. The front desk was very helpful with what coverage that I have with my HMO Insurance. The dentist was able to explain my treatment plan. Nice clinic\",\"text_translated\":\"\",\"published_at\":\"2026-10-24T16:23:34.973906Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [],
+      "review_collection": "null",
+      "audit": {
+        "problems": [
+          {
+            "issue": "Missing structured data (Schema.org) for local business and medical clinic details.",
+            "impact": "Search engines may struggle to accurately index location-specific hours, services, and local SEO attributes for each branch.",
+            "severity": "medium"
+          },
+          {
+            "issue": "Google Maps directions link relies on a complex, long search URL instead of a direct Google Maps place/coordinates link.",
+            "impact": "Increases friction for patients trying to navigate to the clinic, potentially reducing physical visits.",
+            "severity": "low"
+          }
+        ],
+        "opportunities": [
+          "Implement direct online booking integration or embedded calendars to reduce appointment friction.",
+          "Add prominent customer reviews or trust signals on the branch page to improve conversion rates."
+        ],
+        "summary": "The DR Smile Dental Clinic landing page via Molarsoft provides essential branch details, contact information, and queue/booking links effectively, but lacks local business schema markup and streamlined map integration.",
+        "url": "https://px.molarsoft.com/_/drsmile?b=1218",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick thought on DR Smile Manila's site",
+        "body": "Hi there,\n\nI was looking over the DR Smile Manila branch page on Molarsoft and noticed a couple of small things that might be making it harder for patients to find you.\n\nFirst, the Google Maps link uses a long search URL instead of a direct coordinate link, which adds friction for folks trying to navigate to the clinic on their phones. Second, the page is missing local business schema markup, meaning search engines might struggle to properly index your specific location details and hours.\n\nWe put together a quick live demo fixing both. Would it be useful if I sent it over?\n\nBest,\nRahul\n\n---\nIf you'd prefer not to hear from me again, just reply 'unsubscribe' and I'll remove you right away.",
+        "provider": "gemini"
+      }
+    }
+  ],
+  "store_stats": {
+    "new": 1
+  }
+}
