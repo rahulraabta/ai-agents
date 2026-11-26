@@ -1,0 +1,154 @@
+{
+  "success": true,
+  "query": "dental clinic in Manila",
+  "started": "2026-11-26T03:50:30.077154",
+  "finished": "2026-11-26T03:51:27.046048",
+  "scraped_count": 6,
+  "skipped_known": 0,
+  "enriched_count": 2,
+  "leads": [
+    {
+      "input_id": "1debbe79-54df-4823-a954-7e97a745118a",
+      "link": "https://www.google.com/maps/place/Manila+Dental+Care+Center/data=!4m7!3m6!1s0x3397cbc5e45a7fa5:0x65213b00e0339424!8m2!3d14.5899872!4d120.9775551!16s%2Fg%2F11kj6pg9kh!19sChIJpX9a5MXLlzMRJJQz4AA7IWU?authuser=0&hl=en&g_ep=EgoyMDI2MTEyMy4wIJJjKgBIAVAD&rclk=1",
+      "title": "Manila Dental Care Center",
+      "category": "Dental clinic",
+      "address": "Unit 2, Manila Dental Care Center, 613 Solana St, Barangay 658, Intramuros, Manila, 1002 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"9 AM–7 PM\"],\"Monday\":[\"9 AM–7 PM\"],\"Saturday\":[\"9 AM–7 PM\"],\"Sunday\":[\"12–6 PM\"],\"Thursday\":[\"9 AM–7 PM\"],\"Tuesday\":[\"9 AM–7 PM\"],\"Wednesday\":[\"9 AM–7 PM\"]}",
+      "popular_times": "{}",
+      "website": "https://facebook.com/ManilaDentalCareCenter",
+      "phone": "+63 906 569 5786",
+      "plus_code": "HXQH+X2 Manila, Metro Manila, Philippines",
+      "review_count": "16",
+      "review_rating": "4.000000",
+      "reviews_per_rating": "{\"1\":4,\"2\":0,\"3\":0,\"4\":0,\"5\":12}",
+      "latitude": "14.589987",
+      "longitude": "120.977555",
+      "cid": "7287170547009688612",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfycUxVr3gSHVM2av8W_UasXAidVMk8L6erGHZM_ci5i5Pb8ezOV6vWiallmna36vRHmp40RCOkDxf4ION3-K1B-I63V1gEBoyt4O2b0Y-sBQkFtR2BHu8sdxPWRedQPn2mzl070WHOOf0=w408-h544-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397cbc5e45a7fa5:0x65213b00e0339424",
+      "street_view_url": "",
+      "place_id": "ChIJpX9a5MXLlzMRJJQz4AA7IWU",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"117219901928819954223\",\"name\":\"Manila Dental Care Center (Owner)\",\"link\":\"https://www.google.com/maps/contrib/117219901928819954223\"}",
+      "complete_address": "{\"borough\":\"Barangay 658, Intramuros\",\"street\":\"Unit 2, 613 Solana St\",\"city\":\"Manila\",\"postal_code\":\"1002\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"Alejandra Miranda\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJaCn3ndRI4By6_1CWixHeeqeNqGUVldeOjPDe8JcXJ_6VZPQ=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I highly recommend this clinic. The staff and dentist are kind. The price is very affordable. I will definitely back for my next cleaning.\",\"Images\":null,\"When\":\"a month ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT25aNE5saHVjMEZuYm0xWWNHaHBORVZrWVZsVk5XYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/113213491636597719737/reviews?hl=en-US\",\"posted_at_unix_micros\":1791096069098806,\"updated_at_unix_micros\":1791096069098806,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I highly recommend this clinic. The staff and dentist are kind. The price is very affordable. I will definitely back for my next cleaning.\",\"text_translated\":\"\",\"published_at\":\"2026-10-04T06:41:09.098806Z\"},{\"Name\":\"Lakas Lakasan\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJzdPjrRCDLIhJG5bkYT4vRcdXt_6saCjIsoPgjJfd6o92GrA=s120-c-rp-mo-br100\",\"Rating\":1,\"Description\":\"I am deeply disappointed with the unprofessional care I received at this practice. During my treatment, the dentist caused severe, lasting trauma to both my gums and my jaw. Instead of addressing the issues or practicing proper technique, the procedure was handled carelessly, leaving me in severe pain and requiring corrective care from another specialist.\",\"Images\":null,\"When\":\"2 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21SQlZHcG1RbkV4VERkSmVsQmFMWHBJUzNkclZIYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":1,\"author_url\":\"https://www.google.com/maps/contrib/117988226078354587960/reviews?hl=en-US\",\"posted_at_unix_micros\":1790339636823533,\"updated_at_unix_micros\":1790339636823533,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I am deeply disappointed with the unprofessional care I received at this practice. During my treatment, the dentist caused severe, lasting trauma to both my gums and my jaw. Instead of addressing the issues or practicing proper technique, the procedure was handled carelessly, leaving me in severe pain and requiring corrective care from another specialist.\",\"text_translated\":\"\",\"published_at\":\"2026-09-25T12:33:56.823533Z\"},{\"Name\":\"k Fm\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUXqJ5TGE8lrzKWmztqNbFUyk54sSHS-nkeua-fSEXZu_w4RZ1a2g=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I had a really great experience here. The dentist incredibly professional and friendly.  I highly recommended for family and friends.\",\"Images\":null,\"When\":\"a month ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21aV1oxSkZkbmRsYjFaMGJ6RkJOamhQVUdsWGJHYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/107587681910639531165/reviews?hl=en-US\",\"posted_at_unix_micros\":1791097026155910,\"updated_at_unix_micros\":1791097026155910,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I had a really great experience here. The dentist incredibly professional and friendly.  I highly recommended for family and friends.\",\"text_translated\":\"\",\"published_at\":\"2026-10-04T06:57:06.15591Z\"},{\"Name\":\"winter\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJglGu736W_vVL5MkrJazxtGsMG09HghQD2bJ71u4EbllnMkA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Quality dental service so far yet so affordable. Dentists and staff are so accommodating and very approachable 🫶 will visit againn\",\"Images\":null,\"When\":\"a month ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2pscVozZHRkVGR4UXpoa1lsbGtUVzFRUkRWYVVFRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/114206021225762555950/reviews?hl=en-US\",\"posted_at_unix_micros\":1790923692194858,\"updated_at_unix_micros\":1790923692194858,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Quality dental service so far yet so affordable. Dentists and staff are so accommodating and very approachable 🫶 will visit againn\",\"text_translated\":\"\",\"published_at\":\"2026-10-02T06:48:12.194858Z\"},{\"Name\":\"Acas Nanding (akclams77)\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUgDf07_EG7UNFVJGlT8tsKt4CZT5kmqDv7zsSTonOOGIy_U-o=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"\\\"I highly recommend  DOC JASON.. The entire team is professional, the care is exceptionally gentle, and their services are very affordable. I had a great experience!\\\"\",\"Images\":null,\"When\":\"3 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2twZmRHZFNjbFZyVDJkdk1EZHNURzFpTkRRNU1VRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/101893733654571369647/reviews?hl=en-US\",\"posted_at_unix_micros\":1786788001085397,\"updated_at_unix_micros\":1786788001085397,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"\\\"I highly recommend  DOC JASON.. The entire team is professional, the care is exceptionally gentle, and their services are very affordable. I had a great experience!\\\"\",\"text_translated\":\"\",\"published_at\":\"2026-08-15T10:00:01.085397Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [],
+      "review_collection": "null",
+      "audit": {
+        "problems": [
+          {
+            "issue": "Relying exclusively on a third-party social media page (Facebook) as the primary web presence lacks brand ownership and professionalism for a healthcare practice.",
+            "impact": "Limits credibility with potential patients who expect a dedicated, professional website with secure booking and comprehensive service details.",
+            "severity": "high"
+          },
+          {
+            "issue": "Inadequate SEO and structured data for local search visibility compared to a dedicated medical practice website with local schema markup.",
+            "impact": "Reduces discoverability for high-intent local search queries like 'dentist in Manila'.",
+            "severity": "high"
+          },
+          {
+            "issue": "Absence of integrated appointment scheduling, patient intake forms, and clear service pricing or insurance details.",
+            "impact": "Increases friction for prospective patients, leading to higher drop-off rates and missed appointment bookings.",
+            "severity": "medium"
+          }
+        ],
+        "opportunities": [
+          "Develop a dedicated, mobile-responsive website featuring online appointment booking, patient testimonials, and detailed dental service pages.",
+          "Implement local SEO optimization and Google Business Profile integration to capture high-intent local patient traffic in Manila.",
+          "Showcase before-and-after case studies and practitioner credentials clearly to build immediate trust and authority."
+        ],
+        "summary": "Manila Dental Care Center currently relies solely on a Facebook business page, missing critical opportunities to establish professional credibility, capture local search traffic, and streamline patient appointment booking through a dedicated website.",
+        "url": "https://facebook.com/ManilaDentalCareCenter",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick thought on Manila Dental Care Center's online booking",
+        "body": "Hi there,\n\nI was looking up dental care options in the area and came across Manila Dental Care Center's Facebook page. While it's great for community updates, relying on social media alone can make it tough for patients to quickly check your services or book appointments online—often leading them to look elsewhere.\n\nWe actually put together a quick, lightweight website demo for you that includes integrated booking and local search setup, so new patients can find and trust you instantly.\n\nWould it be useful if I sent it over?\n\nBest,\nRahul\n\n---\nIf you'd prefer not to hear from me again, just reply 'unsubscribe' and I'll remove you right away.",
+        "provider": "gemini"
+      }
+    },
+    {
+      "input_id": "1debbe79-54df-4823-a954-7e97a745118a",
+      "link": "https://www.google.com/maps/place/Bocobo+Dental+Care+Co./data=!4m7!3m6!1s0x3397ca28c9c1f245:0x3193d9316ae85e40!8m2!3d14.578069!4d120.982349!16s%2Fg%2F11b7hdhcwl!19sChIJRfLBySjKlzMRQF7oajHZkzE?authuser=0&hl=en&g_ep=EgoyMDI2MTEyMy4wIJJjKgBIAVAD&rclk=1",
+      "title": "Bocobo Dental Care Co.",
+      "category": "Dental clinic",
+      "address": "1253 Bocobo St, Ermita, Manila, 1004 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"8 AM–5 PM\"],\"Monday\":[\"8 AM–5 PM\"],\"Saturday\":[\"8 AM–5 PM\"],\"Sunday\":[\"8 AM–5 PM\"],\"Thursday\":[\"8 AM–5 PM\"],\"Tuesday\":[\"8 AM–5 PM\"],\"Wednesday\":[\"8 AM–5 PM\"]}",
+      "popular_times": "{}",
+      "website": "http://www.bocobodentalcare.com/",
+      "phone": "+63 922 443 7318",
+      "plus_code": "HXHJ+6W Manila, Metro Manila, Philippines",
+      "review_count": "256",
+      "review_rating": "4.700000",
+      "reviews_per_rating": "{\"1\":18,\"2\":2,\"3\":0,\"4\":1,\"5\":235}",
+      "latitude": "14.578069",
+      "longitude": "120.982349",
+      "cid": "3572437735705173568",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcF2KVXrwaTGzSVdrMdbMLcc9cOTkUFVrFufjd-ydadxazAL7UXIK3dzZ1yyncBLQD8IKEtIcIMNu0MzMNNIn_WwthzABSYFQi2SP1hgq28GO_AX6Fg_YSi4tW6essGBFtSTdDqJg=w408-h306-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397ca28c9c1f245:0x3193d9316ae85e40",
+      "street_view_url": "",
+      "place_id": "ChIJRfLBySjKlzMRQF7oajHZkzE",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"116115434821131434940\",\"name\":\"Bocobo Dental Care Co. (Owner)\",\"link\":\"https://www.google.com/maps/contrib/116115434821131434940\"}",
+      "complete_address": "{\"borough\":\"Ermita\",\"street\":\"1253 Bocobo St\",\"city\":\"Manila\",\"postal_code\":\"1004\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "[{\"id\":\"accessibility\",\"name\":\"Accessibility\",\"options\":[{\"name\":\"Wheelchair accessible entrance\",\"enabled\":true},{\"name\":\"Wheelchair accessible restroom\",\"enabled\":true}]}]",
+      "user_reviews": "[{\"Name\":\"Christian Ace Ruperto\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJtPqMoz7JeDTtfdlL_ZiVHPnaunpQb8SuDpdnZ_J9aEAVuRQ=s120-c-rp-mo-br100\",\"Rating\":1,\"Description\":\"My experience with this dental clinic was extremely disappointing. It felt as though they were more interested in making money than providing proper patient care.\\n\\nI initially visited because my gums were severely swollen and extremely painful. I could feel a lump forming beneath my lower front gums, and even my chin had started to swell. During my visit, they performed four separate X-rays, which cost me ₱2,800, in addition to an ₱800 dental consultation fee. Despite paying for these X-rays, I was not even allowed to properly review the results myself. The only explanation I received was that my teeth appeared healthy, and the dentists themselves seemed confused about what was causing the swelling. In fact, two dentists had to examine my case because they could not determine the source of the problem.\\n\\nInstead of providing a clear diagnosis, they strongly pushed me to undergo a root canal procedure costing ₱20,000. They warned me that if I refused, it would take around two weeks for my gums to heal and that the swelling in my chin could worsen. Since they were unable to confidently identify the cause of my condition, I decided not to proceed immediately and told them I wanted time to think about it.\\n\\nDespite my symptoms, they did not prescribe any antibiotics or other medication that could address the swelling. They only gave me painkillers and sent me home.\\n\\nFollowing my mother’s advice, I decided to observe my condition first. To my surprise, the very next day my swelling had already improved significantly, although it had not completely disappeared. I felt well enough to return to work.\\n\\nHowever, the dental certificate they issued did not include any recommended days of rest. Since I needed documentation for work, I returned to the clinic and politely requested that they update the certificate to recommend 2–3 days of rest, explaining that I had genuinely needed time to recover. Even after I informed them that my condition was already improving, they refused. They insisted that they would only include the recommended rest days if I agreed to proceed with the ₱20,000 root canal procedure.\\n\\nI found this response to be very disappointing and inconsiderate. It felt as though the documentation I needed for work was being withheld unless I agreed to an expensive treatment that I was not yet convinced was necessary. Based on my experience, I left feeling that financial gain was prioritized over patient care and compassion.\",\"Images\":null,\"When\":\"3 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2s5MlRHd3RTRlozTjBsU09YRjNiV1ZNUm5FM1RIYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":1,\"author_url\":\"https://www.google.com/maps/contrib/111783735806280656869/reviews?hl=en-US\",\"posted_at_unix_micros\":1785212822741006,\"updated_at_unix_micros\":1785212822741006,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"My experience with this dental clinic was extremely disappointing. It felt as though they were more interested in making money than providing proper patient care.\\n\\nI initially visited because my gums were severely swollen and extremely painful. I could feel a lump forming beneath my lower front gums, and even my chin had started to swell. During my visit, they performed four separate X-rays, which cost me ₱2,800, in addition to an ₱800 dental consultation fee. Despite paying for these X-rays, I was not even allowed to properly review the results myself. The only explanation I received was that my teeth appeared healthy, and the dentists themselves seemed confused about what was causing the swelling. In fact, two dentists had to examine my case because they could not determine the source of the problem.\\n\\nInstead of providing a clear diagnosis, they strongly pushed me to undergo a root canal procedure costing ₱20,000. They warned me that if I refused, it would take around two weeks for my gums to heal and that the swelling in my chin could worsen. Since they were unable to confidently identify the cause of my condition, I decided not to proceed immediately and told them I wanted time to think about it.\\n\\nDespite my symptoms, they did not prescribe any antibiotics or other medication that could address the swelling. They only gave me painkillers and sent me home.\\n\\nFollowing my mother’s advice, I decided to observe my condition first. To my surprise, the very next day my swelling had already improved significantly, although it had not completely disappeared. I felt well enough to return to work.\\n\\nHowever, the dental certificate they issued did not include any recommended days of rest. Since I needed documentation for work, I returned to the clinic and politely requested that they update the certificate to recommend 2–3 days of rest, explaining that I had genuinely needed time to recover. Even after I informed them that my condition was already improving, they refused. They insisted that they would only include the recommended rest days if I agreed to proceed with the ₱20,000 root canal procedure.\\n\\nI found this response to be very disappointing and inconsiderate. It felt as though the documentation I needed for work was being withheld unless I agreed to an expensive treatment that I was not yet convinced was necessary. Based on my experience, I left feeling that financial gain was prioritized over patient care and compassion.\",\"text_translated\":\"\",\"reply_text_original\":\"Dear Christian,\\n\\nThank you for sharing your feedback. We are sorry to hear that your experience did not meet your expectations.\\n\\nWe would like to clarify a few points regarding your visit. You consulted our clinic for severe pain and swelling affecting multiple teeth. To ensure an accurate diagnosis, a thorough clinical examination and diagnostic X-rays were necessary. As a group practice, our dentists routinely discuss complex cases with one another because we believe collaborative decision-making leads to the safest and most appropriate treatment plan for our patients.\\n\\nBased on our findings, your condition required drainage of the infection, which is an essential part of root canal treatment. Prescribing antibiotics alone, without addressing the source of the infection through drainage when indicated, is not consistent with our standard of care and may allow the condition to worsen. Our priority has always been your health and safety, even when the recommended treatment may not align with a patient's expectations.\\n\\nRegarding your request for additional days of rest, medical and dental certificates must accurately reflect the treatment rendered and our professional clinical findings. As only a consultation and diagnostic imaging were performed during your visit, we could not ethically certify additional days of absence from work beyond what was medically justified. Issuing certificates that do not accurately represent the care provided would be contrary to our professional and legal responsibilities.\\n\\nWe respectfully disagree with the suggestion that our recommendations were financially motivated. Every decision made during your consultation was based solely on accepted clinical standards and what we believed was in your best interest.\\n\\nWe appreciate your feedback and wish you a speedy recovery. We remain committed to providing ethical, evidence-based, and patient-centered dental care to everyone who entrusts us with their health.\",\"reply_language\":\"en\",\"reply_posted_at_unix_micros\":1785218200000000,\"reply_updated_at_unix_micros\":1785218200000000,\"published_at\":\"2026-07-28T04:27:02.741006Z\"},{\"Name\":\"Ezekiel Wilson\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjWL9x6j9tAhAA5dr-_wzCVxaF6ZojKBF72ahL_Bb_weApXQzjQ=s120-c-rp-mo-ba12-br100\",\"Rating\":5,\"Description\":\"I had a great experience at Bocobo Dental Care Co.. The clinic is clean, modern, and very well organized, which made me feel comfortable as soon as I arrived. The staff were friendly and welcoming, assisting me smoothly from registration to the treatment. The dentist was professional and took the time to explain the procedure clearly, which helped me feel more relaxed during the visit. I also appreciated how gentle and careful the treatment was throughout the session. Overall, the service was efficient and very professional. I would definitely recommend Bocobo Dental Care Co. to anyone looking for reliable and quality dental care.\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLciWhfkrtGzsl-42ej_f5Ia8_jan_TF8lZ6x0IQrq2TITmhcv5YwzwyyGsZg0XO_6pT1grcixAWurl7ZPgusbayOnAijaGt1PG2OXwZdhtcXi2oWKifYUe3uTBXPFOs911f_DL7MoN4dXk=k-no\",\"https://lh3.googleusercontent.com/grass-cs/AABkmLcuGaOfR0aEzc4gRvQ9mN7lxMOPggMhVdNLPTOCzrHqz_ccXvfQt4ij6uK32U5TbliVx6F8K6DZKa3Oex_AF1NA4nhcLDWi14DdNhYrinWgj_AUBkG4QFNrjCygx-IeRSWZdLEHrfnDxvPV=k-no\"],\"When\":\"8 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2taUmJsazRaSHB3ZVc1SGRucFBWMDFQUWxkV2FrRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/108912526729099966200/reviews?hl=en-US\",\"posted_at_unix_micros\":1773640413634144,\"updated_at_unix_micros\":1773640413634144,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I had a great experience at Bocobo Dental Care Co.. The clinic is clean, modern, and very well organized, which made me feel comfortable as soon as I arrived. The staff were friendly and welcoming, assisting me smoothly from registration to the treatment. The dentist was professional and took the time to explain the procedure clearly, which helped me feel more relaxed during the visit. I also appreciated how gentle and careful the treatment was throughout the session. Overall, the service was efficient and very professional. I would definitely recommend Bocobo Dental Care Co. to anyone looking for reliable and quality dental care.\",\"text_translated\":\"\",\"published_at\":\"2026-03-16T05:53:33.634144Z\"},{\"Name\":\"EnidlareG Gomz\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUMKYJ2xM6Du5owE2mv1ovVNPSmul9U8RquBKIXLrR4Poyw2oJH=s120-c-rp-mo-ba12-br100\",\"Rating\":4,\"Description\":\"Indeed the service was exceptional. Very friendly dentist Dr Noble as well as the frontdesk staff. A bit pricey yes, but suits their service.\\n\\nAppointment is a must!\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLes-1nMXTYkBkxL022CDjaEKj__qGUeKtt3yaPt73_odjuLWiLp45enx29_rAizMJXloD--PbHZzGGRplsozZjYAX0xA1ps8WIuLSQIiApsa5en8Lmgw3NHARbxB0E8DhKMhPYpYQbSjfV1=k-no\"],\"When\":\"11 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2paUVYwbzRaVUpRWHpZMFZXVXljbTVwUms5SE1HYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":4,\"author_url\":\"https://www.google.com/maps/contrib/109772144406990981331/reviews?hl=en-US\",\"posted_at_unix_micros\":1765014172447465,\"updated_at_unix_micros\":1765014172447465,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Indeed the service was exceptional. Very friendly dentist Dr Noble as well as the frontdesk staff. A bit pricey yes, but suits their service.\\n\\nAppointment is a must!\",\"text_translated\":\"\",\"published_at\":\"2025-12-06T09:42:52.447465Z\"},{\"Name\":\"Benj Lyndon Naboa\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJAiVdyHg1NStXIQCpzMVvGB9BlBMNf0KRsXhrrQBgGLZTUfg=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Clinic is clean and staff are accommodating to your concerns. Will recommend to those looking for dental services to come and avail here.\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLePTX3WeSu3JMf3qoI5JErPVbPSAKCghbRF1oWocSbGi78_YavLg4GB67htHwOiWkqjejch5f5g36qCn1m8nDezIdVlxHlMEe8teIgAeeVe6fZkMS7jN97oNJ3uR5r8vnlt-wh_SPNWsoqc=k-no\"],\"When\":\"11 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT25saFh6SXRTM2hNV2xOeVowRnhhalpYVFZwTVdsRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/113871813548945781079/reviews?hl=en-US\",\"posted_at_unix_micros\":1766289101900839,\"updated_at_unix_micros\":1766289101900839,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Clinic is clean and staff are accommodating to your concerns. Will recommend to those looking for dental services to come and avail here.\",\"text_translated\":\"\",\"published_at\":\"2025-12-21T03:51:41.900839Z\"},{\"Name\":\"Madz DC\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjVXDSBmYGpjt95UlMYvDG0FBKVaiRBbx8xmlIfn6IraOgxOu0dWqg=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I usually get pretty anxious about going to the dentist, so when I had a dental emergency, I was honestly dreading it. The staff were super kind and helpful from the start, and the dentist was really warm and easy to talk to. She made me feel comfortable right away, walked me through everything, and kept checking in to make sure I was okay. Dr. Kaye  also took her time and made sure the work was done properly, which I really appreciated.\",\"Images\":null,\"When\":\"a year ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2pSU1pVRnRRa1F4Tkc0NFR6SmliRTVTZEdaZlozYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/109694984320507417720/reviews?hl=en-US\",\"posted_at_unix_micros\":1756590869859900,\"updated_at_unix_micros\":1756590869859900,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I usually get pretty anxious about going to the dentist, so when I had a dental emergency, I was honestly dreading it. The staff were super kind and helpful from the start, and the dentist was really warm and easy to talk to. She made me feel comfortable right away, walked me through everything, and kept checking in to make sure I was okay. Dr. Kaye  also took her time and made sure the work was done properly, which I really appreciated.\",\"text_translated\":\"\",\"published_at\":\"2025-08-30T21:54:29.8599Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [
+        "bocobodental@yahoo.com.ph",
+        "bocobodentalschedules@gmail.com"
+      ],
+      "review_collection": "null",
+      "audit": {
+        "problems": [
+          {
+            "issue": "Heavy reliance on heavy JavaScript frameworks and polyfills (Wix Thunderbolt platform) which can slow down initial page rendering and Time to Interactive (TTI).",
+            "impact": "Slower load times can increase bounce rates, especially for mobile users with slower connections.",
+            "severity": "medium"
+          },
+          {
+            "issue": "Truncated HTML and heavy dynamic client-side rendering architecture may hinder optimal SEO indexing by search engine crawlers.",
+            "impact": "Potential loss of organic search visibility and lower rankings for local dental care search queries.",
+            "severity": "medium"
+          }
+        ],
+        "opportunities": [
+          "Implement structured data (schema markup for Dentist and LocalBusiness) to enhance local search snippets and Google Maps integration.",
+          "Optimize and compress high-resolution static media assets served via Wix static storage to improve Core Web Vitals (LCP and CLS).",
+          "Add a prominent, conversion-focused Call-to-Action (such as 'Book an Appointment' or click-to-call) directly in the header viewport."
+        ],
+        "summary": "The website is built on the Wix platform, ensuring standard responsive structure and icon sets, but suffers from potential performance overhead due to complex client-side rendering bundles. Focusing on technical SEO schema implementation and mobile conversion optimization will drive better patient acquisition.",
+        "url": "http://www.bocobodentalcare.com/",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick thought on your site's load speed",
+        "body": "Hi there,\n\nI was looking over the Bocobo Dental Care Co. site and love the clean layout you have for patients.\n\nI noticed that because it runs on a heavy client-side framework, the initial page load can lag a bit—especially on mobile. That small delay tends to push potential patients away before they even see your services, and it can quietly hurt your local search visibility.\n\nWe put together a quick, lightweight demo showing how much faster it could run. Would it be useful if I sent it over?\n\nBest,\nRahul\n\n---\nIf you'd prefer not to hear from me again, just reply 'unsubscribe' and I'll remove you right away.",
+        "provider": "gemini"
+      }
+    }
+  ],
+  "store_stats": {
+    "new": 2
+  }
+}
