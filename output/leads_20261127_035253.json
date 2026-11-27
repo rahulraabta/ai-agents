@@ -1,0 +1,155 @@
+{
+  "success": true,
+  "query": "dental clinic in Manila",
+  "started": "2026-11-27T03:52:07.842200",
+  "finished": "2026-11-27T03:52:53.207891",
+  "scraped_count": 6,
+  "skipped_known": 0,
+  "enriched_count": 2,
+  "leads": [
+    {
+      "input_id": "854b4e50-34ad-4134-975f-d434390101b1",
+      "link": "https://www.google.com/maps/place/Manila+Dental+Care+Center/data=!4m7!3m6!1s0x3397cbc5e45a7fa5:0x65213b00e0339424!8m2!3d14.5899872!4d120.9775551!16s%2Fg%2F11kj6pg9kh!19sChIJpX9a5MXLlzMRJJQz4AA7IWU?authuser=0&hl=en&g_ep=EgoyMDI2MTEyMy4wIJJjKgBIAVAD&rclk=1",
+      "title": "Manila Dental Care Center",
+      "category": "Dental clinic",
+      "address": "Unit 2, Manila Dental Care Center, 613 Solana St, Barangay 658, Intramuros, Manila, 1002 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"9 AM–7 PM\"],\"Monday\":[\"9 AM–7 PM\"],\"Saturday\":[\"9 AM–7 PM\"],\"Sunday\":[\"12–6 PM\"],\"Thursday\":[\"9 AM–7 PM\"],\"Tuesday\":[\"9 AM–7 PM\"],\"Wednesday\":[\"9 AM–7 PM\"]}",
+      "popular_times": "{}",
+      "website": "https://facebook.com/ManilaDentalCareCenter",
+      "phone": "+63 906 569 5786",
+      "plus_code": "HXQH+X2 Manila, Metro Manila, Philippines",
+      "review_count": "16",
+      "review_rating": "4.000000",
+      "reviews_per_rating": "{\"1\":4,\"2\":0,\"3\":0,\"4\":0,\"5\":12}",
+      "latitude": "14.589987",
+      "longitude": "120.977555",
+      "cid": "7287170547009688612",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfycUxVr3gSHVM2av8W_UasXAidVMk8L6erGHZM_ci5i5Pb8ezOV6vWiallmna36vRHmp40RCOkDxf4ION3-K1B-I63V1gEBoyt4O2b0Y-sBQkFtR2BHu8sdxPWRedQPn2mzl070WHOOf0=w408-h544-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397cbc5e45a7fa5:0x65213b00e0339424",
+      "street_view_url": "",
+      "place_id": "ChIJpX9a5MXLlzMRJJQz4AA7IWU",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"117219901928819954223\",\"name\":\"Manila Dental Care Center (Owner)\",\"link\":\"https://www.google.com/maps/contrib/117219901928819954223\"}",
+      "complete_address": "{\"borough\":\"Barangay 658, Intramuros\",\"street\":\"Unit 2, 613 Solana St\",\"city\":\"Manila\",\"postal_code\":\"1002\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"Alejandra Miranda\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJaCn3ndRI4By6_1CWixHeeqeNqGUVldeOjPDe8JcXJ_6VZPQ=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I highly recommend this clinic. The staff and dentist are kind. The price is very affordable. I will definitely back for my next cleaning.\",\"Images\":null,\"When\":\"a month ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT25aNE5saHVjMEZuYm0xWWNHaHBORVZrWVZsVk5XYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/113213491636597719737/reviews?hl=en-US\",\"posted_at_unix_micros\":1791096069098806,\"updated_at_unix_micros\":1791096069098806,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I highly recommend this clinic. The staff and dentist are kind. The price is very affordable. I will definitely back for my next cleaning.\",\"text_translated\":\"\",\"published_at\":\"2026-10-04T06:41:09.098806Z\"},{\"Name\":\"Lakas Lakasan\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJzdPjrRCDLIhJG5bkYT4vRcdXt_6saCjIsoPgjJfd6o92GrA=s120-c-rp-mo-br100\",\"Rating\":1,\"Description\":\"I am deeply disappointed with the unprofessional care I received at this practice. During my treatment, the dentist caused severe, lasting trauma to both my gums and my jaw. Instead of addressing the issues or practicing proper technique, the procedure was handled carelessly, leaving me in severe pain and requiring corrective care from another specialist.\",\"Images\":null,\"When\":\"2 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21SQlZHcG1RbkV4VERkSmVsQmFMWHBJUzNkclZIYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":1,\"author_url\":\"https://www.google.com/maps/contrib/117988226078354587960/reviews?hl=en-US\",\"posted_at_unix_micros\":1790339636823533,\"updated_at_unix_micros\":1790339636823533,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I am deeply disappointed with the unprofessional care I received at this practice. During my treatment, the dentist caused severe, lasting trauma to both my gums and my jaw. Instead of addressing the issues or practicing proper technique, the procedure was handled carelessly, leaving me in severe pain and requiring corrective care from another specialist.\",\"text_translated\":\"\",\"published_at\":\"2026-09-25T12:33:56.823533Z\"},{\"Name\":\"k Fm\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUXqJ5TGE8lrzKWmztqNbFUyk54sSHS-nkeua-fSEXZu_w4RZ1a2g=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I had a really great experience here. The dentist incredibly professional and friendly.  I highly recommended for family and friends.\",\"Images\":null,\"When\":\"a month ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT21aV1oxSkZkbmRsYjFaMGJ6RkJOamhQVUdsWGJHYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/107587681910639531165/reviews?hl=en-US\",\"posted_at_unix_micros\":1791097026155910,\"updated_at_unix_micros\":1791097026155910,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I had a really great experience here. The dentist incredibly professional and friendly.  I highly recommended for family and friends.\",\"text_translated\":\"\",\"published_at\":\"2026-10-04T06:57:06.15591Z\"},{\"Name\":\"winter\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a/ACg8ocJglGu736W_vVL5MkrJazxtGsMG09HghQD2bJ71u4EbllnMkA=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Quality dental service so far yet so affordable. Dentists and staff are so accommodating and very approachable 🫶 will visit againn\",\"Images\":null,\"When\":\"a month ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2pscVozZHRkVGR4UXpoa1lsbGtUVzFRUkRWYVVFRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/114206021225762555950/reviews?hl=en-US\",\"posted_at_unix_micros\":1790923692194858,\"updated_at_unix_micros\":1790923692194858,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Quality dental service so far yet so affordable. Dentists and staff are so accommodating and very approachable 🫶 will visit againn\",\"text_translated\":\"\",\"published_at\":\"2026-10-02T06:48:12.194858Z\"},{\"Name\":\"Acas Nanding (akclams77)\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUgDf07_EG7UNFVJGlT8tsKt4CZT5kmqDv7zsSTonOOGIy_U-o=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"\\\"I highly recommend  DOC JASON.. The entire team is professional, the care is exceptionally gentle, and their services are very affordable. I had a great experience!\\\"\",\"Images\":null,\"When\":\"3 months ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2twZmRHZFNjbFZyVDJkdk1EZHNURzFpTkRRNU1VRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/101893733654571369647/reviews?hl=en-US\",\"posted_at_unix_micros\":1786788001085397,\"updated_at_unix_micros\":1786788001085397,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"\\\"I highly recommend  DOC JASON.. The entire team is professional, the care is exceptionally gentle, and their services are very affordable. I had a great experience!\\\"\",\"text_translated\":\"\",\"published_at\":\"2026-08-15T10:00:01.085397Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [],
+      "review_collection": "null",
+      "audit": {
+        "problems": [
+          {
+            "issue": "Relying solely on a social media profile (Facebook) as the primary web presence limits brand authority and control over the user experience.",
+            "impact": "Prospective patients may perceive the practice as less established or professional compared to competitors with dedicated websites.",
+            "severity": "high"
+          },
+          {
+            "issue": "Absence of structured local business schema markup and dedicated landing pages hinders local search engine optimization (SEO) performance.",
+            "impact": "Missed opportunities to capture high-intent local search traffic for dental services in Manila.",
+            "severity": "high"
+          },
+          {
+            "issue": "Lack of an integrated online booking or appointment scheduling system on the primary landing page.",
+            "impact": "Creates friction for prospective patients looking to book consultations outside of business hours, potentially leading to lost leads.",
+            "severity": "medium"
+          }
+        ],
+        "opportunities": [
+          "Develop a dedicated, mobile-responsive business website with integrated online booking and patient intake forms.",
+          "Implement local SEO strategies, including Google Business Profile optimization and location-specific landing pages.",
+          "Publish patient testimonials and before-and-after case studies to build trust and social proof."
+        ],
+        "summary": "Manila Dental Care Center currently relies on a Facebook page as its main web presence, which limits professional credibility, SEO visibility, and conversion capabilities. Transitioning to a dedicated website with integrated booking and robust local SEO will significantly improve lead generation and patient acquisition.",
+        "url": "https://facebook.com/ManilaDentalCareCenter",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick thought on Manila Dental Care Center's online booking",
+        "body": "Hi there,\n\nI was looking over the Manila Dental Care Center Facebook page and noticed how active your community is. \n\nHowever, relying entirely on social media can make it tough for patients trying to book appointments after hours, and it often means missing out on local Google searches when people are looking for a dentist in Manila.\n\nWe actually put together a quick, lightweight website concept for you with built-in online scheduling to make booking seamless.\n\nWould it be useful if I sent it over?\n\nBest,\nRahul\n\n---\nIf you'd prefer not to hear from me again, just reply 'unsubscribe' and I'll remove you right away.",
+        "provider": "gemini"
+      }
+    },
+    {
+      "input_id": "854b4e50-34ad-4134-975f-d434390101b1",
+      "link": "https://www.google.com/maps/place/Uy+Dental+Clinic+%28UDC%29+Dapitan/data=!4m7!3m6!1s0x3397b7114d3c9dc9:0x216a13307294a1ec!8m2!3d14.6135147!4d120.9903213!16s%2Fg%2F11j340kdzc!19sChIJyZ08TRG3lzMR7KGUcjATaiE?authuser=0&hl=en&g_ep=EgoyMDI2MTEyMy4wIJJjKgBIAVAD&rclk=1",
+      "title": "Uy Dental Clinic (UDC) Dapitan",
+      "category": "Dental clinic",
+      "address": "Dapitan, cor Dos Castillas St, Sampaloc, Manila, 1008 Metro Manila, Philippines",
+      "open_hours": "{\"Friday\":[\"9 AM–4:30 PM\"],\"Monday\":[\"9 AM–4:30 PM\"],\"Saturday\":[\"9 AM–4:30 PM\"],\"Sunday\":[\"9 AM–4:30 PM\"],\"Thursday\":[\"9 AM–4:30 PM\"],\"Tuesday\":[\"9 AM–4:30 PM\"],\"Wednesday\":[\"9 AM–4:30 PM\"]}",
+      "popular_times": "{}",
+      "website": "http://www.uydental.com/",
+      "phone": "+63 917 324 1085",
+      "plus_code": "JX7R+C4 Manila, Metro Manila, Philippines",
+      "review_count": "41",
+      "review_rating": "4.900000",
+      "reviews_per_rating": "{\"1\":1,\"2\":0,\"3\":0,\"4\":0,\"5\":40}",
+      "latitude": "14.613515",
+      "longitude": "120.990321",
+      "cid": "2407758049584652780",
+      "status": "",
+      "descriptions": "",
+      "reviews_link": "",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcFlHUg6QfDElKmBpnwvs9yTz63_HI2d6kyz9vjG0T1o7nluwFYwTIZvxW86W-hiP19FBcG_SDpGzQmc4GLuvLH4-lM75rqOFpapZgAgttLDMJuAbbOHHEvkwnNOGNUcEYYrnN=w408-h408-k-no",
+      "timezone": "Asia/Manila",
+      "price_range": "",
+      "data_id": "0x3397b7114d3c9dc9:0x216a13307294a1ec",
+      "street_view_url": "",
+      "place_id": "ChIJyZ08TRG3lzMR7KGUcjATaiE",
+      "images": "[]",
+      "reservations": "null",
+      "order_online": "null",
+      "menu": "{\"link\":\"\",\"source\":\"\"}",
+      "owner": "{\"id\":\"100880548751547656571\",\"name\":\"Uy Dental Clinic (UDC) Dapitan (Owner)\",\"link\":\"https://www.google.com/maps/contrib/100880548751547656571\"}",
+      "complete_address": "{\"borough\":\"Sampaloc\",\"street\":\"Dapitan, cor Dos Castillas St\",\"city\":\"Manila\",\"postal_code\":\"1008\",\"state\":\"Metro Manila\",\"country\":\"PH\"}",
+      "credit_cards_accepted": "",
+      "about": "null",
+      "user_reviews": "[{\"Name\":\"Doreen Grace Farrales\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjW91CAAXhV9u0n7KP8nZ1tKYJ9SpzMXCDKsarFNailxOAYNr1Bm=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Dr. Gio really is the best! He is thorough, thoughtful, meticulous, and he genuinely cares about his patients in a way that I have never experienced in any other office. I would absolutely recommend him to anyone who wants a better smile.\",\"Images\":[\"https://lh3.googleusercontent.com/grass-cs/AABkmLdcfsDI8MSRCr3nA66BKMcQo23uqfmIZpeKvZXcmjgoOg9vmKXCZwCutMZu68at6bES_EwI2ZZ4Ju0TPgD1szfD58pifhnpBqEZXVOVBxojrUWDE6IuBM6tzZUeq9Twjm3cHX4=k-no\"],\"When\":\"2 years ago\",\"review_id\":\"ChZDSUhNMG9nS0VJQ0FnSUNiNE82WE5REAE\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/110030706459832851579/reviews?hl=en-US\",\"posted_at_unix_micros\":1721633935518962,\"updated_at_unix_micros\":1721634523215844,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Dr. Gio really is the best! He is thorough, thoughtful, meticulous, and he genuinely cares about his patients in a way that I have never experienced in any other office. I would absolutely recommend him to anyone who wants a better smile.\",\"text_translated\":\"\",\"published_at\":\"2024-07-22T07:38:55.518962Z\"},{\"Name\":\"Gionard Josh Medina\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUlsVbNWL351BPEQzIivRjCWt7BPAgSntBb60bNio5lYIQPOdGw=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Dapitan Branch - The dental service was excellent. The dentist was very professional and gentle during the procedure. The clinic was clean and comfortable, and the staff were friendly.\",\"Images\":null,\"When\":\"a year ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2t4WVRXaFdhR2wyTjJOcGVtVm5aMkpFYUVsMVgwRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/110165086996094891456/reviews?hl=en-US\",\"posted_at_unix_micros\":1757125522600759,\"updated_at_unix_micros\":1757125522600759,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Dapitan Branch - The dental service was excellent. The dentist was very professional and gentle during the procedure. The clinic was clean and comfortable, and the staff were friendly.\",\"text_translated\":\"\",\"published_at\":\"2025-09-06T02:25:22.600759Z\"},{\"Name\":\"RHONULFO GREEKO FAMA\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjXT7KiH5AUfRH7tfarLPb9tdQg5WnCg04119M43ima6cEK5_0Y=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"I highly recommend UDC Dapitan Branch. They are very accommodating and very thorough in their work. Thank you so much for your service, especially for helping me understand how your services are delivered and answering all questions/concerns that came to mind.\",\"Images\":null,\"When\":\"a year ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xKcmRVaE1UMXB5YVdSa1NtOHlhalI1VUhwek5FRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/104406646165226957596/reviews?hl=en-US\",\"posted_at_unix_micros\":1751098090442755,\"updated_at_unix_micros\":1751098090442755,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"I highly recommend UDC Dapitan Branch. They are very accommodating and very thorough in their work. Thank you so much for your service, especially for helping me understand how your services are delivered and answering all questions/concerns that came to mind.\",\"text_translated\":\"\",\"published_at\":\"2025-06-28T08:08:10.442755Z\"},{\"Name\":\"mikasa ackerman\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUajRtxQCF-7-beXsg1LL2Ws6jqCSbAwU0lynkFQ9Z7Jt1v9HI=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Highly recommended this Dapitan Branch, staffs and doctors are accommodating and nice! The procedure was also fast and neat lang din.\",\"Images\":null,\"When\":\"a year ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2xwNFNpMTFOWEZTUnpkRlNWRk5YMk42WjFkUWFtYxAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/113933002230801933418/reviews?hl=en-US\",\"posted_at_unix_micros\":1757933680172337,\"updated_at_unix_micros\":1757933680172337,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Highly recommended this Dapitan Branch, staffs and doctors are accommodating and nice! The procedure was also fast and neat lang din.\",\"text_translated\":\"\",\"published_at\":\"2025-09-15T10:54:40.172337Z\"},{\"Name\":\"Janiela Rose Ramirez\",\"ProfilePicture\":\"https://lh3.googleusercontent.com/a-/ALV-UjUqvYUnotC5UOOsLtvMDYpK0kuWsah43naQyJQvkiVxOwj6Qpc=s120-c-rp-mo-br100\",\"Rating\":5,\"Description\":\"Excellent service and very friendly staff! The dentist was gentle and explained everything . Highly recommended Dapitan Branch!\",\"Images\":null,\"When\":\"a year ago\",\"review_id\":\"Ci9DQUlRQUNvZENodHljRjlvT2taSVoySTFaVEJGYlRoc1FURnBZemxxUlVSWmIxRRAB\",\"source\":\"Google\",\"rating_scale\":5,\"rating_float\":5,\"author_url\":\"https://www.google.com/maps/contrib/111638978412317565025/reviews?hl=en-US\",\"posted_at_unix_micros\":1754126960721939,\"updated_at_unix_micros\":1754126960721939,\"language\":\"en\",\"translated_lang\":\"\",\"text_original\":\"Excellent service and very friendly staff! The dentist was gentle and explained everything . Highly recommended Dapitan Branch!\",\"text_translated\":\"\",\"published_at\":\"2025-08-02T09:29:20.721939Z\"}]",
+      "user_reviews_extended": "null",
+      "emails": [],
+      "review_collection": "null",
+      "audit": {
+        "problems": [
+          {
+            "issue": "Bot protection or security challenge page blocking direct access",
+            "impact": "Legitimate visitors and search engine crawlers are presented with a 'Please wait' verification screen, preventing them from viewing the dental practice's services, contact info, or booking options, leading to an immediate bounce and loss of potential patients.",
+            "severity": "high"
+          },
+          {
+            "issue": "Client-side JavaScript redirect and auto-reload loop",
+            "impact": "The page is programmed to automatically reload every 5 seconds via JavaScript timeout, which creates a frustrating user experience and can trap users in a continuous refresh loop if verification fails.",
+            "severity": "high"
+          },
+          {
+            "issue": "Lack of server-rendered fallback content for non-JS clients",
+            "impact": "Search engine bots that do not fully execute complex verification scripts will fail to index the website content, severely harming organic search visibility and local SEO rankings.",
+            "severity": "medium"
+          }
+        ],
+        "opportunities": [
+          "Implement server-side bot mitigation (such as enterprise edge firewalls) that reduces friction for genuine human visitors and search engine crawlers.",
+          "Ensure core dental practice information (phone number, address, services) is accessible or properly indexed to avoid losing appointment leads during security checks."
+        ],
+        "summary": "The website currently serves a strict anti-bot verification and JavaScript challenge screen instead of the actual dental practice content. This blocks potential patients and search engine crawlers, severely impacting online visibility, user acquisition, and conversion rates.",
+        "url": "http://www.uydental.com/",
+        "business_type": "business"
+      },
+      "outreach": {
+        "subject": "Quick note about uydental.com's visitor access",
+        "body": "Hi there,\n\nI was just looking up local dental care and clicked over to Uy Dental Clinic's site. Instead of your practice details, I hit a strict security verification screen and an auto-reload loop that kept refreshing the page every few seconds.\n\nUnfortunately, potential patients and Google's search crawlers are hitting the exact same wall, which means the site is currently hidden from people trying to find your services.\n\nWe've actually put together a quick, clean demo of how this looks fixed. Would it be useful if I sent it over?\n\nBest,\nRahul\n\n---\nIf you'd prefer not to hear from me again, just reply 'unsubscribe' and I'll remove you right away.",
+        "provider": "gemini"
+      }
+    }
+  ],
+  "store_stats": {
+    "new": 2
+  }
+}
